@@ -1,0 +1,37 @@
+name: Update
+
+on:
+  issues:
+    types: [opened]
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  execute_main_py:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Update papers
+      run: |
+        python main.py
+
+    - name: Commit and push changes
+      uses: github-actions-x/commit@v2.9
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: 'master'
+        commit-message: '✏️ Update papers automatically.'
+        force-add: 'true'
+        files: README.md
+        name: Zezhishao
+        email: 864453277@qq.com
