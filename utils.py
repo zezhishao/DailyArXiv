@@ -7,7 +7,7 @@ from easydict import EasyDict
 def request_paper_with_arXiv_api(keyword: str, max_results: int) -> List[Dict[str, str]]:
     # keyword = keyword.replace(" ", "+")
     keyword = "\"" + keyword + "\""
-    url = "http://export.arxiv.org/api/query?search_query=ti:{0}+OR+abs:{0}&max_results={1}&sortBy=submittedDate".format(keyword, max_results)
+    url = "http://export.arxiv.org/api/query?search_query=ti:{0}+OR+abs:{0}&max_results={1}&sortBy=lastUpdatedDate".format(keyword, max_results)
     url = urllib.parse.quote(url, safe="%/:=&?~#+!$,;'@()*[]")
     response = urllib.request.urlopen(url).read().decode('utf-8')
     feed = feedparser.parse(response)

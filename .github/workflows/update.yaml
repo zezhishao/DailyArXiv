@@ -1,10 +1,15 @@
 name: Update
 
 on:
-  issues:
-    types: [opened]
+  label:
+    types:
+      - created # for test
   schedule:
     - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+  issues: write 
 
 jobs:
   execute_main_py:
@@ -35,3 +40,8 @@ jobs:
         files: README.md
         name: Zezhishao
         email: 864453277@qq.com
+
+    - name: Create an issue to notify
+      uses: JasonEtco/create-an-issue@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
