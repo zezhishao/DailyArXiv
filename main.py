@@ -25,4 +25,4 @@ with open("README.md", "w") as f:
         table = generate_table(papers)
         f.write(table)
         f.write("\n\n")
-        time.sleep(30) # avoid being blocked by arXiv API
+        time.sleep(310) # avoid being blocked by arXiv API
