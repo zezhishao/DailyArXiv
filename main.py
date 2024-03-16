@@ -1,5 +1,8 @@
+import sys
 import time
-from utils import get_daily_papers_by_keyword, generate_table, back_up_files, restore_files, remove_backups, get_daily_date
+
+from utils import get_daily_papers_by_keyword, generate_table, back_up_files,\
+    restore_files, remove_backups, get_daily_date
 
 
 keywords = ["Time Series"] # TODO add more keywords
@@ -36,7 +39,7 @@ for keyword in keywords:
         f_rm.close()
         f_is.close()
         restore_files() # restore README.md and ISSUE_TEMPLATE.md
-        exit(-1)
+        sys.exit("ArXiv API Limit Exceeded!")
     rm_table = generate_table(papers)
     is_table = generate_table(papers[:issues_result])
     f_rm.write(rm_table)
