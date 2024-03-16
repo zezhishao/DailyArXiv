@@ -120,3 +120,11 @@ def remove_backups():
     # remove README.md and ISSUE_TEMPLATE.md
     os.remove("README.md.bk")
     os.remove(".github/ISSUE_TEMPLATE.md.bk")
+
+def get_daily_date():
+    # if tody is March 2, 2021,
+    # return March 1, 2021
+    import datetime
+    today = datetime.date.today()
+    yesterday = today - datetime.timedelta(days=1)
+    return yesterday.strftime("%B %d, %Y")

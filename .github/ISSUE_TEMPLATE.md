@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - {{ date | date('MMMM D, YYYY') }}
+title: Latest 15 Papers - March 15, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and compatibility.**

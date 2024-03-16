@@ -1,5 +1,5 @@
 import time
-from utils import get_daily_papers_by_keyword, generate_table, back_up_files, restore_files, remove_backups
+from utils import get_daily_papers_by_keyword, generate_table, back_up_files, restore_files, remove_backups, get_daily_date
 
 
 keywords = ["Time Series"] # TODO add more keywords
@@ -22,7 +22,7 @@ f_rm.write("This project only retains the latest papers, with a maximum of 100 p
 # write to ISSUE_TEMPLATE.md
 f_is = open(".github/ISSUE_TEMPLATE.md", "w") # file for ISSUE_TEMPLATE.md
 f_is.write("---\n")
-f_is.write("title: Latest {0} Papers - {{{{ date | date('MMMM D, YYYY') }}}}\n".format(issues_result))
+f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
 f_is.write("labels: documentation\n")
 f_is.write("---\n")
 f_is.write("**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and compatibility.**\n\n")
