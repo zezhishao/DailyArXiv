@@ -20,7 +20,7 @@ back_up_files() # back up README.md and ISSUE_TEMPLATE.md
 # write to README.md
 f_rm = open("README.md", "w") # file for README.md
 f_rm.write("# Daily Papers\n")
-f_rm.write("The project automatically fetches the latest papers from arXiv based on keywords.\n\nThe subheadings in the Markdown file represent the search keywords.\n\nOnly the most recent articles for each keyword are retained, up to a maximum of 100 papers.\n\nYou can click the 'Watch' button to receive daily email notifications.\n\n")
+f_rm.write("The project automatically fetches the latest papers from arXiv based on keywords.\n\nThe subheadings in the README file represent the search keywords.\n\nOnly the most recent articles for each keyword are retained, up to a maximum of 100 papers.\n\nYou can click the 'Watch' button to receive daily email notifications.\n\n")
 
 # write to ISSUE_TEMPLATE.md
 f_is = open(".github/ISSUE_TEMPLATE.md", "w") # file for ISSUE_TEMPLATE.md
