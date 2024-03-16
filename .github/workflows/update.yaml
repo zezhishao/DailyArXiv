@@ -5,14 +5,14 @@ on:
     types:
       - created # for test
   schedule:
-    - cron: '0 0 * * *'
+      - cron: '30 1 * * *'  # run at 9:30 AM Beijing Time
 
 permissions:
   contents: write
   issues: write 
 
 jobs:
-  execute_main_py:
+  update_daily_papers:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
