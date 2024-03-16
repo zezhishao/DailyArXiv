@@ -1,5 +1,5 @@
 import time
-from utils import get_daily_papers_by_keyword, generate_table
+from utils import get_daily_papers_by_keyword, generate_table, back_up_files, restore_files, remove_backups
 
 
 keywords = ["Time Series"] # TODO add more keywords
@@ -11,6 +11,8 @@ issues_result = 15 # maximum papers to be included in the issue
 # fixed_columns = ["Title", "Link", "Date"]
 
 column_names = ["Title", "Link", "Abstract", "Date", "Comment"]
+
+back_up_files() # back up README.md and ISSUE_TEMPLATE.md
 
 # write to README.md
 f_rm = open("README.md", "w") # file for README.md
@@ -31,7 +33,10 @@ for keyword in keywords:
     papers = get_daily_papers_by_keyword(keyword, column_names, max_result)
     if len(papers) == 0:
         print("ArXiv API Limit Exceeded!\n")
-        break
+        f_rm.close()
+        f_is.close()
+        restore_files() # restore README.md and ISSUE_TEMPLATE.md
+        exit(-1)
     rm_table = generate_table(papers)
     is_table = generate_table(papers[:issues_result])
     f_rm.write(rm_table)
@@ -42,3 +47,4 @@ for keyword in keywords:
 
 f_rm.close()
 f_is.close()
+remove_backups()

@@ -1,3 +1,6 @@
+import os
+import shutil
+
 import feedparser
 from typing import List, Dict
 import urllib, urllib.request
@@ -102,3 +105,18 @@ def generate_table(papers: List[Dict[str, str]]) -> str:
     for paper in formatted_papers:
         body += "\n| " + " | ".join(paper.values()) + " |"
     return header + body
+
+def back_up_files():
+    # back up README.md and ISSUE_TEMPLATE.md
+    shutil.move("README.md", "README.md.bk")
+    shutil.move(".github/ISSUE_TEMPLATE.md", ".github/ISSUE_TEMPLATE.md.bk")
+
+def restore_files():
+    # restore README.md and ISSUE_TEMPLATE.md
+    shutil.move("README.md.bk", "README.md")
+    shutil.move(".github/ISSUE_TEMPLATE.md.bk", ".github/ISSUE_TEMPLATE.md")
+
+def remove_backups():
+    # remove README.md and ISSUE_TEMPLATE.md
+    os.remove("README.md.bk")
+    os.remove(".github/ISSUE_TEMPLATE.md.bk")
