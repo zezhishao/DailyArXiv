@@ -5,7 +5,7 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '30 1 * * 1-5'  # run at 6:00 AM Beijing Time from Monday to Friday
+      - cron: '0 * * * 1-5'  # run hourly from Monday to Friday
 
 permissions:
   contents: write
@@ -37,7 +37,7 @@ jobs:
         push-branch: 'master'
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
-        files: README.md
+        files: README.md .github/ISSUE_TEMPLATE.md
         name: Zezhishao
         email: 864453277@qq.com
 
