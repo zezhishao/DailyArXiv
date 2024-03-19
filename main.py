@@ -20,8 +20,7 @@ with open("README.md", "r") as f:
         if "Last update:" in line: break
     last_update_date = line.split(": ")[1].strip()
     if last_update_date == current_date:
-        print("Already updated today!")
-        sys.exit()
+        sys.exit("Already updated today!")
 
 keywords = ["Time Series"] # TODO add more keywords
 
