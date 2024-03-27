@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     if last_update_date == current_date:
         sys.exit("Already updated today!")
 
-keywords = ["Time Series"] # TODO add more keywords
+keywords = ["Time Series", "Graph Neural Networks"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
@@ -58,12 +58,12 @@ for keyword in keywords:
         restore_files() # restore README.md and ISSUE_TEMPLATE.md
         sys.exit("ArXiv API Limit Exceeded!")
     rm_table = generate_table(papers)
-    is_table = generate_table(papers[:issues_result])
+    is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
     f_rm.write(rm_table)
     f_rm.write("\n\n")
     f_is.write(is_table)
     f_is.write("\n\n")
-    time.sleep(30) # avoid being blocked by arXiv API
+    time.sleep(5) # avoid being blocked by arXiv API
 
 f_rm.close()
 f_is.close()

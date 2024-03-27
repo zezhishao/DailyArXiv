@@ -7,6 +7,9 @@ import feedparser
 from easydict import EasyDict
 
 
+def remove_duplicated_spaces(text: str) -> str:
+    return " ".join(text.split())
+
 def request_paper_with_arXiv_api(keyword: str, max_results: int) -> List[Dict[str, str]]:
     # keyword = keyword.replace(" ", "+")
     keyword = "\"" + keyword + "\""
@@ -22,17 +25,17 @@ def request_paper_with_arXiv_api(keyword: str, max_results: int) -> List[Dict[st
         paper = EasyDict()
 
         # title
-        paper.Title = entry.title.replace("\n", " ")
+        paper.Title = remove_duplicated_spaces(entry.title.replace("\n", " "))
         # abstract
-        paper.Abstract = entry.summary.replace("\n", " ")
+        paper.Abstract = remove_duplicated_spaces(entry.summary.replace("\n", " "))
         # authors
-        paper.Authors = [_["name"].replace("\n", " ") for _ in entry.authors]
+        paper.Authors = [remove_duplicated_spaces(_["name"].replace("\n", " ")) for _ in entry.authors]
         # link
-        paper.Link = entry.link.replace("\n", " ")
+        paper.Link = remove_duplicated_spaces(entry.link.replace("\n", " "))
         # tags
-        paper.Tags = [_["term"].replace("\n", " ") for _ in entry.tags]
+        paper.Tags = [remove_duplicated_spaces(_["term"].replace("\n", " ")) for _ in entry.tags]
         # comment
-        paper.Comment = entry.get("arxiv_comment", "").replace("\n", " ")
+        paper.Comment = remove_duplicated_spaces(entry.get("arxiv_comment", "").replace("\n", " "))
         # date
         paper.Date = entry.updated
 
@@ -60,7 +63,7 @@ def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_resul
     papers = [{column_name: paper[column_name] for column_name in column_names} for paper in papers]
     return papers
 
-def generate_table(papers: List[Dict[str, str]]) -> str:
+def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) -> str:
     formatted_papers = []
     keys = papers[0].keys()
     for paper in papers:
@@ -73,7 +76,7 @@ def generate_table(papers: List[Dict[str, str]]) -> str:
         
         # process other columns
         for key in keys:
-            if key in ["Title", "Link", "Date"]:
+            if key in ["Title", "Link", "Date"] or key in ignore_keys:
                 continue
             elif key == "Abstract":
                 # add show/hide button for abstract
