@@ -95,6 +95,8 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
                     formatted_paper[key] = ""
                 elif len(paper[key]) > 20:
                     formatted_paper[key] = "<details><summary>{0}...</summary><p>{1}</p></details>".format(paper[key][:5], paper[key])
+                else:
+                    formatted_paper[key] = paper[key]
         formatted_papers.append(formatted_paper)
 
     # generate header
