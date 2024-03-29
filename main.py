@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     if last_update_date == current_date:
         sys.exit("Already updated today!")
 
-keywords = ["Time Series", "Graph Neural Networks"] # TODO add more keywords
+keywords = ["Time Series", "Trajectory", "Graph Neural Networks"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
@@ -50,7 +50,9 @@ f_is.write("**Please check the [Github](https://github.com/zezhishao/MTS_Daily_A
 for keyword in keywords:
     f_rm.write("## {0}\n".format(keyword))
     f_is.write("## {0}\n".format(keyword))
-    papers = get_daily_papers_by_keyword(keyword, column_names, max_result)
+    if len(keyword.split()) == 1: link = "AND" # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
+    else: link = "OR"
+    papers = get_daily_papers_by_keyword(keyword, column_names, max_result, link)
     if len(papers) == 0:
         print("ArXiv API Limit Exceeded!\n")
         f_rm.close()
