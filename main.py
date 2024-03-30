@@ -3,7 +3,7 @@ import time
 import pytz
 from datetime import datetime
 
-from utils import get_daily_papers_by_keyword, generate_table, back_up_files,\
+from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_files,\
     restore_files, remove_backups, get_daily_date
 
 
@@ -52,13 +52,13 @@ for keyword in keywords:
     f_is.write("## {0}\n".format(keyword))
     if len(keyword.split()) == 1: link = "AND" # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
     else: link = "OR"
-    papers = get_daily_papers_by_keyword(keyword, column_names, max_result, link)
-    if len(papers) == 0:
-        print("ArXiv API Limit Exceeded!\n")
+    papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, link)
+    if papers is None: # failed to get papers
+        print("Failed to get papers!")
         f_rm.close()
         f_is.close()
-        restore_files() # restore README.md and ISSUE_TEMPLATE.md
-        sys.exit("ArXiv API Limit Exceeded!")
+        restore_files()
+        sys.exit("Failed to get papers!")
     rm_table = generate_table(papers)
     is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
     f_rm.write(rm_table)

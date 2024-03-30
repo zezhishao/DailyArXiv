@@ -1,5 +1,8 @@
 import os
+import time
+import pytz
 import shutil
+import datetime
 from typing import List, Dict
 import urllib, urllib.request
 
@@ -53,6 +56,16 @@ def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "s
                 results.append(paper)
                 break
     return results
+
+def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[str], max_result: int, link: str = "OR", retries: int = 6) -> List[Dict[str, str]]:
+    for _ in range(retries):
+        papers = get_daily_papers_by_keyword(keyword, column_names, max_result, link)
+        if len(papers) > 0: return papers
+        else:
+            print("Unexpected empty list, retrying...")
+            time.sleep(60 * 30) # wait for 30 minutes
+    # failed
+    return None
 
 def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_result: int, link: str = "OR") -> List[Dict[str, str]]:
     # get papers
@@ -128,9 +141,7 @@ def remove_backups():
     os.remove(".github/ISSUE_TEMPLATE.md.bk")
 
 def get_daily_date():
-    # if tody is March 2, 2021,
-    # return March 1, 2021
-    import datetime
-    today = datetime.date.today()
-    yesterday = today - datetime.timedelta(days=1)
-    return yesterday.strftime("%B %d, %Y")
+    # get beijing time in the format of "March 1, 2021"
+    beijing_timezone = pytz.timezone('Asia/Shanghai')
+    today = datetime.datetime.now(beijing_timezone)
+    return today.strftime("%B %d, %Y")
