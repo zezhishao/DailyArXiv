@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 20, 2024
+title: Latest 15 Papers - May 21, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Low-Rank Adaptation of Time Series Foundational Models for Out-of-Domain Modality Forecasting](http://arxiv.org/abs/2405.10216v1)** | 2024-05-16 | <details><summary>5 pag...</summary><p>5 pages, 3 figures. This work has been submitted to the ACM for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[A novel Reservoir Architecture for Periodic Time Series Prediction](http://arxiv.org/abs/2405.10102v1)** | 2024-05-16 |  |
-| **[LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting](http://arxiv.org/abs/2405.10093v1)** | 2024-05-16 | <details><summary>9 pag...</summary><p>9 pages plus references and appendix, 2 tables, 11 figures</p></details> |
-| **[A Survey on Deep Learning and State-of-the-art Applications](http://arxiv.org/abs/2403.17561v3)** | 2024-05-16 | <details><summary>Submi...</summary><p>Submitted to Neural Computing and Applications</p></details> |
-| **[Continuous Time Locally Stationary Wavelet Processes](http://arxiv.org/abs/2310.12788v3)** | 2024-05-16 | 33 pages, 12 figures |
-| **[Improving Transformers using Faithful Positional Encoding](http://arxiv.org/abs/2405.09061v2)** | 2024-05-16 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2305.17149</p></details> |
-| **[Analysis and Predictive Modeling of Solar Coronal Holes Using Computer Vision and LSTM Networks](http://arxiv.org/abs/2405.09802v1)** | 2024-05-16 | <details><summary>submi...</summary><p>submitted to SPAICE Conference 2024</p></details> |
-| **[Predicting Future Change-points in Time Series](http://arxiv.org/abs/2405.09485v1)** | 2024-05-15 | 37 pages, 4 figures |
-| **[BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection](http://arxiv.org/abs/2405.09330v1)** | 2024-05-15 | <details><summary>This ...</summary><p>This paper has been accepted to FSE'24</p></details> |
-| **[TimeX++: Learning Time-Series Explanations with Information Bottleneck](http://arxiv.org/abs/2405.09308v1)** | 2024-05-15 | <details><summary>Accep...</summary><p>Accepted by International Conference on Machine Learning (ICML 2024)</p></details> |
-| **[Easy attention: A simple attention mechanism for temporal predictions with transformers](http://arxiv.org/abs/2308.12874v3)** | 2024-05-15 | <details><summary>15 pa...</summary><p>15 pages and 6 figures</p></details> |
-| **[MileBench: Benchmarking MLLMs in Long Context](http://arxiv.org/abs/2404.18532v2)** | 2024-05-15 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 14 tables; We add results of GPT-4o in this version</p></details> |
-| **[Conformalized Adaptive Forecasting of Heterogeneous Trajectories](http://arxiv.org/abs/2402.09623v2)** | 2024-05-15 |  |
-| **[Rumor Forwarding Prediction Model Based on Uncertain Time Series](http://arxiv.org/abs/2403.08493v2)** | 2024-05-15 | 11 pages,3 figures |
-| **[Properties of stationary cyclical processes](http://arxiv.org/abs/2405.08907v1)** | 2024-05-14 |  |
+| **[WEITS: A Wavelet-enhanced residual framework for interpretable time series forecasting](http://arxiv.org/abs/2405.10877v1)** | 2024-05-17 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.09488 by other authors</p></details> |
+| **[Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data](http://arxiv.org/abs/2305.15671v3)** | 2024-05-17 |  |
+| **[Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities](http://arxiv.org/abs/2405.10825v1)** | 2024-05-17 |  |
+| **[Forecasting with Hyper-Trees](http://arxiv.org/abs/2405.07836v2)** | 2024-05-17 | <details><summary>Forec...</summary><p>Forecasting, Gradient Boosting, Hyper-Networks, LightGBM, Parameter Non-Stationarity, Time Series, XGBoost</p></details> |
+| **[Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting](http://arxiv.org/abs/2405.10800v1)** | 2024-05-17 | <details><summary>Accep...</summary><p>Accepted by KDD'24 Research Track</p></details> |
+| **[Identifiability of total effects from abstractions of time series causal graphs](http://arxiv.org/abs/2310.14691v4)** | 2024-05-17 | <details><summary>Accep...</summary><p>Accepted to the 40th Conference on Uncertainty in Artificial Intelligence (UAI) 2024, Barcelona, Spain</p></details> |
+| **[Off-the-Shelf Neural Network Architectures for Forex Time Series Prediction come at a Cost](http://arxiv.org/abs/2405.10679v1)** | 2024-05-17 |  |
+| **[Continuous Time Locally Stationary Wavelet Processes](http://arxiv.org/abs/2310.12788v4)** | 2024-05-17 | 38 pages, 12 figures |
+| **[Bi-Mamba+: Bidirectional Mamba for Time Series Forecasting](http://arxiv.org/abs/2404.15772v2)** | 2024-05-17 | <details><summary>New M...</summary><p>New Mamba-based architecture. All experiments rerun</p></details> |
+| **[Geometric-Based Pruning Rules For Change Point Detection in Multiple Independent Time Series](http://arxiv.org/abs/2306.09555v2)** | 2024-05-17 | <details><summary>34 pa...</summary><p>34 pages, 11 figures, 1 table</p></details> |
+| **[Asymptotic equivalence of Principal Components and Quasi Maximum Likelihood estimators in Large Approximate Factor Models](http://arxiv.org/abs/2307.09864v4)** | 2024-05-17 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2211.01921 which is written by the same author. The two papers do not overlap as they contain different results although they have the same assumptions</p></details> |
+| **[A Comparison of Deep Learning Architectures for Spacecraft Anomaly Detection](http://arxiv.org/abs/2403.12864v2)** | 2024-05-17 | <details><summary>accep...</summary><p>accepted for IEEE Aeroconf 2024. Final version published IEEE Aerospace Conference 2024 (AeroConf 2024), access in IEEE Explore</p></details> |
+| **[ECATS: Explainable-by-design concept-based anomaly detection for time series](http://arxiv.org/abs/2405.10608v1)** | 2024-05-17 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, submitted to 18th International Conference on Neural-Symbolic Learning and Reasoning (NeSy 2024)</p></details> |
+| **[UniCL: A Universal Contrastive Learning Framework for Large Time Series Models](http://arxiv.org/abs/2405.10597v1)** | 2024-05-17 |  |
+| **[Function Extrapolation with Neural Networks and Its Application for Manifolds](http://arxiv.org/abs/2405.10563v1)** | 2024-05-17 | 32 pages, 11 figures |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trajectory tracking control of a Remotely Operated Underwater Vehicle based on Fuzzy Disturbance Adaptation and Controller Parameter Optimization](http://arxiv.org/abs/2405.10441v1)** | 2024-05-16 |  |
 | **[A Design Trajectory Map of Human-AI Collaborative Reinforcement Learning Systems: Survey and Taxonomy](http://arxiv.org/abs/2405.10214v1)** | 2024-05-16 |  |
 | **[Enhancing Maritime Trajectory Forecasting via H3 Index and Causal Language Modelling (CLM)](http://arxiv.org/abs/2405.09596v1)** | 2024-05-15 | 22 pages, 14 figures |
 | **[Application of Gated Recurrent Units for CT Trajectory Optimization](http://arxiv.org/abs/2405.09333v1)** | 2024-05-15 | 4 pages, 6 figures |
@@ -40,24 +41,23 @@ labels: documentation
 | **[Learning to Plan Maneuverable and Agile Flight Trajectory with Optimization Embedded Networks](http://arxiv.org/abs/2405.07736v1)** | 2024-05-13 | <details><summary>https...</summary><p>https://github.com/ZJU-FAST-Lab/e2e_opt</p></details> |
 | **[Trajectory Similarity Measurement: An Efficiency Perspective](http://arxiv.org/abs/2311.00960v2)** | 2024-05-13 | <details><summary>Accep...</summary><p>Accepted by VLDB 2024</p></details> |
 | **[Fighter flight trajectory prediction based on spatio-temporal graphcial attention network](http://arxiv.org/abs/2405.08034v1)** | 2024-05-13 |  |
-| **[Trajectory Planning for Autonomous Vehicle Using Iterative Reward Prediction in Reinforcement Learning](http://arxiv.org/abs/2404.12079v4)** | 2024-05-12 | 8 pages, 6 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Two-Stage Stance Labeling: User-Hashtag Heuristics with Graph Neural Networks](http://arxiv.org/abs/2404.10228v2)** | 2024-05-17 |  |
+| **[Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective](http://arxiv.org/abs/2405.10757v1)** | 2024-05-17 |  |
+| **[Node Feature Augmentation Vitaminizes Network Alignment](http://arxiv.org/abs/2304.12751v4)** | 2024-05-17 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, 5 tables; its conference version was presented at the ACM International Conference on Information and Knowledge Management (CIKM 2022)</p></details> |
+| **[Hi-GMAE: Hierarchical Graph Masked Autoencoders](http://arxiv.org/abs/2405.10642v1)** | 2024-05-17 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 3 tables</p></details> |
+| **[Harnessing Collective Structure Knowledge in Data Augmentation for Graph Neural Networks](http://arxiv.org/abs/2405.10633v1)** | 2024-05-17 |  |
+| **[Imbalanced Graph Classification with Multi-scale Oversampling Graph Neural Networks](http://arxiv.org/abs/2405.04903v2)** | 2024-05-17 |  |
+| **[CACL: Community-Aware Heterogeneous Graph Contrastive Learning for Social Media Bot Detection](http://arxiv.org/abs/2405.10558v1)** | 2024-05-17 | <details><summary>Accep...</summary><p>Accepted by ACL 2024 findings</p></details> |
+| **[Multi-Evidence based Fact Verification via A Confidential Graph Neural Network](http://arxiv.org/abs/2405.10481v1)** | 2024-05-17 | 12pages |
+| **[Distributed Constrained Combinatorial Optimization leveraging Hypergraph Neural Networks](http://arxiv.org/abs/2311.09375v2)** | 2024-05-16 |  |
+| **[Physics-Informed Heterogeneous Graph Neural Networks for DC Blocker Placement](http://arxiv.org/abs/2405.10389v1)** | 2024-05-16 | <details><summary>Paper...</summary><p>Paper is accepted by PSCC 2024</p></details> |
 | **[ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks](http://arxiv.org/abs/2405.10218v1)** | 2024-05-16 |  |
 | **[Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level](http://arxiv.org/abs/2405.10202v1)** | 2024-05-16 | <details><summary>Accep...</summary><p>Accepted to NAACL 2024 Findings</p></details> |
 | **[EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time](http://arxiv.org/abs/2405.01762v2)** | 2024-05-16 | 19 pages |
 | **[Integrating Uncertainty-Aware Human Motion Prediction into Graph-Based Manipulator Motion Planning](http://arxiv.org/abs/2405.09779v1)** | 2024-05-16 |  |
 | **[ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations](http://arxiv.org/abs/2405.09522v1)** | 2024-05-15 | <details><summary>Accep...</summary><p>Accepted for publication by SIGGRAPH 2024, conference track</p></details> |
-| **[Desk-AId: Humanitarian Aid Desk Assessment with Geospatial AI for Predicting Landmine Areas](http://arxiv.org/abs/2405.09444v1)** | 2024-05-15 |  |
-| **[Learning Coarse-Grained Dynamics on Graph](http://arxiv.org/abs/2405.09324v1)** | 2024-05-15 | 33 pages, 12 figures |
-| **[Graph Neural Network based Handwritten Trajectories Recognition](http://arxiv.org/abs/2405.09247v1)** | 2024-05-15 |  |
-| **[SMUG-Explain: A Framework for Symbolic Music Graph Explanations](http://arxiv.org/abs/2405.09241v1)** | 2024-05-15 | <details><summary>In Pr...</summary><p>In Proceedings of the Sound and Music Computing Conference 2024 (SMC2024), Porto, Portugal</p></details> |
-| **[Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-Task Learning](http://arxiv.org/abs/2405.09112v1)** | 2024-05-15 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, ACM ESEC/FSE 2024</p></details> |
-| **[Deep Learning in Earthquake Engineering: A Comprehensive Review](http://arxiv.org/abs/2405.09021v1)** | 2024-05-15 |  |
-| **[Graph Distillation with Eigenbasis Matching](http://arxiv.org/abs/2310.09202v2)** | 2024-05-14 | <details><summary>Accep...</summary><p>Accepted by ICML 2024</p></details> |
-| **[Higher-Order Equivariant Neural Networks for Charge Density Prediction in Materials](http://arxiv.org/abs/2312.05388v2)** | 2024-05-14 |  |
-| **[GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm](http://arxiv.org/abs/2403.18296v2)** | 2024-05-14 |  |
-| **[Improving the Real-Data Driven Network Evaluation Model for Digital Twin Networks](http://arxiv.org/abs/2405.08473v1)** | 2024-05-14 | <details><summary>accep...</summary><p>accepted at IEEE ICC 2024 Workshop - DDINS</p></details> |
 
