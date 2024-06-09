@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 07, 2024
+title: Latest 15 Papers - June 10, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TKAN: Temporal Kolmogorov-Arnold Networks](http://arxiv.org/abs/2405.07344v2)** | 2024-06-05 |  |
-| **[A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting](http://arxiv.org/abs/2406.02486v2)** | 2024-06-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2405.07344</p></details> |
-| **[COVID-19 incidence in the Republic of Ireland: A case study for network-based time series models](http://arxiv.org/abs/2307.06199v3)** | 2024-06-05 |  |
-| **[Discrete Autoregressive Switching Processes in Sparse Graphical Modeling of Multivariate Time Series Data](http://arxiv.org/abs/2406.03385v1)** | 2024-06-05 |  |
-| **[cDVGAN: One Flexible Model for Multi-class Gravitational Wave Signal and Glitch Generation](http://arxiv.org/abs/2401.16356v4)** | 2024-06-05 | <details><summary>20 pa...</summary><p>20 pages, 17 figures, 5 tables</p></details> |
-| **[Multi-relational Network Autoregression Model with Latent Group Structures](http://arxiv.org/abs/2406.03296v1)** | 2024-06-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2212.02107</p></details> |
-| **[Position: Quo Vadis, Unsupervised Time Series Anomaly Detection?](http://arxiv.org/abs/2405.02678v3)** | 2024-06-05 | ICML 2024 |
-| **[A Combination Model Based on Sequential General Variational Mode Decomposition Method for Time Series Prediction](http://arxiv.org/abs/2406.03157v1)** | 2024-06-05 |  |
-| **[A Combination Model for Time Series Prediction using LSTM via Extracting Dynamic Features Based on Spatial Smoothing and Sequential General Variational Mode Decomposition](http://arxiv.org/abs/2406.03144v1)** | 2024-06-05 |  |
-| **[Predicting unobserved climate time series data at distant areas via spatial correlation using reservoir computing](http://arxiv.org/abs/2406.03061v1)** | 2024-06-05 |  |
-| **[FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding](http://arxiv.org/abs/2405.19055v2)** | 2024-06-05 |  |
-| **[Filtered not Mixed: Stochastic Filtering-Based Online Gating for Mixture of Large Language Models](http://arxiv.org/abs/2406.02969v1)** | 2024-06-05 | <details><summary>29 pa...</summary><p>29 pages, 5 Appendix sections</p></details> |
-| **[CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting](http://arxiv.org/abs/2406.02131v2)** | 2024-06-05 | 23 pages, 13 figures |
-| **[Oscillations enhance time-series prediction in reservoir computing with feedback](http://arxiv.org/abs/2406.02867v1)** | 2024-06-05 |  |
-| **[Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting](http://arxiv.org/abs/2406.02827v1)** | 2024-06-05 | 15 pages, 4 figures |
+| **[Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models](http://arxiv.org/abs/2406.04320v1)** | 2024-06-06 |  |
+| **[Learned Feature Importance Scores for Automated Feature Engineering](http://arxiv.org/abs/2406.04153v1)** | 2024-06-06 |  |
+| **[Copula-based models for correlated circular data](http://arxiv.org/abs/2406.04085v1)** | 2024-06-06 |  |
+| **[Comparing statistical and machine learning methods for time series forecasting in data-driven logistics -- A simulation study](http://arxiv.org/abs/2303.07139v2)** | 2024-06-06 |  |
+| **[Dataset Condensation for Time Series Classification via Dual Domain Matching](http://arxiv.org/abs/2403.07245v2)** | 2024-06-06 | <details><summary>Accep...</summary><p>Accepted by KDD 2024 research track</p></details> |
+| **[Dynamics and triggers of misinformation on vaccines](http://arxiv.org/abs/2207.12264v3)** | 2024-06-06 |  |
+| **[A Noise-robust Multi-head Attention Mechanism for Formation Resistivity Prediction: Frequency Aware LSTM](http://arxiv.org/abs/2406.03849v1)** | 2024-06-06 |  |
+| **[Amortized Equation Discovery in Hybrid Dynamical Systems](http://arxiv.org/abs/2406.03818v1)** | 2024-06-06 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, accepted by International Conference on Machine Learning (ICML) 2024</p></details> |
+| **[Cross-variable Linear Integrated ENhanced Transformer for Photovoltaic power forecasting](http://arxiv.org/abs/2406.03808v1)** | 2024-06-06 |  |
+| **[Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting](http://arxiv.org/abs/2406.03751v1)** | 2024-06-06 |  |
+| **[MELODY: Robust Semi-Supervised Hybrid Model for Entity-Level Online Anomaly Detection with Multivariate Time Series](http://arxiv.org/abs/2401.10338v2)** | 2024-06-06 |  |
+| **[Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective](http://arxiv.org/abs/2402.11463v4)** | 2024-06-06 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:nlin/0307015 by other authors</p></details> |
+| **[TwinS: Revisiting Non-Stationarity in Multivariate Time Series Forecasting](http://arxiv.org/abs/2406.03710v1)** | 2024-06-06 |  |
+| **[Towards Dynamic Trend Filtering through Trend Point Detection with Reinforcement Learning](http://arxiv.org/abs/2406.03665v1)** | 2024-06-06 | 18 pages, 11 figures |
+| **[Hybridizing Traditional and Next-Generation Reservoir Computing to Accurately and Efficiently Forecast Dynamical Systems](http://arxiv.org/abs/2403.18953v2)** | 2024-06-05 | 12 pages, 7 figures |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories](http://arxiv.org/abs/2406.04323v1)** | 2024-06-06 | ICML 2024 Accepted |
+| **[Harmonious Group Choreography with Trajectory-Controllable Diffusion](http://arxiv.org/abs/2403.06189v2)** | 2024-06-06 |  |
+| **[Degrees of Freedom Matter: Inferring Dynamics from Point Trajectories](http://arxiv.org/abs/2406.03625v1)** | 2024-06-05 | <details><summary>cvpr2...</summary><p>cvpr24 post camera ready</p></details> |
 | **[Incorporating Navigation Context into Inland Vessel Trajectory Prediction: A Gaussian Mixture Model and Transformer Approach](http://arxiv.org/abs/2406.02344v2)** | 2024-06-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
 | **[A High-Gain Observer Approach to Robust Trajectory Estimation and Tracking for a Multi-rotor UAV](http://arxiv.org/abs/2103.13429v2)** | 2024-06-05 | <details><summary>Submi...</summary><p>Submitted to ASME Journal of Dynamic Systems, Measurement and Control. Experiment video available at: https://youtu.be/oWcl4ydNLDs. arXiv admin note: text overlap with arXiv:2003.06390</p></details> |
 | **[Improved context-sensitive transformer model for inland vessel trajectory prediction](http://arxiv.org/abs/2406.02771v1)** | 2024-06-04 |  |
@@ -38,26 +41,23 @@ labels: documentation
 | **[3D Trajectory Design for Energy-constrained Aerial CRNs Under Probabilistic LoS Channel](http://arxiv.org/abs/2406.01313v1)** | 2024-06-03 | <details><summary>13 pa...</summary><p>13 pages, 6 figures,submitted to the IEEE journal for review</p></details> |
 | **[Learning to Plan Maneuverable and Agile Flight Trajectory with Optimization Embedded Networks](http://arxiv.org/abs/2405.07736v2)** | 2024-06-03 | <details><summary>Some ...</summary><p>Some statements in the introduction may be controversial</p></details> |
 | **[Constraint-Aware Diffusion Models for Trajectory Optimization](http://arxiv.org/abs/2406.00990v1)** | 2024-06-03 |  |
-| **[CCF: Cross Correcting Framework for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2406.00749v1)** | 2024-06-02 | Under review |
-| **[MINER-RRT*: A Hierarchical and Fast Trajectory Planning Framework in 3D Cluttered Environments](http://arxiv.org/abs/2406.00706v1)** | 2024-06-02 |  |
-| **[An Efficient Trajectory Generation for Bi-copter Flight in Tight Space](http://arxiv.org/abs/2406.00671v1)** | 2024-06-02 | 8 pages,8 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Future Directions in the Theory of Graph Machine Learning](http://arxiv.org/abs/2402.02287v3)** | 2024-06-05 | ICML 2024 |
-| **[Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach](http://arxiv.org/abs/2406.03464v1)** | 2024-06-05 |  |
-| **[Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics](http://arxiv.org/abs/2402.12535v2)** | 2024-06-05 | <details><summary>Accep...</summary><p>Accepted to ICML 2024 (Oral)</p></details> |
-| **[Learning Long Range Dependencies on Graphs via Random Walks](http://arxiv.org/abs/2406.03386v1)** | 2024-06-05 |  |
-| **[Recurrent Distance Filtering for Graph Representation Learning](http://arxiv.org/abs/2312.01538v3)** | 2024-06-05 | ICML 2024 |
-| **[Using GNN property predictors as molecule generators](http://arxiv.org/abs/2406.03278v1)** | 2024-06-05 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 2 tables</p></details> |
-| **[Exploring Higher Order Structures in Graph Explanantions](http://arxiv.org/abs/2406.03253v1)** | 2024-06-05 |  |
-| **[Olfactory Label Prediction on Aroma-Chemical Pairs](http://arxiv.org/abs/2312.16124v2)** | 2024-06-05 |  |
-| **[Reinforcement Learning for Node Selection in Branch-and-Bound](http://arxiv.org/abs/2310.00112v2)** | 2024-06-05 |  |
-| **[Graph Neural Network Explanations are Fragile](http://arxiv.org/abs/2406.03193v1)** | 2024-06-05 | 17 pages, 64 figures |
-| **[Topological Neural Networks go Persistent, Equivariant, and Continuous](http://arxiv.org/abs/2406.03164v1)** | 2024-06-05 | <details><summary>Accep...</summary><p>Accepted to ICML 2024</p></details> |
-| **[Large Language Model Meets Graph Neural Network in Knowledge Distillation](http://arxiv.org/abs/2402.05894v3)** | 2024-06-05 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 4 tables</p></details> |
-| **[Temporal Graph Rewiring with Expander Graphs](http://arxiv.org/abs/2406.02362v2)** | 2024-06-05 | 10 pages, 2 figures |
-| **[Aligning Transformers with Weisfeiler-Leman](http://arxiv.org/abs/2406.03148v1)** | 2024-06-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2024</p></details> |
-| **[E(n) Equivariant Message Passing Cellular Networks](http://arxiv.org/abs/2406.03145v1)** | 2024-06-05 |  |
+| **[On the Expressive Power of Spectral Invariant Graph Neural Networks](http://arxiv.org/abs/2406.04336v1)** | 2024-06-06 | <details><summary>31 pa...</summary><p>31 pages; 3 figures; to appear in ICML 2024</p></details> |
+| **[Subhomogeneous Deep Equilibrium Models](http://arxiv.org/abs/2403.00720v2)** | 2024-06-06 |  |
+| **[NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise](http://arxiv.org/abs/2406.04299v1)** | 2024-06-06 | <details><summary>Submi...</summary><p>Submitted to the 38th Conference on Neural Information Processing Systems (NeurIPS 2024) Track on Datasets and Benchmarks</p></details> |
+| **[Transformers need glasses! Information over-squashing in language tasks](http://arxiv.org/abs/2406.04267v1)** | 2024-06-06 |  |
+| **[E(n) Equivariant Message Passing Cellular Networks](http://arxiv.org/abs/2406.03145v2)** | 2024-06-06 |  |
+| **[Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks](http://arxiv.org/abs/2406.04052v1)** | 2024-06-06 |  |
+| **[Energy-based Epistemic Uncertainty for Graph Neural Networks](http://arxiv.org/abs/2406.04043v1)** | 2024-06-06 |  |
+| **[Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing](http://arxiv.org/abs/2203.00387v2)** | 2024-06-06 |  |
+| **[Homomorphism Counts for Graph Neural Networks: All About That Basis](http://arxiv.org/abs/2402.08595v4)** | 2024-06-06 | <details><summary>Proce...</summary><p>Proceedings of the Forty-First International Conference on Machine Learning (ICML 2024). Code available at: https://github.com/ejin700/hombasis-gnn</p></details> |
+| **[A Class-Aware Representation Refinement Framework for Graph Classification](http://arxiv.org/abs/2209.00936v2)** | 2024-06-06 |  |
+| **[PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming](http://arxiv.org/abs/2406.01908v2)** | 2024-06-06 | <details><summary>Accep...</summary><p>Accepted by ICML 2024</p></details> |
+| **[LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework](http://arxiv.org/abs/2405.13902v2)** | 2024-06-06 |  |
+| **[Exploiting Global Graph Homophily for Generalized Defense in Graph Neural Networks](http://arxiv.org/abs/2406.03833v1)** | 2024-06-06 |  |
+| **[Feature Distribution on Graph Topology Mediates the Effect of Graph Convolution: Homophily Perspective](http://arxiv.org/abs/2402.04621v2)** | 2024-06-06 | <details><summary>publi...</summary><p>published in ICML 2024</p></details> |
+| **[Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation](http://arxiv.org/abs/2306.09381v3)** | 2024-06-06 |  |
 
