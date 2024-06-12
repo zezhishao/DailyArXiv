@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 12, 2024
+title: Latest 15 Papers - June 13, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,27 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Will Southeast Asia be the next global manufacturing hub? A multiway cointegration, causality, and dynamic connectedness analyses on factors influencing offshore decisions](http://arxiv.org/abs/2406.07525v1)** | 2024-06-11 | 30 pages |
+| **[DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting](http://arxiv.org/abs/2406.07438v1)** | 2024-06-11 | <details><summary>The c...</summary><p>The code is available at https://github.com/ClaudiaShu/DeformTime</p></details> |
+| **[CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting](http://arxiv.org/abs/2406.02131v3)** | 2024-06-11 | 23 pages, 13 figures |
+| **[Calibration of Time-Series Forecasting: Detecting and Adapting Context-Driven Distribution Shift](http://arxiv.org/abs/2310.14838v2)** | 2024-06-11 | <details><summary>KDD'2...</summary><p>KDD'24 research paper</p></details> |
+| **[Log Neural Controlled Differential Equations: The Lie Brackets Make a Difference](http://arxiv.org/abs/2402.18512v2)** | 2024-06-11 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, International Conference on Machine Learning 2024</p></details> |
+| **[Marginalization Consistent Mixture of Separable Flows for Probabilistic Irregular Time Series Forecasting](http://arxiv.org/abs/2406.07246v1)** | 2024-06-11 |  |
+| **[A Survey on Diffusion Models for Time Series and Spatio-Temporal Data](http://arxiv.org/abs/2404.18886v3)** | 2024-06-11 | <details><summary>Ongoi...</summary><p>Ongoing work & Under review; 27 pages, 8 figures, 2 tables; Github Repo: https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model</p></details> |
+| **[Calibrating Car-Following Models via Bayesian Dynamic Regression](http://arxiv.org/abs/2307.03340v2)** | 2024-06-11 |  |
+| **[DecoR: Deconfounding Time Series with Robust Regression](http://arxiv.org/abs/2406.07005v1)** | 2024-06-11 | 27 pages, 7 figures |
+| **[Low Rank Multi-Dictionary Selection at Scale](http://arxiv.org/abs/2406.06960v1)** | 2024-06-11 | <details><summary>Proce...</summary><p>Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, August 25--29, 2024, Barcelona, Spain</p></details> |
+| **[Nonlinear time-series embedding by monotone variational inequality](http://arxiv.org/abs/2406.06894v1)** | 2024-06-11 |  |
+| **[On Learning what to Learn: heterogeneous observations of dynamics and establishing (possibly causal) relations among them](http://arxiv.org/abs/2406.06812v1)** | 2024-06-10 |  |
+| **[Binary De Bruijn Processes](http://arxiv.org/abs/2211.16921v2)** | 2024-06-10 |  |
 | **[Data Augmentation for Multivariate Time Series Classification: An Experimental Study](http://arxiv.org/abs/2406.06518v1)** | 2024-06-10 | <details><summary>Works...</summary><p>Workshop on Multivariate Time Series Analytics (MulTiSA), ICDE Workshop</p></details> |
 | **[Continuum Attention for Neural Operators](http://arxiv.org/abs/2406.06486v1)** | 2024-06-10 |  |
-| **[Towards a Personal Health Large Language Model](http://arxiv.org/abs/2406.06474v1)** | 2024-06-10 | 72 pages |
-| **[Time Series Analysis: yesterday, today, tomorrow](http://arxiv.org/abs/2406.06453v1)** | 2024-06-10 | <details><summary>Keywo...</summary><p>Keywords: ARMA, ARIMA, SARIMA; time series sampling rate; recurrent neural networks; time series cross-validation; kernel methods for time series (Support Vector Regression, Kernel Ridge Regression). 21 pages, 13 figures</p></details> |
-| **[NeuroMoCo: A Neuromorphic Momentum Contrast Learning Method for Spiking Neural Networks](http://arxiv.org/abs/2406.06305v1)** | 2024-06-10 | <details><summary>32 pa...</summary><p>32 pages,4 figures,4 tables</p></details> |
-| **[Dataset Condensation for Time Series Classification via Dual Domain Matching](http://arxiv.org/abs/2403.07245v3)** | 2024-06-10 | <details><summary>Accep...</summary><p>Accepted by KDD 2024 research track</p></details> |
-| **[Topological Analysis for Detecting Anomalies (TADA) in Time Series](http://arxiv.org/abs/2406.06168v1)** | 2024-06-10 |  |
-| **[Supervised Radio Frequency Interference Detection with SNNs](http://arxiv.org/abs/2406.06075v1)** | 2024-06-10 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 4 tables. International Conference on Neuromorphic Systems (ICONS) 2024, Accepted</p></details> |
-| **[Set Features for Anomaly Detection](http://arxiv.org/abs/2311.14773v3)** | 2024-06-10 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2302.12245</p></details> |
-| **[Embedding Network Autoregression for time series analysis and causal peer effect inference](http://arxiv.org/abs/2406.05944v1)** | 2024-06-10 |  |
-| **[Efficient algorithms for the sensitivities of the Pearson correlation coefficient and its statistical significance to online data](http://arxiv.org/abs/2405.14686v3)** | 2024-06-09 | <details><summary>Fixed...</summary><p>Fixed minor typos and added new citations</p></details> |
-| **[Event prediction and causality inference despite incomplete information](http://arxiv.org/abs/2406.05893v1)** | 2024-06-09 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 1 table</p></details> |
-| **[Few-Shot Load Forecasting Under Data Scarcity in Smart Grids: A Meta-Learning Approach](http://arxiv.org/abs/2406.05887v1)** | 2024-06-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[Auditing and Generating Synthetic Data with Controllable Trust Trade-offs](http://arxiv.org/abs/2304.10819v4)** | 2024-06-09 | submitted |
-| **[Beyond Gut Feel: Using Time Series Transformers to Find Investment Gems](http://arxiv.org/abs/2309.16888v2)** | 2024-06-09 | <details><summary>Publi...</summary><p>Published by ICANN (33rd International Conference on Artificial Neural Networks) 2024 as full paper (15 pages and 7 figures)</p></details> |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fast and Certifiable Trajectory Optimization](http://arxiv.org/abs/2406.05846v1)** | 2024-06-09 |  |
+| **[Partially Observed Trajectory Inference using Optimal Transport and a Dynamics Prior](http://arxiv.org/abs/2406.07475v1)** | 2024-06-11 | 32 pages, 9 figures |
+| **[Fast and Certifiable Trajectory Optimization](http://arxiv.org/abs/2406.05846v2)** | 2024-06-11 |  |
 | **[A Generalized Pointing Error Model for FSO Links with Fixed-Wing UAVs for 6G: Analysis and Trajectory Optimization](http://arxiv.org/abs/2406.05444v1)** | 2024-06-08 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, under revision; IEEE Transactions on Wireless Communications</p></details> |
 | **[Multi-Vehicle Trajectory Planning at V2I-enabled Intersections based on Correlated Equilibrium](http://arxiv.org/abs/2406.05336v1)** | 2024-06-08 | <details><summary>8 pag...</summary><p>8 pages,12 figures,Submission to IEEE Robotics and Automation Letters</p></details> |
 | **[Multi-Entry Generalized Search Trees for Indexing Trajectories](http://arxiv.org/abs/2406.05327v1)** | 2024-06-08 |  |
@@ -40,24 +41,23 @@ labels: documentation
 | **[ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories](http://arxiv.org/abs/2406.04323v1)** | 2024-06-06 | ICML 2024 Accepted |
 | **[Harmonious Group Choreography with Trajectory-Controllable Diffusion](http://arxiv.org/abs/2403.06189v2)** | 2024-06-06 |  |
 | **[Degrees of Freedom Matter: Inferring Dynamics from Point Trajectories](http://arxiv.org/abs/2406.03625v1)** | 2024-06-05 | <details><summary>cvpr2...</summary><p>cvpr24 post camera ready</p></details> |
-| **[Incorporating Navigation Context into Inland Vessel Trajectory Prediction: A Gaussian Mixture Model and Transformer Approach](http://arxiv.org/abs/2406.02344v2)** | 2024-06-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Reasoning for Explainable Cold Start Recommendation](http://arxiv.org/abs/2406.07420v1)** | 2024-06-11 |  |
+| **[Rethinking the impact of noisy labels in graph classification: A utility and privacy perspective](http://arxiv.org/abs/2406.07314v1)** | 2024-06-11 |  |
+| **[Graph Mining under Data scarcity](http://arxiv.org/abs/2406.04825v2)** | 2024-06-11 | 7 pages, 2 figures |
+| **[Large Language Model Meets Graph Neural Network in Knowledge Distillation](http://arxiv.org/abs/2402.05894v4)** | 2024-06-11 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[Mitigating Oversmoothing Through Reverse Process of GNNs for Heterophilic Graphs](http://arxiv.org/abs/2403.10543v2)** | 2024-06-11 | <details><summary>Accep...</summary><p>Accepted by ICML 2024</p></details> |
+| **[A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation, and Research Challenges](http://arxiv.org/abs/2210.12089v3)** | 2024-06-11 |  |
+| **[Logical Distillation of Graph Neural Networks](http://arxiv.org/abs/2406.07126v1)** | 2024-06-11 | Under Review |
+| **[CHARME: A chain-based reinforcement learning approach for the minor embedding problem](http://arxiv.org/abs/2406.07124v1)** | 2024-06-11 |  |
+| **[Efficient Topology-aware Data Augmentation for High-Degree Graph Neural Networks](http://arxiv.org/abs/2406.05482v2)** | 2024-06-11 | <details><summary>This ...</summary><p>This is the technical report for the paper accepted to KDD 2024. 17 pages</p></details> |
+| **[WeatherGNN: Exploiting Meteo- and Spatial-Dependencies for Local Numerical Weather Prediction Bias-Correction](http://arxiv.org/abs/2310.05517v2)** | 2024-06-11 | IJCAI 2024 |
+| **[On the Hölder Stability of Multiset and Graph Neural Networks](http://arxiv.org/abs/2406.06984v1)** | 2024-06-11 |  |
+| **[Non-autoregressive Personalized Bundle Generation](http://arxiv.org/abs/2406.06925v1)** | 2024-06-11 | <details><summary>Submi...</summary><p>Submitted to Information Processing & Management</p></details> |
+| **[Open Ad Hoc Teamwork with Cooperative Game Theory](http://arxiv.org/abs/2402.15259v4)** | 2024-06-10 | <details><summary>Publi...</summary><p>Published at ICML 2024, 29 pages</p></details> |
 | **[Self-explainable Graph Neural Network for Alzheimer's Disease And Related Dementias Risk Prediction](http://arxiv.org/abs/2309.06584v4)** | 2024-06-10 |  |
 | **[Spatiotemporal Graph Neural Network Modelling Perfusion MRI](http://arxiv.org/abs/2406.06434v1)** | 2024-06-10 | 11 pages, 2 figures |
-| **[Explainable Graph Neural Networks Under Fire](http://arxiv.org/abs/2406.06417v1)** | 2024-06-10 |  |
-| **[Learning Physical Simulation with Message Passing Transformer](http://arxiv.org/abs/2406.06060v1)** | 2024-06-10 | 15 pages, 10 figures |
-| **[Homomorphism Counts for Graph Neural Networks: All About That Basis](http://arxiv.org/abs/2402.08595v5)** | 2024-06-10 | <details><summary>Proce...</summary><p>Proceedings of the Forty-First International Conference on Machine Learning (ICML 2024). Code available at: https://github.com/ejin700/hombasis-gnn</p></details> |
-| **[Enhancing Size Generalization in Graph Neural Networks through Disentangled Representation Learning](http://arxiv.org/abs/2406.04601v2)** | 2024-06-10 |  |
-| **[Combinatorial Optimization with Automated Graph Neural Networks](http://arxiv.org/abs/2406.02872v2)** | 2024-06-10 | 9 pages |
-| **[MAGNOLIA: Matching Algorithms via GNNs for Online Value-to-go Approximation](http://arxiv.org/abs/2406.05959v1)** | 2024-06-10 | <details><summary>Accep...</summary><p>Accepted to ICML 2024</p></details> |
-| **[Decision-focused Graph Neural Networks for Combinatorial Optimization](http://arxiv.org/abs/2406.03647v2)** | 2024-06-10 | 9 pages |
-| **[Expressive Power of Graph Neural Networks for (Mixed-Integer) Quadratic Programs](http://arxiv.org/abs/2406.05938v1)** | 2024-06-09 |  |
-| **[Neural Scaling Laws on Graphs](http://arxiv.org/abs/2402.02054v2)** | 2024-06-09 |  |
-| **[Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models](http://arxiv.org/abs/2406.05892v1)** | 2024-06-09 |  |
-| **[Scaling Graph Convolutions for Mobile Vision](http://arxiv.org/abs/2406.05850v1)** | 2024-06-09 | <details><summary>Proce...</summary><p>Proceedings of the 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops</p></details> |
-| **[What is my quantum computer good for? Quantum capability learning with physics-aware neural networks](http://arxiv.org/abs/2406.05636v1)** | 2024-06-09 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 4 tables</p></details> |
-| **[Cooperative Graph Neural Networks](http://arxiv.org/abs/2310.01267v2)** | 2024-06-09 | <details><summary>Proce...</summary><p>Proceedings of the Forty-First International Conference on Machine Learning (ICML 2024). Code available at: https://github.com/benfinkelshtein/CoGNN</p></details> |
 
