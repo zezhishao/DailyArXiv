@@ -8,6 +8,20 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting](http://arxiv.org/abs/2406.07438v2)** | 2024-06-18 | <details><summary>The c...</summary><p>The code is available at https://github.com/ClaudiaShu/DeformTime</p></details> |
+| **[Detecting Outbreaks Using a Latent Field: Part I -- Spatial Modeling](http://arxiv.org/abs/2406.12810v1)** | 2024-06-18 | 26 pages |
+| **[Bayesian Consistency for Long Memory Processes: A Semiparametric Perspective](http://arxiv.org/abs/2406.12780v1)** | 2024-06-18 |  |
+| **[Inference via Interpolation: Contrastive Representations Provably Enable Planning and Inference](http://arxiv.org/abs/2403.04082v2)** | 2024-06-18 | <details><summary>Code:...</summary><p>Code: https://github.com/vivekmyers/contrastive_planning</p></details> |
+| **[TSI-Bench: Benchmarking Time Series Imputation](http://arxiv.org/abs/2406.12747v1)** | 2024-06-18 |  |
+| **[XXLTraffic: Expanding and Extremely Long Traffic Dataset for Ultra-Dynamic Forecasting Challenges](http://arxiv.org/abs/2406.12693v1)** | 2024-06-18 |  |
+| **[Large Language Models Are Zero-Shot Time Series Forecasters](http://arxiv.org/abs/2310.07820v2)** | 2024-06-18 | <details><summary>NeurI...</summary><p>NeurIPS 2023. Code available at: https://github.com/ngruver/llmtime</p></details> |
+| **[Generalization bounds for mixing processes via delayed online-to-PAC conversions](http://arxiv.org/abs/2406.12600v1)** | 2024-06-18 |  |
+| **[Supervised Autoencoder MLP for Financial Time Series Forecasting](http://arxiv.org/abs/2404.01866v2)** | 2024-06-18 | <details><summary>29 pa...</summary><p>29 pages, 28 figures, 17 tables</p></details> |
+| **[Improving the Evaluation and Actionability of Explanation Methods for Multivariate Time Series Classification](http://arxiv.org/abs/2406.12507v1)** | 2024-06-18 |  |
+| **[Frequency-Domain Data-Driven Predictive Control](http://arxiv.org/abs/2406.12498v1)** | 2024-06-18 |  |
+| **[Tracking Real-time Anomalies in Cyber-Physical Systems Through Dynamic Behavioral Analysis](http://arxiv.org/abs/2406.12438v1)** | 2024-06-18 | <details><summary>10 pa...</summary><p>10 pages, 11 figures, 4 tables</p></details> |
+| **[Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models](http://arxiv.org/abs/2406.12423v1)** | 2024-06-18 |  |
+| **[Foundation Models for Time Series Analysis: A Tutorial and Survey](http://arxiv.org/abs/2403.14735v3)** | 2024-06-18 | <details><summary>In Pr...</summary><p>In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'24)</p></details> |
+| **[Spatial-Temporal Large Language Model for Traffic Prediction](http://arxiv.org/abs/2401.10134v3)** | 2024-06-18 | <details><summary>Accep...</summary><p>Accepted by MDM 2024 (Research Track)</p></details> |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
