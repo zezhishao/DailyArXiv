@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 27, 2024
+title: Latest 15 Papers - June 28, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Early Classification of Time Series: Taxonomy and Benchmark](http://arxiv.org/abs/2406.18332v1)** | 2024-06-26 |  |
+| **[Asymptotic Uncertainty in the Estimation of Frequency Domain Causal Effects for Linear Processes](http://arxiv.org/abs/2406.18191v1)** | 2024-06-26 | <details><summary>32 pa...</summary><p>32 pages. Comments welcome!</p></details> |
+| **[Sequential Disentanglement by Extracting Static Information From A Single Sequence Element](http://arxiv.org/abs/2406.18131v1)** | 2024-06-26 | <details><summary>Accep...</summary><p>Accepted to ICML 2024; The first four authors contributed equally</p></details> |
+| **[Large Language Models for Cuffless Blood Pressure Measurement From Wearable Biosignals](http://arxiv.org/abs/2406.18069v1)** | 2024-06-26 |  |
+| **[Multimodal Physiological Signals Representation Learning via Multiscale Contrasting for Depression Recognition](http://arxiv.org/abs/2406.16968v2)** | 2024-06-26 |  |
+| **[Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model](http://arxiv.org/abs/2406.17998v1)** | 2024-06-26 | <details><summary>The e...</summary><p>The enhanced extension of our ICCV 2023 (Changen)</p></details> |
+| **[Anomaly Detection based on Markov Data: A Statistical Depth Approach](http://arxiv.org/abs/2406.16759v2)** | 2024-06-25 |  |
+| **[SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series](http://arxiv.org/abs/2406.17890v1)** | 2024-06-25 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2405.07344, arXiv:2406.02486</p></details> |
 | **[Identifying Nonstationary Causal Structures with High-Order Markov Switching Models](http://arxiv.org/abs/2406.17698v1)** | 2024-06-25 | <details><summary>CI4TS...</summary><p>CI4TS Workshop @UAI2024</p></details> |
 | **[Multi-Modal Conformal Prediction Regions with Simple Structures by Optimizing Convex Shape Templates](http://arxiv.org/abs/2312.07434v2)** | 2024-06-25 | <details><summary>Accep...</summary><p>Accepted to L4DC 2024. 14 pages, 3 figures. The source code and toolbox are available at https://github.com/nandantumu/conformal_region_designer</p></details> |
 | **[Querying Labeled Time Series Data with Scenario Programs](http://arxiv.org/abs/2406.17627v1)** | 2024-06-25 | <details><summary>72 pa...</summary><p>72 pages, 6 figures, 5 algorithms. Published on https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-136.html</p></details> |
+| **[Practical identifiability and parameter estimation of compartmental epidemiological models](http://arxiv.org/abs/2406.17827v1)** | 2024-06-25 |  |
+| **[European Space Agency Benchmark for Anomaly Detection in Satellite Telemetry](http://arxiv.org/abs/2406.17826v1)** | 2024-06-25 | <details><summary>87 pa...</summary><p>87 pages, 24 figures, 19 tables</p></details> |
 | **[Continuous Urban Change Detection from Satellite Image Time Series with Temporal Feature Refinement and Multi-Task Integration](http://arxiv.org/abs/2406.17458v1)** | 2024-06-25 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Geoscience and Remote Sensing, Code will be available at https://github.com/SebastianHafner/ContUrbanCD.git</p></details> |
 | **[Explainable Online Unsupervised Anomaly Detection for Cyber-Physical Systems via Causal Discovery from Time Series](http://arxiv.org/abs/2404.09871v3)** | 2024-06-25 | <details><summary>In pu...</summary><p>In publication for IEEE Conference on Automation and Smart Engineering (CASE) 2024</p></details> |
-| **[Development of a digital tool for monitoring the behaviour of pre-weaned calves using accelerometer neck-collars](http://arxiv.org/abs/2406.17352v1)** | 2024-06-25 |  |
-| **[Distillation Enhanced Time Series Forecasting Network with Momentum Contrastive Learning](http://arxiv.org/abs/2401.17802v2)** | 2024-06-25 |  |
-| **[Multi-class Temporal Logic Neural Networks](http://arxiv.org/abs/2402.12397v2)** | 2024-06-25 |  |
-| **[The Influence of Nuisance Parameter Uncertainty on Statistical Inference in Practical Data Science Models](http://arxiv.org/abs/2406.15078v2)** | 2024-06-24 |  |
-| **[Laplacian Convolutional Representation for Traffic Time Series Imputation](http://arxiv.org/abs/2212.01529v3)** | 2024-06-24 | 13 pages, 9 figures |
-| **[Bayesian temporal biclustering with applications to multi-subject neuroscience studies](http://arxiv.org/abs/2406.17131v1)** | 2024-06-24 |  |
-| **[BrainMAE: A Region-aware Self-supervised Learning Framework for Brain Signals](http://arxiv.org/abs/2406.17086v1)** | 2024-06-24 | 27 pages, 16 figures |
-| **[Perceiver-based CDF Modeling for Time Series Forecasting](http://arxiv.org/abs/2310.01720v2)** | 2024-06-24 | <details><summary>Accep...</summary><p>Accepted in Winter Simulation Conference 2024</p></details> |
-| **[Meta-learning and Data Augmentation for Stress Testing Forecasting Models](http://arxiv.org/abs/2406.17008v1)** | 2024-06-24 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3 tables</p></details> |
-| **[Conformal time series decomposition with component-wise exchangeability](http://arxiv.org/abs/2406.16766v1)** | 2024-06-24 | <details><summary>Accep...</summary><p>Accepted at COPA 2024; 34 pages, 14 figures, 8 tables (incl. appendix)</p></details> |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimal Multi-Robot Communication-Aware Trajectory Planning by Constraining the Fiedler Value](http://arxiv.org/abs/2406.18452v1)** | 2024-06-26 |  |
+| **[A Multi-Stage Goal-Driven Network for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2406.18050v1)** | 2024-06-26 | <details><summary>Paper...</summary><p>Paper accepted by 5th International Conference on Computer Vision, Image and Deep Learning (CVIDL 2024)</p></details> |
+| **[Empowering Interdisciplinary Insights with Dynamic Graph Embedding Trajectories](http://arxiv.org/abs/2406.17963v1)** | 2024-06-25 | 25 pages, 11 figures |
 | **[Optimizing Energy-Efficient Braking Trajectories with Anticipatory Road Data for Automated Vehicles](http://arxiv.org/abs/2406.17604v1)** | 2024-06-25 | <details><summary>Prepr...</summary><p>Preprint to appear at the European Control Conference 2024 (ECC'24)</p></details> |
 | **[Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text](http://arxiv.org/abs/2406.17601v1)** | 2024-06-25 | <details><summary>Code:...</summary><p>Code: https://github.com/imlixinyang/director3d</p></details> |
 | **[Robot Agnostic Visual Servoing considering kinematic constraints enabled by a decoupled network trajectory planner structure](http://arxiv.org/abs/2405.07017v2)** | 2024-06-25 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
@@ -38,13 +41,17 @@ labels: documentation
 | **[Provably Feasible and Stable White-Box Trajectory Optimization](http://arxiv.org/abs/2406.01763v4)** | 2024-06-23 |  |
 | **[Trajectory optimization of tail-sitter considering speed constraints](http://arxiv.org/abs/2406.08347v2)** | 2024-06-23 |  |
 | **[Robust Dynamic Control Barrier Function Based Trajectory Planning for Mobile Manipulator](http://arxiv.org/abs/2406.15806v1)** | 2024-06-22 |  |
-| **[Optimization of Trajectories for Machine Learning Training in Robot Accuracy Modeling](http://arxiv.org/abs/2406.15620v1)** | 2024-06-21 |  |
-| **[Extraction of 3D trajectories of mandibular condyles from 2D real-time MRI](http://arxiv.org/abs/2406.14925v1)** | 2024-06-21 |  |
-| **[DiffTOP: Differentiable Trajectory Optimization for Deep Reinforcement and Imitation Learning](http://arxiv.org/abs/2402.05421v2)** | 2024-06-21 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in Greenland and Antarctic Ice Sheets](http://arxiv.org/abs/2406.18423v1)** | 2024-06-26 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, submitted to the ICML 2024 Workshop on Machine Learning for Earth System Modeling</p></details> |
+| **[KAGNNs: Kolmogorov-Arnold Networks meet Graph Learning](http://arxiv.org/abs/2406.18380v1)** | 2024-06-26 |  |
+| **[Kolmogorov-Arnold Graph Neural Networks](http://arxiv.org/abs/2406.18354v1)** | 2024-06-26 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, under review</p></details> |
+| **[ContactNet: Geometric-Based Deep Learning Model for Predicting Protein-Protein Interactions](http://arxiv.org/abs/2406.18314v1)** | 2024-06-26 |  |
+| **[Weisfeiler Leman for Euclidean Equivariant Machine Learning](http://arxiv.org/abs/2402.02484v3)** | 2024-06-26 |  |
+| **[ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting](http://arxiv.org/abs/2205.13700v4)** | 2024-06-26 | Under review |
+| **[Efficient and Effective Implicit Dynamic Graph Neural Network](http://arxiv.org/abs/2406.17894v1)** | 2024-06-25 |  |
 | **[Compositional Models for Estimating Causal Effects](http://arxiv.org/abs/2406.17714v1)** | 2024-06-25 |  |
 | **[Distributed Training of Large Graph Neural Networks with Variable Communication Rates](http://arxiv.org/abs/2406.17611v1)** | 2024-06-25 |  |
 | **[Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs](http://arxiv.org/abs/2311.15317v3)** | 2024-06-25 | <details><summary>Exten...</summary><p>Extension of "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks". arXiv admin note: substantial text overlap with arXiv:2302.08043</p></details> |
@@ -53,11 +60,4 @@ labels: documentation
 | **[Distance Recomputator and Topology Reconstructor for Graph Neural Networks](http://arxiv.org/abs/2406.17281v1)** | 2024-06-25 |  |
 | **[TopoGCL: Topological Graph Contrastive Learning](http://arxiv.org/abs/2406.17251v1)** | 2024-06-25 |  |
 | **[Attention-based Dynamic Multilayer Graph Neural Networks for Loan Default Prediction](http://arxiv.org/abs/2402.00299v2)** | 2024-06-24 |  |
-| **[Enabling Accelerators for Graph Computing](http://arxiv.org/abs/2312.10561v3)** | 2024-06-24 | <details><summary>North...</summary><p>Northeastern University Doctoral Dissertation</p></details> |
-| **[Meta-GCN: A Dynamically Weighted Loss Minimization Method for Dealing with the Data Imbalance in Graph Neural Networks](http://arxiv.org/abs/2406.17073v1)** | 2024-06-24 |  |
-| **[FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection](http://arxiv.org/abs/2406.15283v2)** | 2024-06-24 |  |
-| **[GC-Bench: A Benchmark Framework for Graph Condensation with New Insights](http://arxiv.org/abs/2406.16715v1)** | 2024-06-24 | 9 pages |
-| **[Link Prediction with Untrained Message Passing Layers](http://arxiv.org/abs/2406.16687v1)** | 2024-06-24 |  |
-| **[DeepTrace: Learning to Optimize Contact Tracing in Epidemic Networks with Graph Neural Networks](http://arxiv.org/abs/2211.00880v3)** | 2024-06-24 |  |
-| **[Inference of Sequential Patterns for Neural Message Passing in Temporal Graphs](http://arxiv.org/abs/2406.16552v1)** | 2024-06-24 |  |
 
