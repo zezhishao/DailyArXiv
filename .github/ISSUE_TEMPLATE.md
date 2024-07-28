@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 26, 2024
+title: Latest 15 Papers - July 29, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can time series forecasting be automated? A benchmark and analysis](http://arxiv.org/abs/2407.16445v2)** | 2024-07-25 |  |
+| **[Quadratic Advantage with Quantum Randomized Smoothing Applied to Time-Series Analysis](http://arxiv.org/abs/2407.18021v1)** | 2024-07-25 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Quantum Computing and Engineering (QCE)</p></details> |
+| **[Predicting COVID-19 hospitalisation using a mixture of Bayesian predictive syntheses](http://arxiv.org/abs/2308.06134v3)** | 2024-07-25 |  |
+| **[Scalable Bayesian inference for time series via divide-and-conquer](http://arxiv.org/abs/2106.11043v3)** | 2024-07-25 |  |
+| **[Targeted stochastic gradient Markov chain Monte Carlo for hidden Markov models with rare latent states](http://arxiv.org/abs/1810.13431v3)** | 2024-07-25 |  |
+| **[DAM: Towards A Foundation Model for Time Series Forecasting](http://arxiv.org/abs/2407.17880v1)** | 2024-07-25 |  |
+| **[EEG-SSM: Leveraging State-Space Model for Dementia Detection](http://arxiv.org/abs/2407.17801v1)** | 2024-07-25 |  |
+| **[High Significant Fault Detection in Azure Core Workload Insights](http://arxiv.org/abs/2404.09302v2)** | 2024-07-25 | <details><summary>Publi...</summary><p>Published in IAAI 2024, which is the Industrial track of AAAI 2024</p></details> |
+| **[A Survey on Hypergraph Neural Networks: An In-Depth and Step-By-Step Guide](http://arxiv.org/abs/2404.01039v3)** | 2024-07-25 | <details><summary>To ap...</summary><p>To appear in KDD 2024 (survey paper). The typo in Equation (5) has been fixed</p></details> |
+| **[Predicting the structure of dynamic graphs](http://arxiv.org/abs/2401.04280v2)** | 2024-07-25 |  |
+| **[Causal estimands and identification of time-varying effects in non-stationary time series from N-of-1 mobile device data](http://arxiv.org/abs/2407.17666v1)** | 2024-07-24 |  |
+| **[POCKET: Pruning Random Convolution Kernels for Time Series Classification from a Feature Selection Perspective](http://arxiv.org/abs/2309.08499v4)** | 2024-07-24 |  |
+| **[Periodicity significance testing with null-signal templates: reassessment of PTF's SMBH binary candidates](http://arxiv.org/abs/2407.17565v1)** | 2024-07-24 | 13 pages, 12 figures |
 | **[EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification](http://arxiv.org/abs/2407.17458v1)** | 2024-07-24 | 5 pages, 5 figures |
 | **[Channel-Aware Low-Rank Adaptation in Time Series Forecasting](http://arxiv.org/abs/2407.17246v1)** | 2024-07-24 | <details><summary>Accep...</summary><p>Accepted by CIKM 2024, short research paper track</p></details> |
-| **[Explainable Artificial Intelligence Techniques for Irregular Temporal Classification of Multidrug Resistance Acquisition in Intensive Care Unit Patients](http://arxiv.org/abs/2407.17165v1)** | 2024-07-24 |  |
-| **[Contrastive Learning Is Not Optimal for Quasiperiodic Time Series](http://arxiv.org/abs/2407.17073v1)** | 2024-07-24 | <details><summary>Accep...</summary><p>Accepted to IJCAI 2024</p></details> |
-| **[Time Series Missing Imputation with Multivariate Radial Basis Function Neural Network](http://arxiv.org/abs/2407.17040v1)** | 2024-07-24 |  |
-| **[Nonlinear Schrödinger Network](http://arxiv.org/abs/2407.14504v2)** | 2024-07-24 |  |
-| **[Label-efficient Time Series Representation Learning: A Review](http://arxiv.org/abs/2302.06433v4)** | 2024-07-24 | <details><summary>Accep...</summary><p>Accepted in the IEEE Transactions on Artificial Intelligence (TAI) https://ieeexplore.ieee.org/document/10601520</p></details> |
-| **[TLRN: Temporal Latent Residual Networks For Large Deformation Image Registration](http://arxiv.org/abs/2407.11219v2)** | 2024-07-24 | <details><summary>10 pa...</summary><p>10 pages. Accepted by MICCAI 2024</p></details> |
-| **[A Survey on Hypergraph Neural Networks: An In-Depth and Step-By-Step Guide](http://arxiv.org/abs/2404.01039v2)** | 2024-07-24 | <details><summary>To ap...</summary><p>To appear in KDD 2024 (survey paper)</p></details> |
-| **[A Library of Mirrors: Deep Neural Nets in Low Dimensions are Convex Lasso Models with Reflection Features](http://arxiv.org/abs/2403.01046v4)** | 2024-07-24 |  |
-| **[MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection](http://arxiv.org/abs/2403.19888v4)** | 2024-07-23 |  |
-| **[Forecasting Automotive Supply Chain Disruption with Heterogeneous Time Series](http://arxiv.org/abs/2407.16739v1)** | 2024-07-23 |  |
-| **[TimeInf: Time Series Data Contribution via Influence Functions](http://arxiv.org/abs/2407.15247v2)** | 2024-07-23 |  |
-| **[Sortability of Time Series Data](http://arxiv.org/abs/2407.13313v2)** | 2024-07-23 | <details><summary>Contr...</summary><p>Contribution for the Causal Inference for Time Series Data Workshop at the 40th Conference on Uncertainty in Artificial Intelligence (CI4TS 2024)</p></details> |
-| **[Can time series forecasting be automated? A benchmark and analysis](http://arxiv.org/abs/2407.16445v1)** | 2024-07-23 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trajectory-aligned Space-time Tokens for Few-shot Action Recognition](http://arxiv.org/abs/2407.18249v1)** | 2024-07-25 | ECCV 2024 |
+| **[Trajectory Planning Using Reinforcement Learning for Interactive Overtaking Maneuvers in Autonomous Racing Scenarios](http://arxiv.org/abs/2404.10658v2)** | 2024-07-25 | <details><summary>8 pag...</summary><p>8 pages, accepted to be published at the 27th IEEE International Conference on Intelligent Transportation Systems, September 24 - 27, 2024, Edmonton, Canada</p></details> |
 | **[Sampling-Based Hierarchical Trajectory Planning for Formation Flight](http://arxiv.org/abs/2407.17392v1)** | 2024-07-24 |  |
 | **[Exploring Commercial Vehicle Detouring Patterns through the Application of Probe Trajectory Data](http://arxiv.org/abs/2407.17319v1)** | 2024-07-24 | <details><summary>Prese...</summary><p>Presented at Transportation Research Board Annual Meeting 2024. Presentation number: TRBAM-24-02157</p></details> |
 | **[TLControl: Trajectory and Language Control for Human Motion Synthesis](http://arxiv.org/abs/2311.17135v4)** | 2024-07-24 |  |
@@ -39,25 +41,23 @@ labels: documentation
 | **[PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning](http://arxiv.org/abs/2407.16729v1)** | 2024-07-23 |  |
 | **[Constrained Stein Variational Trajectory Optimization](http://arxiv.org/abs/2308.12110v3)** | 2024-07-23 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 3 tables</p></details> |
 | **[Dynamic Factor Analysis with Dependent Gaussian Processes for High-Dimensional Gene Expression Trajectories](http://arxiv.org/abs/2307.02781v2)** | 2024-07-22 |  |
-| **[MuTT: A Multimodal Trajectory Transformer for Robot Skills](http://arxiv.org/abs/2407.15660v1)** | 2024-07-22 |  |
-| **[Paths of A Million People: Extracting Life Trajectories from Wikipedia](http://arxiv.org/abs/2406.00032v2)** | 2024-07-21 | <details><summary>Accep...</summary><p>Accepted to ICWSM 2025. 15 pages</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction](http://arxiv.org/abs/2407.18184v1)** | 2024-07-25 |  |
+| **[Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning](http://arxiv.org/abs/2407.18181v1)** | 2024-07-25 | <details><summary>Accep...</summary><p>Accepted into the ICML 2024 AI for Science workshop</p></details> |
+| **[RIDA: A Robust Attack Framework on Incomplete Graphs](http://arxiv.org/abs/2407.18170v1)** | 2024-07-25 |  |
+| **[Expressivity and Generalization: Fragment-Biases for Molecular GNNs](http://arxiv.org/abs/2406.08210v2)** | 2024-07-25 |  |
+| **[Personalized and Context-aware Route Planning for Edge-assisted Vehicles](http://arxiv.org/abs/2407.17980v1)** | 2024-07-25 |  |
+| **[Physics-Enhanced Graph Neural Networks For Soft Sensing in Industrial Internet of Things](http://arxiv.org/abs/2404.08061v2)** | 2024-07-25 | <details><summary>14 pa...</summary><p>14 pages, 10 figures. Accepted to IEEE Internet of Things Journal</p></details> |
+| **[Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network](http://arxiv.org/abs/2407.17857v1)** | 2024-07-25 | ECCV 2024 |
+| **[SES: Bridging the Gap Between Explainability and Prediction of Graph Neural Networks](http://arxiv.org/abs/2407.11358v2)** | 2024-07-25 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICDE 2024</p></details> |
+| **[Your Graph Recommender is Provably a Single-view Graph Contrastive Learning](http://arxiv.org/abs/2407.17723v1)** | 2024-07-25 |  |
+| **[Context-aware knowledge graph framework for traffic speed forecasting using graph neural network](http://arxiv.org/abs/2407.17703v1)** | 2024-07-25 | 13 pages, 4 figures |
+| **[Generating Explanations for Cellular Neural Networks](http://arxiv.org/abs/2406.03253v3)** | 2024-07-24 |  |
 | **[Systematic Reasoning About Relational Domains With Graph Neural Networks](http://arxiv.org/abs/2407.17396v1)** | 2024-07-24 | <details><summary>10+16...</summary><p>10+16 pages, 2+7 figures, 4+9 tables. Preprint under review. Comments welcome</p></details> |
 | **[Global and Local Confidence Based Fraud Detection Graph Neural Network](http://arxiv.org/abs/2407.17333v1)** | 2024-07-24 |  |
 | **[Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs](http://arxiv.org/abs/2311.14324v2)** | 2024-07-24 | 10 pages |
 | **[Graph Neural Networks: A suitable Alternative to MLPs in Latent 3D Medical Image Classification?](http://arxiv.org/abs/2407.17219v1)** | 2024-07-24 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2024 - GRAIL Workshop</p></details> |
-| **[Efficient Tuning and Inference for Large Language Models on Textual Graphs](http://arxiv.org/abs/2401.15569v2)** | 2024-07-24 | <details><summary>Accep...</summary><p>Accepted by IJCAI2024</p></details> |
-| **[Heterophily-Aware Fair Recommendation using Graph Convolutional Networks](http://arxiv.org/abs/2402.03365v2)** | 2024-07-24 |  |
-| **[Multimodal Detection of Bots on X (Twitter) using Transformers](http://arxiv.org/abs/2308.14484v2)** | 2024-07-24 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Information Forensics and Security (Accepted)</p></details> |
-| **[Curriculum Negative Mining For Temporal Networks](http://arxiv.org/abs/2407.17070v1)** | 2024-07-24 |  |
-| **[Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models](http://arxiv.org/abs/2402.16568v2)** | 2024-07-24 | <details><summary>Accep...</summary><p>Accepted by ACL(Findings) 2024</p></details> |
-| **[Symplectic Structure-Aware Hamiltonian (Graph) Embeddings](http://arxiv.org/abs/2309.04885v4)** | 2024-07-23 | A Note |
-| **[Learning Networked Dynamical System Models with Weak Form and Graph Neural Networks](http://arxiv.org/abs/2407.16779v1)** | 2024-07-23 |  |
-| **[Molecular Topological Profile (MOLTOP) -- Simple and Strong Baseline for Molecular Graph Classification](http://arxiv.org/abs/2407.12136v3)** | 2024-07-23 |  |
-| **[Deep-Graph-Sprints: Accelerated Representation Learning in Continuous-Time Dynamic Graphs](http://arxiv.org/abs/2407.07712v2)** | 2024-07-23 |  |
-| **[Graph Neural Networks for Learning Equivariant Representations of Neural Networks](http://arxiv.org/abs/2403.12143v3)** | 2024-07-23 | <details><summary>In IC...</summary><p>In ICLR 2024. Source code: https://github.com/mkofinas/neural-graphs</p></details> |
-| **[E-TSL: A Continuous Educational Turkish Sign Language Dataset with Baseline Methods](http://arxiv.org/abs/2405.02984v2)** | 2024-07-23 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 4 tables</p></details> |
 
