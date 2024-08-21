@@ -2,7 +2,7 @@
 title: Latest 15 Papers - August 22, 2024
 labels: documentation
 ---
-**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/zezhishao/DailyArXiv) page for a better reading experience and more papers.**
 
 ## Time Series
 | **Title** | **Date** | **Comment** |
