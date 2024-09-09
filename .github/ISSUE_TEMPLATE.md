@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2024
+title: Latest 15 Papers - September 10, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Modeling, Inference, and Prediction in Mobility-Based Compartmental Models for Epidemiology](http://arxiv.org/abs/2406.12002v2)** | 2024-09-06 | 19 pages, 8 figures |
+| **[Universal randomised signatures for generative time series modelling](http://arxiv.org/abs/2406.10214v2)** | 2024-09-06 | 33 pages |
+| **[Integer-only Quantized Transformers for Embedded FPGA-based Time-series Forecasting in AIoT](http://arxiv.org/abs/2407.11041v2)** | 2024-09-06 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 4 tables. The paper was accepted by 2024 IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) and got best paper award</p></details> |
+| **[Video alignment using unsupervised learning of local and global features](http://arxiv.org/abs/2304.06841v3)** | 2024-09-06 | 11 pages, 6 figures |
+| **[EgoPoser: Robust Real-Time Egocentric Pose Estimation from Sparse and Intermittent Observations Everywhere](http://arxiv.org/abs/2308.06493v3)** | 2024-09-06 | <details><summary>Accep...</summary><p>Accepted by ECCV 2024, Code: https://siplab.org/projects/EgoPoser</p></details> |
+| **[CryptoAnalytics: Cryptocoins Price Forecasting with Machine Learning Techniques](http://arxiv.org/abs/2409.04106v1)** | 2024-09-06 |  |
+| **[Digital Ecosystem for FAIR Time Series Data Management in Environmental System Science](http://arxiv.org/abs/2409.03351v2)** | 2024-09-06 |  |
+| **[Liquid Resistance Liquid Capacitance Networks](http://arxiv.org/abs/2403.08791v3)** | 2024-09-06 |  |
+| **[An Efficient and Generalizable Symbolic Regression Method for Time Series Analysis](http://arxiv.org/abs/2409.03986v1)** | 2024-09-06 |  |
+| **[Latent Space Energy-based Neural ODEs](http://arxiv.org/abs/2409.03845v1)** | 2024-09-05 |  |
+| **[AI forecasting of higher-order wave modes of spinning binary black hole mergers](http://arxiv.org/abs/2409.03833v1)** | 2024-09-05 | <details><summary>27 pa...</summary><p>27 pages, 1 appendix, 10 figures</p></details> |
 | **[Practical Forecasting of Cryptocoins Timeseries using Correlation Patterns](http://arxiv.org/abs/2409.03674v1)** | 2024-09-05 |  |
 | **[A method to benchmark high-dimensional process drift detection](http://arxiv.org/abs/2409.03669v1)** | 2024-09-05 |  |
 | **[VFLGAN-TS: Vertical Federated Learning-based Generative Adversarial Networks for Publication of Vertically Partitioned Time-Series Data](http://arxiv.org/abs/2409.03612v1)** | 2024-09-05 |  |
 | **[TSFool: Crafting Highly-Imperceptible Adversarial Time Series through Multi-Objective Attack](http://arxiv.org/abs/2209.06388v4)** | 2024-09-05 | <details><summary>27th ...</summary><p>27th European Conference on Artificial Intelligence (ECAI'24)</p></details> |
-| **[Digital Ecosystem for FAIR Time Series Data Management in Environmental System Science](http://arxiv.org/abs/2409.03351v1)** | 2024-09-05 |  |
-| **[On the edge eigenvalues of the precision matrices of nonstationary autoregressive processes](http://arxiv.org/abs/2109.02204v4)** | 2024-09-05 |  |
-| **[Interpretable mixture of experts for time series prediction under recurrent and non-recurrent conditions](http://arxiv.org/abs/2409.03282v1)** | 2024-09-05 |  |
-| **[Ecosystem knowledge should replace coexistence and stability assumptions in ecological network modelling](http://arxiv.org/abs/2405.00333v2)** | 2024-09-05 |  |
-| **[Application Research On Real-Time Perception Of Device Performance Status](http://arxiv.org/abs/2409.03218v1)** | 2024-09-05 |  |
-| **[Cointegration test in time series analysis by global optimisation](http://arxiv.org/abs/2409.02552v2)** | 2024-09-05 |  |
-| **[Prediction of COPD Using Machine Learning, Clinical Summary Notes, and Vital Signs](http://arxiv.org/abs/2408.13958v2)** | 2024-09-05 | 11 pages, 5 figures |
-| **[Explanation Space: A New Perspective into Time Series Interpretability](http://arxiv.org/abs/2409.01354v2)** | 2024-09-05 |  |
-| **[Non-stationary and Sparsely-correlated Multi-output Gaussian Process with Spike-and-Slab Prior](http://arxiv.org/abs/2409.03149v1)** | 2024-09-05 |  |
-| **[Penalized Subgrouping of Heterogeneous Time Series](http://arxiv.org/abs/2409.03085v1)** | 2024-09-04 |  |
-| **[Likelihood estimation for stochastic differential equations with mixed effects](http://arxiv.org/abs/2408.17257v2)** | 2024-09-04 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accelerating Training with Neuron Interaction and Nowcasting Networks](http://arxiv.org/abs/2409.04434v1)** | 2024-09-06 | <details><summary>code ...</summary><p>code https://github.com/SamsungSAILMontreal/nino</p></details> |
+| **[Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations](http://arxiv.org/abs/2408.16115v3)** | 2024-09-06 | <details><summary>9 pag...</summary><p>9 pages including appendix</p></details> |
+| **[GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding](http://arxiv.org/abs/2409.04183v1)** | 2024-09-06 |  |
+| **[CUQ-GNN: Committee-based Graph Uncertainty Quantification using Posterior Networks](http://arxiv.org/abs/2409.04159v1)** | 2024-09-06 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 1 table. Accepted at ECML PKDD 2024. arXiv admin note: substantial text overlap with arXiv:2406.04041</p></details> |
+| **[Large-scale Urban Facility Location Selection with Knowledge-informed Reinforcement Learning](http://arxiv.org/abs/2409.01588v2)** | 2024-09-06 | Sigspatial2024 |
+| **[PAGE: Parametric Generative Explainer for Graph Neural Network](http://arxiv.org/abs/2408.14042v2)** | 2024-09-06 |  |
+| **[Contrastive Graph Pooling for Explainable Classification of Brain Networks](http://arxiv.org/abs/2307.11133v3)** | 2024-09-06 |  |
+| **[PowerFlowMultiNet: Multigraph Neural Networks for Unbalanced Three-Phase Distribution Systems](http://arxiv.org/abs/2403.00892v3)** | 2024-09-06 |  |
 | **[A Graph-based Adversarial Imitation Learning Framework for Reliable & Realtime Fleet Scheduling in Urban Air Mobility](http://arxiv.org/abs/2407.12113v2)** | 2024-09-05 | <details><summary>Prese...</summary><p>Presented at the AIAA Aviation Forum 2024</p></details> |
 | **[Large Scale Training of Graph Neural Networks for Optimal Markov-Chain Partitioning Using the Kemeny Constant](http://arxiv.org/abs/2312.14847v3)** | 2024-09-05 |  |
 | **[Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks](http://arxiv.org/abs/2409.03463v1)** | 2024-09-05 |  |
@@ -52,12 +60,4 @@ labels: documentation
 | **[Regional data-driven weather modeling with a global stretched-grid](http://arxiv.org/abs/2409.02891v1)** | 2024-09-04 |  |
 | **[Task-Oriented Communication for Graph Data: A Graph Information Bottleneck Approach](http://arxiv.org/abs/2409.02728v1)** | 2024-09-04 |  |
 | **[GT-CausIn: a novel causal-based insight for traffic prediction](http://arxiv.org/abs/2212.05782v2)** | 2024-09-04 |  |
-| **[CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation](http://arxiv.org/abs/2305.06294v3)** | 2024-09-04 | <details><summary>Accep...</summary><p>Accepted by INLG 2024</p></details> |
-| **[Word and Phrase Features in Graph Convolutional Network for Automatic Question Classification](http://arxiv.org/abs/2409.02481v1)** | 2024-09-04 |  |
-| **[NFARec: A Negative Feedback-Aware Recommender Model](http://arxiv.org/abs/2404.06900v3)** | 2024-09-04 | <details><summary>Accep...</summary><p>Accepted to SIGIR 2024</p></details> |
-| **[CaDRec: Contextualized and Debiased Recommender Model](http://arxiv.org/abs/2404.06895v3)** | 2024-09-04 | <details><summary>Accep...</summary><p>Accepted to SIGIR 2024</p></details> |
-| **[Liquid-Graph Time-Constant Network for Multi-Agent Systems Control](http://arxiv.org/abs/2404.13982v2)** | 2024-09-04 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2305.19235</p></details> |
-| **[Predicting and Interpreting Energy Barriers of Metallic Glasses with Graph Neural Networks](http://arxiv.org/abs/2401.08627v3)** | 2024-09-04 | <details><summary>ICML ...</summary><p>ICML 2024. Code available at https://github.com/haoyuli02/SymGNN</p></details> |
-| **[Do We Trust What They Say or What They Do? A Multimodal User Embedding Provides Personalized Explanations](http://arxiv.org/abs/2409.02965v1)** | 2024-09-04 |  |
-| **[A Lesion-aware Edge-based Graph Neural Network for Predicting Language Ability in Patients with Post-stroke Aphasia](http://arxiv.org/abs/2409.02303v1)** | 2024-09-03 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2024 International Workshop on Machine Learning in Clinical Neuroimaging (MLCN)</p></details> |
 
