@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2024
+title: Latest 15 Papers - September 24, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -29,7 +29,7 @@ labels: documentation
 | **[GDTS: Goal-Guided Diffusion Model with Tree Sampling for Multi-Modal Pedestrian Trajectory Prediction](http://arxiv.org/abs/2311.14922v2)** | 2024-09-18 | <details><summary>Submi...</summary><p>Submitted to ICRA 2025</p></details> |
 | **[A Generic Trajectory Planning Method for Constrained All-Wheel-Steering Robots](http://arxiv.org/abs/2404.09677v3)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted by iROS 2024</p></details> |
 | **[Hyper-STTN: Social Group-aware Spatial-Temporal Transformer Network for Human Trajectory Prediction with Hypergraph Reasoning](http://arxiv.org/abs/2401.06344v2)** | 2024-09-17 |  |
-| **[TISIS : Trajectory Indexing for SImilarity Search](http://arxiv.org/abs/2409.11301v1)** | 2024-09-17 |  |
+| **[TISIS : Trajectory Indexing for SImilarity Search](http://arxiv.org/abs/2409.11301v2)** | 2024-09-20 |  |
 | **[Leveraging Symmetry to Accelerate Learning of Trajectory Tracking Controllers for Free-Flying Robotic Systems](http://arxiv.org/abs/2409.11238v1)** | 2024-09-17 | <details><summary>The f...</summary><p>The first three authors contributed equally to this work</p></details> |
 | **[TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection](http://arxiv.org/abs/2409.10901v1)** | 2024-09-17 |  |
 | **[Constraint-Informed Learning for Warm Starting Trajectory Optimization](http://arxiv.org/abs/2312.14336v2)** | 2024-09-17 |  |
