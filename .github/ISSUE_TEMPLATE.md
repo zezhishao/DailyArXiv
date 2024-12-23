@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2024
+title: Latest 15 Papers - December 24, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Representation Learning of Daily Movement Data Using Text Encoders](http://arxiv.org/abs/2405.04494v2)** | 2024-12-20 | <details><summary>Accep...</summary><p>Accepted at ICLR 2024 Workshop on Learning from Time Series For Health: https://openreview.net/forum?id=mmxNNwxvWG</p></details> |
+| **[Learning ECG Signal Features Without Backpropagation Using Linear Laws](http://arxiv.org/abs/2307.01930v2)** | 2024-12-20 | <details><summary>35 pa...</summary><p>35 pages, 3 figures, 3 tables</p></details> |
+| **[Explainable AI for Multivariate Time Series Pattern Exploration: Latent Space Visual Analytics with Time Fusion Transformer and Variational Autoencoders in Power Grid Event Diagnosis](http://arxiv.org/abs/2412.16098v1)** | 2024-12-20 |  |
+| **[CNN-LSTM Hybrid Deep Learning Model for Remaining Useful Life Estimation](http://arxiv.org/abs/2412.15998v1)** | 2024-12-20 | conference paper |
+| **[Geographic distribution of the global agricultural workforce every decade for the years 2000-2100](http://arxiv.org/abs/2412.15841v1)** | 2024-12-20 |  |
+| **[Using matrix-product states for time-series machine learning](http://arxiv.org/abs/2412.15826v1)** | 2024-12-20 | 27 pages, 13 figures |
+| **[Identifying Macro Conditional Independencies and Macro Total Effects in Summary Causal Graphs with Latent Confounding](http://arxiv.org/abs/2407.07934v4)** | 2024-12-20 | <details><summary>Accep...</summary><p>Accepted CI4TS Workshop at UAI2024. Accepted at AAAI25</p></details> |
+| **[PoisonCatcher: Revealing and Identifying LDP Poisoning Attacks in IIoT](http://arxiv.org/abs/2412.15704v1)** | 2024-12-20 | <details><summary>12 pa...</summary><p>12 pages,5 figures, 3 tables</p></details> |
+| **[Architecture-Aware Learning Curve Extrapolation via Graph Ordinary Differential Equation](http://arxiv.org/abs/2412.15554v1)** | 2024-12-20 |  |
+| **[System Safety Monitoring of Learned Components Using Temporal Metric Forecasting](http://arxiv.org/abs/2405.13254v3)** | 2024-12-20 | <details><summary>Accep...</summary><p>Accepted for publication by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
+| **[Granger Causality Detection with Kolmogorov-Arnold Networks](http://arxiv.org/abs/2412.15373v1)** | 2024-12-19 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
 | **[DroughtSet: Understanding Drought Through Spatial-Temporal Learning](http://arxiv.org/abs/2412.15075v1)** | 2024-12-19 | Accepted by AAAI25 |
+| **[Enhancing Masked Time-Series Modeling via Dropping Patches](http://arxiv.org/abs/2412.15315v1)** | 2024-12-19 |  |
+| **[PCA-Featured Transformer for Jamming Detection in 5G UAV Networks](http://arxiv.org/abs/2412.15312v1)** | 2024-12-19 |  |
 | **[Clustering of timed sequences -- Application to the analysis of care pathways](http://arxiv.org/abs/2404.15379v3)** | 2024-12-19 |  |
-| **[Unveiling social vibrancy in urban spaces with app usage](http://arxiv.org/abs/2412.14943v1)** | 2024-12-19 | <details><summary>40 pa...</summary><p>40 pages, 10 figures. Submitted to Computers, Environment and Urban Systems</p></details> |
-| **[An Analysis of Sea Level Spatial Variability by Topological Indicators and $k$-means Clustering Algorithm](http://arxiv.org/abs/2405.04269v3)** | 2024-12-19 | <details><summary>the p...</summary><p>the paper contains error</p></details> |
-| **[Hybridization of Persistent Homology with Neural Networks for Time-Series Prediction: A Case Study in Wave Height](http://arxiv.org/abs/2409.01519v3)** | 2024-12-19 | <details><summary>the p...</summary><p>the paper contain errors</p></details> |
-| **[A Comprehensive Forecasting Framework based on Multi-Stage Hierarchical Forecasting Reconciliation and Adjustment](http://arxiv.org/abs/2412.14718v1)** | 2024-12-19 | <details><summary>Publi...</summary><p>Published in 2024 IEEE International Conference on Big Data (BigData)</p></details> |
-| **[Learning Deep Dissipative Dynamics](http://arxiv.org/abs/2408.11479v2)** | 2024-12-19 | AAAI 2025 |
-| **[DualDynamics: Synergizing Implicit and Explicit Methods for Robust Irregular Time Series Analysis](http://arxiv.org/abs/2401.04979v3)** | 2024-12-19 | <details><summary>Publi...</summary><p>Published at the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</p></details> |
-| **[Leveraging Time Series Categorization and Temporal Fusion Transformers to Improve Cryptocurrency Price Forecasting](http://arxiv.org/abs/2412.14529v1)** | 2024-12-19 |  |
-| **[Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine](http://arxiv.org/abs/2412.14435v1)** | 2024-12-19 | <details><summary>Proce...</summary><p>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25), February 25-March 4, 2025, Philadelphia, Pennsylvania, USA</p></details> |
-| **[DTW+S: Shape-based Comparison of Time-series with Ordered Local Trend](http://arxiv.org/abs/2309.03579v3)** | 2024-12-18 | <details><summary>Longe...</summary><p>Longer version of the paper "Aligning Time-series by Local Trends: Applications in Public Health" accepted at The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</p></details> |
-| **[Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture](http://arxiv.org/abs/2412.13935v1)** | 2024-12-18 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, International Conference on Data Science and Management of Data (CODS-COMAD), IIT Jodhpur, 2024</p></details> |
-| **[TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment](http://arxiv.org/abs/2406.01638v4)** | 2024-12-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025 (Main Technical Track)</p></details> |
-| **[QuLTSF: Long-Term Time Series Forecasting with Quantum Machine Learning](http://arxiv.org/abs/2412.13769v1)** | 2024-12-18 | <details><summary>submi...</summary><p>submitted for conference publication</p></details> |
-| **[Context Matters: Leveraging Contextual Features for Time Series Forecasting](http://arxiv.org/abs/2410.12672v4)** | 2024-12-18 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Traffic-Rule-Compliant Trajectory Repair via Satisfiability Modulo Theories and Reachability Analysis](http://arxiv.org/abs/2412.15837v1)** | 2024-12-20 | <details><summary>2024 ...</summary><p>2024 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction](http://arxiv.org/abs/2412.15673v1)** | 2024-12-20 |  |
+| **[AdaFold: Adapting Folding Trajectories of Cloths via Feedback-loop Manipulation](http://arxiv.org/abs/2403.06210v4)** | 2024-12-20 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 5 tables</p></details> |
+| **[Offline Safe Reinforcement Learning Using Trajectory Classification](http://arxiv.org/abs/2412.15429v1)** | 2024-12-19 | AAAI 2025 |
 | **[LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis](http://arxiv.org/abs/2412.15214v1)** | 2024-12-19 | <details><summary>Proje...</summary><p>Project page available at https://ppetrichor.github.io/levitor.github.io/</p></details> |
 | **[STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning](http://arxiv.org/abs/2412.15182v1)** | 2024-12-19 | <details><summary>Proje...</summary><p>Project website at https://weirdlabuw.github.io/strap/</p></details> |
 | **[Tracing the Roots: Leveraging Temporal Dynamics in Diffusion Trajectories for Origin Attribution](http://arxiv.org/abs/2411.07449v2)** | 2024-12-19 |  |
@@ -37,14 +41,17 @@ labels: documentation
 | **[TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification](http://arxiv.org/abs/2412.13037v2)** | 2024-12-18 |  |
 | **[Audio Array-Based 3D UAV Trajectory Estimation with LiDAR Pseudo-Labeling](http://arxiv.org/abs/2412.12698v2)** | 2024-12-18 |  |
 | **[Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction](http://arxiv.org/abs/2412.13419v1)** | 2024-12-18 |  |
-| **[Choice Between Partial Trajectories: Disentangling Goals from Beliefs](http://arxiv.org/abs/2410.22690v2)** | 2024-12-18 |  |
-| **[C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-Aware Trajectory Prediction](http://arxiv.org/abs/2412.13231v1)** | 2024-12-17 |  |
-| **[Safe Trajectory Sets for Online Operation of Power Systems under Uncertainty](http://arxiv.org/abs/2412.12749v1)** | 2024-12-17 |  |
-| **[Multi-UAV Collaborative Trajectory Planning for Seamless Data Collection and Transmission](http://arxiv.org/abs/2412.12494v1)** | 2024-12-17 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, submitted to WCNC Workshop 2025</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphSeqLM: A Unified Graph Language Framework for Omic Graph Learning](http://arxiv.org/abs/2412.15790v1)** | 2024-12-20 |  |
+| **[Prompt-based Unifying Inference Attack on Graph Neural Networks](http://arxiv.org/abs/2412.15735v1)** | 2024-12-20 | <details><summary>Accep...</summary><p>Accepted by the 39th AAAI Conference on Artificial Intelligence (AAAI-25)</p></details> |
+| **[Federated Graph Condensation with Information Bottleneck Principles](http://arxiv.org/abs/2405.03911v4)** | 2024-12-20 | <details><summary>14 pa...</summary><p>14 pages. Accepted by AAAI 2025</p></details> |
+| **[Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck](http://arxiv.org/abs/2412.15589v1)** | 2024-12-20 | 15 pages |
+| **[X-MeshGraphNet: Scalable Multi-Scale Graph Neural Networks for Physics Simulation](http://arxiv.org/abs/2411.17164v2)** | 2024-12-20 |  |
+| **[Investigating Relational State Abstraction in Collaborative MARL](http://arxiv.org/abs/2412.15388v1)** | 2024-12-19 |  |
+| **[Revisiting Concept Drift in Windows Malware Detection: Adaptation to Real Drifted Malware with Minimal Samples](http://arxiv.org/abs/2407.13918v2)** | 2024-12-19 |  |
 | **[Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition](http://arxiv.org/abs/2412.15063v1)** | 2024-12-19 | 13 pages, 7 figures |
 | **[LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings](http://arxiv.org/abs/2408.14512v3)** | 2024-12-19 |  |
 | **[Learning from Linear Algebra: A Graph Neural Network Approach to Preconditioner Design for Conjugate Gradient Solvers](http://arxiv.org/abs/2405.15557v2)** | 2024-12-19 |  |
@@ -53,11 +60,4 @@ labels: documentation
 | **[Shape error prediction in 5-axis machining using graph neural networks](http://arxiv.org/abs/2412.10341v2)** | 2024-12-19 |  |
 | **[Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation](http://arxiv.org/abs/2412.11654v2)** | 2024-12-19 | <details><summary>11 pa...</summary><p>11 pages, Accpected by AAAI2025</p></details> |
 | **[Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation](http://arxiv.org/abs/2412.14738v1)** | 2024-12-19 |  |
-| **[Grimm: A Plug-and-Play Perturbation Rectifier for Graph Neural Networks Defending against Poisoning Attacks](http://arxiv.org/abs/2412.08555v2)** | 2024-12-19 | 19 pages, 13 figures |
-| **[DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models](http://arxiv.org/abs/2412.08160v4)** | 2024-12-19 | <details><summary>Accep...</summary><p>Accepted by the Main Technical Track of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-2025)</p></details> |
-| **[IOHunter: Graph Foundation Model to Uncover Online Information Operations](http://arxiv.org/abs/2412.14663v1)** | 2024-12-19 | 9 pages |
-| **[Trainable Adaptive Activation Function Structure (TAAFS) Enhances Neural Network Force Field Performance with Only Dozens of Additional Parameters](http://arxiv.org/abs/2412.14655v1)** | 2024-12-19 |  |
-| **[Towards Scalable and Deep Graph Neural Networks via Noise Masking](http://arxiv.org/abs/2412.14602v1)** | 2024-12-19 |  |
-| **[Learning and Reconstructing Conflicts in O-RAN: A Graph Neural Network Approach](http://arxiv.org/abs/2412.14119v1)** | 2024-12-18 |  |
-| **[Adversarial Robustness of Link Sign Prediction in Signed Graphs](http://arxiv.org/abs/2401.10590v2)** | 2024-12-18 |  |
 
