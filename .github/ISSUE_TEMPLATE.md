@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2025
+title: Latest 15 Papers - March 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Persistent Homology-induced Graph Ensembles for Time Series Regressions](http://arxiv.org/abs/2503.14240v1)** | 2025-03-18 |  |
+| **[Inferring Event Descriptions from Time Series with Language Models](http://arxiv.org/abs/2503.14190v1)** | 2025-03-18 | 17 pages, 9 Figures |
+| **[Theoretical Foundation of Flow-Based Time Series Generation: Provable Approximation, Generalization, and Efficiency](http://arxiv.org/abs/2503.14076v1)** | 2025-03-18 | 33 pages |
+| **[QuLTSF: Long-Term Time Series Forecasting with Quantum Machine Learning](http://arxiv.org/abs/2412.13769v2)** | 2025-03-18 | <details><summary>Publi...</summary><p>Published in ICAART 2025</p></details> |
+| **[Towards Neural Scaling Laws for Time Series Foundation Models](http://arxiv.org/abs/2410.12360v3)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted by the 13th International Conference on Learning Representations (ICLR 2025)</p></details> |
+| **[Out-of-Distribution Generalization in Time Series: A Survey](http://arxiv.org/abs/2503.13868v1)** | 2025-03-18 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 5 tables. Work in Progress</p></details> |
+| **[Epidemic Forecasting with a Hybrid Deep Learning Method Using CNN-LSTM With WOA-GWO Parameter Optimization: Global COVID-19 Case Study](http://arxiv.org/abs/2503.12813v2)** | 2025-03-18 |  |
+| **[Continuous Time Locally Stationary Wavelet Processes](http://arxiv.org/abs/2310.12788v6)** | 2025-03-17 | 47 pages, 17 figures |
+| **[Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product](http://arxiv.org/abs/2501.09129v2)** | 2025-03-17 | <details><summary>19 pa...</summary><p>19 pages, 18 figures, 5 tables. Preprint. Submitted to JSTARS. Revised figures, clarifications, added references</p></details> |
+| **[Multi-modal Time Series Analysis: A Tutorial and Survey](http://arxiv.org/abs/2503.13709v1)** | 2025-03-17 |  |
+| **[Population Transformer: Learning Population-level Representations of Neural Activity](http://arxiv.org/abs/2406.03044v3)** | 2025-03-17 | <details><summary>22 pa...</summary><p>22 pages, 17 figures, ICLR 2025</p></details> |
+| **[TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification](http://arxiv.org/abs/2406.04419v2)** | 2025-03-17 |  |
 | **[Highly Efficient Direct Analytics on Semantic-aware Time Series Data Compression](http://arxiv.org/abs/2503.13246v1)** | 2025-03-17 |  |
 | **[SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition](http://arxiv.org/abs/2410.10624v2)** | 2025-03-17 |  |
 | **[Augmented Invertible Koopman Autoencoder for long-term time series forecasting](http://arxiv.org/abs/2503.12930v1)** | 2025-03-17 |  |
-| **[Early Detection of Forest Calamities in Homogeneous Stands -- Deep Learning Applied to Bark-Beetle Outbreaks](http://arxiv.org/abs/2503.12883v1)** | 2025-03-17 | <details><summary>24 pa...</summary><p>24 pages, 18 figures, submitted to IEEE: Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
-| **[Epidemic Forecasting with a Hybrid Deep Learning Method Using CNN LSTM With WOA GWO Optimization: Global COVID-19 Case Study](http://arxiv.org/abs/2503.12813v1)** | 2025-03-17 |  |
-| **[Change Point Detection in Dynamic Graphs with Decoder-only Latent Space Model](http://arxiv.org/abs/2404.04719v3)** | 2025-03-17 |  |
-| **[Realized Volatility Forecasting for New Issues and Spin-Offs using Multi-Source Transfer Learning](http://arxiv.org/abs/2503.12648v1)** | 2025-03-16 | <details><summary>Submi...</summary><p>Submitted to the International Journal of Forecasting</p></details> |
-| **[The Conditional Cauchy-Schwarz Divergence with Applications to Time-Series Data and Sequential Decision Making](http://arxiv.org/abs/2301.08970v3)** | 2025-03-16 | <details><summary>manus...</summary><p>manuscript is accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence. The code is available at \url{https://github.com/SJYuCNEL/conditional_CS_divergence}</p></details> |
-| **[Time-EAPCR-T: A Universal Deep Learning Approach for Anomaly Detection in Industrial Equipment](http://arxiv.org/abs/2503.12534v1)** | 2025-03-16 |  |
-| **[KDSelector: A Knowledge-Enhanced and Data-Efficient Model Selector Learning Framework for Time Series Anomaly Detection](http://arxiv.org/abs/2503.12478v1)** | 2025-03-16 | <details><summary>This ...</summary><p>This paper has been accepted by SIGMOD 2025</p></details> |
-| **[FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts](http://arxiv.org/abs/2501.15125v2)** | 2025-03-16 | <details><summary>Inter...</summary><p>International Conference on Artificial Intelligence and Statistics 2025 (AISTATS)</p></details> |
-| **[Learning under Temporal Label Noise](http://arxiv.org/abs/2402.04398v2)** | 2025-03-16 | <details><summary>The T...</summary><p>The Thirteenth International Conference on Learning Representations (ICLR 2025)</p></details> |
-| **[A Survey on State-of-the-art Deep Learning Applications and Challenges](http://arxiv.org/abs/2403.17561v6)** | 2025-03-16 | <details><summary>Under...</summary><p>Under review (Revision 1)</p></details> |
-| **[Lithium-ion Battery Capacity Prediction via Conditional Recurrent Generative Adversarial Network-based Time-Series Regeneration](http://arxiv.org/abs/2503.12258v1)** | 2025-03-15 | 7 pages, 6 figures |
-| **[A Survey on Deep Learning based Time Series Analysis with Frequency Transformation](http://arxiv.org/abs/2302.02173v5)** | 2025-03-15 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stochastic Trajectory Prediction under Unstructured Constraints](http://arxiv.org/abs/2503.14203v1)** | 2025-03-18 | <details><summary>has b...</summary><p>has been accepted by ICRA 2025</p></details> |
+| **[Riemannian Variational Calculus: Optimal Trajectories Under Inertia, Gravity, and Drag Effects](http://arxiv.org/abs/2410.09657v2)** | 2025-03-18 | <details><summary>6 pag...</summary><p>6 pages, submitted to IEEE Control Systems Letters (L-CSS)</p></details> |
+| **[A finite-sample bound for identifying partially observed linear switched systems from a single trajectory](http://arxiv.org/abs/2503.13766v1)** | 2025-03-17 |  |
 | **[TraSCE: Trajectory Steering for Concept Erasure](http://arxiv.org/abs/2412.07658v2)** | 2025-03-17 |  |
 | **[Trajectory Optimization for Spatial Microstructure Control in Electron Beam Metal Additive Manufacturing](http://arxiv.org/abs/2410.18207v2)** | 2025-03-17 | 6 pages, 6 figures |
 | **[A representational framework for learning and encoding structurally enriched trajectories in complex agent environments](http://arxiv.org/abs/2503.13194v1)** | 2025-03-17 |  |
@@ -38,26 +41,23 @@ labels: documentation
 | **[D4orm: Multi-Robot Trajectories with Dynamics-aware Diffusion Denoised Deformations](http://arxiv.org/abs/2503.12204v1)** | 2025-03-15 |  |
 | **[Robust Dataset Distillation by Matching Adversarial Trajectories](http://arxiv.org/abs/2503.12069v1)** | 2025-03-15 |  |
 | **[Learning a Fast Mixing Exogenous Block MDP using a Single Trajectory](http://arxiv.org/abs/2410.03016v2)** | 2025-03-15 | ICLR 2025 |
-| **[Sketch-to-Skill: Bootstrapping Robot Learning with Human Drawn Trajectory Sketches](http://arxiv.org/abs/2503.11918v1)** | 2025-03-14 | <details><summary>Peiho...</summary><p>Peihong Yu and Amisha Bhaskar contributed equally to this work</p></details> |
-| **[Curves Ahead: Enhancing the Steering Law for Complex Curved Trajectories](http://arxiv.org/abs/2503.11914v1)** | 2025-03-14 |  |
-| **[Toward Unified Practices in Trajectory Prediction Research on Drone Datasets](http://arxiv.org/abs/2405.00604v3)** | 2025-03-14 | <details><summary>https...</summary><p>https://github.com/westny/dronalize</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sustainable Greenhouse Microclimate Modeling: A Comparative Analysis of Recurrent and Graph Neural Networks](http://arxiv.org/abs/2502.17371v3)** | 2025-03-18 |  |
+| **[Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models](http://arxiv.org/abs/2503.14411v1)** | 2025-03-18 | Submit to ICML2025 |
+| **[A Graph-Enhanced Deep-Reinforcement Learning Framework for the Aircraft Landing Problem](http://arxiv.org/abs/2502.12617v2)** | 2025-03-18 | <details><summary>27 pa...</summary><p>27 pages, submitted to ESWA, comments are welcome</p></details> |
+| **[Spatio-Temporal Graph Neural Networks for Infant Language Acquisition Prediction](http://arxiv.org/abs/2503.14341v1)** | 2025-03-18 |  |
+| **[Higher-Order Graphon Neural Networks: Approximation and Cut Distance](http://arxiv.org/abs/2503.14338v1)** | 2025-03-18 | <details><summary>51 pa...</summary><p>51 pages, 6 figures, ICLR 2025</p></details> |
+| **[VGFL-SA: Vertical Graph Federated Learning Structure Attack Based on Contrastive Learning](http://arxiv.org/abs/2502.16793v2)** | 2025-03-18 |  |
+| **[Persistent Homology-induced Graph Ensembles for Time Series Regressions](http://arxiv.org/abs/2503.14240v1)** | 2025-03-18 |  |
+| **[Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation](http://arxiv.org/abs/2503.14213v1)** | 2025-03-18 | <details><summary>8 pag...</summary><p>8 pages, published in the international conference for AI in Finance (ACM ICAIF'24)</p></details> |
 | **[SMPR: A structure-enhanced multimodal drug-disease prediction model for drug repositioning and cold start](http://arxiv.org/abs/2503.13322v1)** | 2025-03-17 |  |
+| **[Tensor Networks Meet Neural Networks: A Survey and Future Perspectives](http://arxiv.org/abs/2302.09019v3)** | 2025-03-17 |  |
 | **[MIXPINN: Mixed-Material Simulations by Physics-Informed Neural Network](http://arxiv.org/abs/2503.13123v1)** | 2025-03-17 | <details><summary>This ...</summary><p>This work has been submitted to the lEEE IROS 2025 for possible publication</p></details> |
 | **[TA-GNN: Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction](http://arxiv.org/abs/2503.13034v1)** | 2025-03-17 |  |
 | **[Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks](http://arxiv.org/abs/2501.16944v2)** | 2025-03-17 | <details><summary>Prepr...</summary><p>Preprint Version. Accepted at ICLR 2025</p></details> |
 | **[GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation](http://arxiv.org/abs/2503.12600v1)** | 2025-03-16 |  |
 | **[Diffusion on Graph: Augmentation of Graph Structure for Node Classification](http://arxiv.org/abs/2503.12563v1)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) 2025</p></details> |
-| **[Learning Privacy from Visual Entities](http://arxiv.org/abs/2503.12464v1)** | 2025-03-16 | <details><summary>21 pa...</summary><p>21 pages (13 for the main article, 8 for bibliography, acks, appendixes), 9 figures, 12 tables. Article accepted and to appear in the Proceedings on Privacy Enhancing Technologies, 2025 (3): https://petsymposium.org/popets/2025/. To be presented at the Privacy Enhancing Technologies Symposium 2025. Artifact (source code) under review: https://github.com/graphnex/privacy-from-visual-entities</p></details> |
-| **[GCBLANE: A graph-enhanced convolutional BiLSTM attention network for improved transcription factor binding site prediction](http://arxiv.org/abs/2503.12377v1)** | 2025-03-16 |  |
-| **[LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence](http://arxiv.org/abs/2302.00924v4)** | 2025-03-16 |  |
-| **[TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics](http://arxiv.org/abs/2502.02975v3)** | 2025-03-15 | <details><summary>publi...</summary><p>published at ICLR 2025</p></details> |
-| **[Unsupervised Graph Anomaly Detection via Multi-Hypersphere Heterophilic Graph Learning](http://arxiv.org/abs/2503.12037v1)** | 2025-03-15 |  |
-| **[Sparse Decomposition of Graph Neural Networks](http://arxiv.org/abs/2410.19723v2)** | 2025-03-15 |  |
-| **[Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation](http://arxiv.org/abs/2503.11999v1)** | 2025-03-15 |  |
-| **[Greener GRASS: Enhancing GNNs with Encoding, Rewiring, and Attention](http://arxiv.org/abs/2407.05649v5)** | 2025-03-14 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
-| **[Heterogenous graph neural networks for species distribution modeling](http://arxiv.org/abs/2503.11900v1)** | 2025-03-14 | 11 pages, 3 figures, |
 
