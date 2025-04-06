@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 04, 2025
+title: Latest 15 Papers - April 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[End-To-End Self-Tuning Self-Supervised Time Series Anomaly Detection](http://arxiv.org/abs/2404.02865v3)** | 2025-04-03 | Accepted at SDM 2025 |
+| **[A Dynamic, Ordinal Gaussian Process Item Response Theoretic Model](http://arxiv.org/abs/2504.02643v1)** | 2025-04-03 |  |
+| **[Adaptive Student's t-distribution with method of moments moving estimator for nonstationary time series](http://arxiv.org/abs/2304.03069v3)** | 2025-04-03 | 6 pages, 8 figures |
+| **[VISTA: Unsupervised 2D Temporal Dependency Representations for Time Series Anomaly Detection](http://arxiv.org/abs/2504.02498v1)** | 2025-04-03 |  |
+| **[FLEXtime: Filterbank learning to explain time series](http://arxiv.org/abs/2411.05841v3)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted to The 3rd World Conference on eXplainable Artificial Intelligence</p></details> |
+| **[Transformer-based Multivariate Time Series Anomaly Localization](http://arxiv.org/abs/2501.08628v2)** | 2025-04-03 |  |
+| **[Temporal Gaussian Copula For Clinical Multivariate Time Series Data Imputation](http://arxiv.org/abs/2504.02317v1)** | 2025-04-03 | Accepted in BIBM2024 |
+| **[Traffic Flow Data Completion and Anomaly Diagnosis via Sparse and Low-Rank Tensor Optimization](http://arxiv.org/abs/2504.02245v1)** | 2025-04-03 |  |
+| **[Bayesian Inference for High-dimensional Time Series with a Directed Acyclic Graphical Structure](http://arxiv.org/abs/2503.23563v2)** | 2025-04-03 |  |
+| **[Movement-Prediction-Adjusted Naïve Forecast](http://arxiv.org/abs/2406.14469v7)** | 2025-04-03 |  |
+| **[FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](http://arxiv.org/abs/2504.02174v1)** | 2025-04-02 | <details><summary>This ...</summary><p>This paper is accepted at ACM SIGMETRICS 2025. Proc. ACM Meas. Anal. Comput. Syst (2025)</p></details> |
+| **[Reducing Smoothness with Expressive Memory Enhanced Hierarchical Graph Neural Networks](http://arxiv.org/abs/2504.00349v2)** | 2025-04-02 |  |
+| **[Niche Dynamics in Complex Online Community Ecosystems](http://arxiv.org/abs/2504.02153v1)** | 2025-04-02 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conditionally accepted to ICWSM 2025</p></details> |
+| **[Efficient Model Selection for Time Series Forecasting via LLMs](http://arxiv.org/abs/2504.02119v1)** | 2025-04-02 | 16 pages, 3 Figures |
 | **[Limits to Analog Reservoir Learning](http://arxiv.org/abs/2307.14474v3)** | 2025-04-02 | 10 pages, 1 figure |
-| **[Virtual Target Trajectory Prediction for Stochastic Targets](http://arxiv.org/abs/2504.01851v1)** | 2025-04-02 | <details><summary>will ...</summary><p>will be submitted to Journal of Guidance, Control, and Dynamics</p></details> |
-| **[shapr: Explaining Machine Learning Models with Conditional Shapley Values in R and Python](http://arxiv.org/abs/2504.01842v1)** | 2025-04-02 |  |
-| **[Inference of hidden common driver dynamics by anisotropic self-organizing neural networks](http://arxiv.org/abs/2504.01811v1)** | 2025-04-02 |  |
-| **[CLaP -- State Detection from Time Series](http://arxiv.org/abs/2504.01783v1)** | 2025-04-02 |  |
-| **[Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications](http://arxiv.org/abs/2408.11878v2)** | 2025-04-02 | 33 pages, 13 figures |
-| **[Early Classification of Time Series: Taxonomy and Benchmark](http://arxiv.org/abs/2406.18332v4)** | 2025-04-02 |  |
-| **[Dependence-based fuzzy clustering of functional time series](http://arxiv.org/abs/2405.04904v2)** | 2025-04-02 | <details><summary>48 pa...</summary><p>48 pages, 6 figures, 16 tables</p></details> |
-| **[DRAN: A Distribution and Relation Adaptive Network for Spatio-temporal Forecasting](http://arxiv.org/abs/2504.01531v1)** | 2025-04-02 | 15 pages, 9 figures |
-| **[AverageTime: Enhance Long-Term Time Series Forecasting with Simple Averaging](http://arxiv.org/abs/2412.20727v3)** | 2025-04-02 |  |
-| **[A Prefixed Patch Time Series Transformer for Two-Point Boundary Value Problems in Three-Body Problems](http://arxiv.org/abs/2504.01464v1)** | 2025-04-02 |  |
-| **[FAN: Fourier Analysis Networks](http://arxiv.org/abs/2410.02675v4)** | 2025-04-02 |  |
-| **[Data Driven Decision Making with Time Series and Spatio-temporal Data](http://arxiv.org/abs/2503.08473v3)** | 2025-04-02 | <details><summary>This ...</summary><p>This paper is accepted by ICDE 2025</p></details> |
-| **[Recurrent Stochastic Configuration Networks for Temporal Data Analytics](http://arxiv.org/abs/2406.16959v3)** | 2025-04-02 |  |
-| **[Derivative estimation by RKHS regularization for learning dynamics from time-series data](http://arxiv.org/abs/2504.01289v1)** | 2025-04-02 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception](http://arxiv.org/abs/2409.11146v3)** | 2025-04-03 | <details><summary>6 pag...</summary><p>6 pages, 5 figures; This work has been accepted to ICRA 2025 and will soon be published</p></details> |
+| **[A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification](http://arxiv.org/abs/2504.02615v1)** | 2025-04-03 |  |
+| **[STEAK: Streaming Network for Continual Learning of Object Relocations under Household Context Drifts](http://arxiv.org/abs/2411.05549v2)** | 2025-04-03 |  |
+| **[Toward General and Robust LLM-enhanced Text-attributed Graph Learning](http://arxiv.org/abs/2504.02343v1)** | 2025-04-03 |  |
+| **[Enhancing Customer Contact Efficiency with Graph Neural Networks in Credit Card Fraud Detection Workflow](http://arxiv.org/abs/2504.02275v1)** | 2025-04-03 |  |
+| **[LLM-Augmented Graph Neural Recommenders: Integrating User Reviews](http://arxiv.org/abs/2504.02195v1)** | 2025-04-03 | Under Review |
+| **[Reducing Smoothness with Expressive Memory Enhanced Hierarchical Graph Neural Networks](http://arxiv.org/abs/2504.00349v2)** | 2025-04-02 |  |
+| **[OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling](http://arxiv.org/abs/2504.02148v1)** | 2025-04-02 |  |
+| **[LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection](http://arxiv.org/abs/2504.02146v1)** | 2025-04-02 |  |
+| **[From Text to Graph: Leveraging Graph Neural Networks for Enhanced Explainability in NLP](http://arxiv.org/abs/2504.02064v1)** | 2025-04-02 |  |
 | **[Graphically Speaking: Unmasking Abuse in Social Media with Conversation Insights](http://arxiv.org/abs/2504.01902v1)** | 2025-04-02 |  |
+| **[Geometric Reasoning in the Embedding Space](http://arxiv.org/abs/2504.02018v1)** | 2025-04-02 |  |
 | **[Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation](http://arxiv.org/abs/2408.00490v4)** | 2025-04-02 | <details><summary>14 pa...</summary><p>14 pages, accepted by WWW2025</p></details> |
 | **[Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code](http://arxiv.org/abs/2504.01481v1)** | 2025-04-02 | <details><summary>The 1...</summary><p>The 13th International Conference on Complex Networks and their Applications, Dec 2024, Istabul, Turkey</p></details> |
 | **[Adversarial Curriculum Graph-Free Knowledge Distillation for Graph Neural Networks](http://arxiv.org/abs/2504.00540v2)** | 2025-04-02 |  |
-| **[Deep Graph Reinforcement Learning for UAV-Enabled Multi-User Secure Communications](http://arxiv.org/abs/2504.01446v1)** | 2025-04-02 | Accepted at IEEE TMC |
-| **[Refining Interactions: Enhancing Anisotropy in Graph Neural Networks with Language Semantics](http://arxiv.org/abs/2504.01429v1)** | 2025-04-02 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
-| **[Flexible and Explainable Graph Analysis for EEG-based Alzheimer's Disease Classification](http://arxiv.org/abs/2504.01329v1)** | 2025-04-02 |  |
-| **[Learning Graph Quantized Tokenizers](http://arxiv.org/abs/2410.13798v2)** | 2025-04-02 | ICLR 2025 |
-| **[ComFairGNN: Community Fair Graph Neural Network](http://arxiv.org/abs/2411.04371v2)** | 2025-04-01 | <details><summary>Publi...</summary><p>Published at PAKDD 2025</p></details> |
-| **[Neural Approaches to SAT Solving: Design Choices and Interpretability](http://arxiv.org/abs/2504.01173v1)** | 2025-04-01 |  |
-| **[Efficient n-body simulations using physics informed graph neural networks](http://arxiv.org/abs/2504.01169v1)** | 2025-04-01 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 3 tables, accepted in conference MAEB 2025 (more info at https://www.uik.eus/es/curso/xvi-congreso-espanol-metaheuristicas-algoritmos-evolutivos-bioinspirados)</p></details> |
-| **[GNN 101: Visual Learning of Graph Neural Networks in Your Web Browser](http://arxiv.org/abs/2411.17849v3)** | 2025-04-01 |  |
-| **[GKAN: Explainable Diagnosis of Alzheimer's Disease Using Graph Neural Network with Kolmogorov-Arnold Networks](http://arxiv.org/abs/2504.00946v1)** | 2025-04-01 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, under review of The Southwest Data Science Conference (SDSC 2025)</p></details> |
-| **[Evaluating machine learning models for predicting pesticides toxicity to honey bees](http://arxiv.org/abs/2503.24305v2)** | 2025-04-01 |  |
-| **[Designing Heterogeneous GNNs with Desired Permutation Properties for Wireless Resource Allocation](http://arxiv.org/abs/2203.03906v3)** | 2025-04-01 |  |
 
