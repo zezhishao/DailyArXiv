@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2025
+title: Latest 15 Papers - June 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Neural Stochastic Differential Equations with Change Points](http://arxiv.org/abs/2411.00635v2)** | 2025-06-13 |  |
-| **[Why Do Class-Dependent Evaluation Effects Occur with Time Series Feature Attributions? A Synthetic Data Investigation](http://arxiv.org/abs/2506.11790v1)** | 2025-06-13 |  |
-| **[Right on Time: Revising Time Series Models by Constraining their Explanations](http://arxiv.org/abs/2402.12921v5)** | 2025-06-13 | <details><summary>to be...</summary><p>to be published in ECML PKDD 2025</p></details> |
-| **[A Survey on Deep Learning based Time Series Analysis with Frequency Transformation](http://arxiv.org/abs/2302.02173v6)** | 2025-06-13 | Accepted By KDD 2025 |
-| **[Perspectives on Explanation Formats From Two Stakeholder Groups in Germany: Software Providers and Dairy Farmers](http://arxiv.org/abs/2506.11665v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted at IJCAI 2024, Explainable AI Workshop</p></details> |
-| **[Functional-Coefficient Models for Multivariate Time Series in Designed Experiments: with Applications to Brain Signals](http://arxiv.org/abs/2208.00292v3)** | 2025-06-13 |  |
-| **[Leveraging Satellite Image Time Series for Accurate Extreme Event Detection](http://arxiv.org/abs/2506.11544v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted to the WACV 2025 Workshop on GeoCV. Code, datasets, and model checkpoints available at: https://github.com/hfangcat/SITS-ExtremeEvents</p></details> |
-| **[Delayformer: spatiotemporal transformation for predicting high-dimensional dynamics](http://arxiv.org/abs/2506.11528v1)** | 2025-06-13 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
-| **[Prioritizing Alignment Paradigms over Task-Specific Model Customization in Time-Series LLMs](http://arxiv.org/abs/2506.11512v1)** | 2025-06-13 |  |
-| **[A Two-step Estimating Approach for Heavy-tailed AR Models with General Non-zero Median Noises](http://arxiv.org/abs/2506.11509v1)** | 2025-06-13 |  |
-| **[Voxel-Level Brain States Prediction Using Swin Transformer](http://arxiv.org/abs/2506.11455v1)** | 2025-06-13 |  |
-| **[Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation](http://arxiv.org/abs/2501.19328v2)** | 2025-06-12 | <details><summary>ICML ...</summary><p>ICML Camera-Ready, 9 pages main paper, 8 pages references and appendix, 9 figures, 8 tables</p></details> |
-| **[Sensor Model Identification via Simultaneous Model Selection and State Variable Determination](http://arxiv.org/abs/2506.11263v1)** | 2025-06-12 |  |
-| **[Can Time-Series Foundation Models Perform Building Energy Management Tasks?](http://arxiv.org/abs/2506.11250v1)** | 2025-06-12 | <details><summary>30 pa...</summary><p>30 pages, 5 tables, 8 figures. Under review for Data-Centric Engineering journal</p></details> |
-| **[Regularized Estimation of the Loading Matrix in Factor Models for High-Dimensional Time Series](http://arxiv.org/abs/2506.11232v1)** | 2025-06-12 |  |
+| **[TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning](http://arxiv.org/abs/2506.13705v1)** | 2025-06-16 | Preprint |
+| **[Deep Learning for Wildfire Risk Prediction: Integrating Remote Sensing and Environmental Data](http://arxiv.org/abs/2405.01607v5)** | 2025-06-16 |  |
+| **[PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning](http://arxiv.org/abs/2506.13652v1)** | 2025-06-16 |  |
+| **[CoIFNet: A Unified Framework for Multivariate Time Series Forecasting with Missing Values](http://arxiv.org/abs/2506.13064v1)** | 2025-06-16 |  |
+| **[Rethinking Explainability in the Era of Multimodal AI](http://arxiv.org/abs/2506.13060v1)** | 2025-06-16 |  |
+| **[Forecast-Then-Optimize Deep Learning Methods](http://arxiv.org/abs/2506.13036v1)** | 2025-06-16 | 44 pages, 2 figures |
+| **[SpaceTrack-TimeSeries: Time Series Dataset towards Satellite Orbit Analysis](http://arxiv.org/abs/2506.13034v1)** | 2025-06-16 |  |
+| **[Forecasting Time Series with LLMs via Patch-Based Prompting and Decomposition](http://arxiv.org/abs/2506.12953v1)** | 2025-06-15 |  |
+| **[Model-Agnostic, Temperature-Informed Sampling Enhances Cross-Year Crop Mapping with Deep Learning](http://arxiv.org/abs/2506.12885v1)** | 2025-06-15 | under review |
+| **[Lyapunov Learning at the Onset of Chaos](http://arxiv.org/abs/2506.12810v1)** | 2025-06-15 | <details><summary>Accep...</summary><p>Accepted at ICML 2025, HiLD: High-dimensional Learning Dynamics Workshop</p></details> |
+| **[A Review of the Long Horizon Forecasting Problem in Time Series Analysis](http://arxiv.org/abs/2506.12809v1)** | 2025-06-15 | <details><summary>Submi...</summary><p>Submitted to International Journal of Forecasting</p></details> |
+| **[ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series](http://arxiv.org/abs/2502.13509v2)** | 2025-06-15 | <details><summary>This ...</summary><p>This paper is accepted by ACL2025(Findings)</p></details> |
+| **[MetaEformer: Unveiling and Leveraging Meta-patterns for Complex and Dynamic Systems Load Forecasting](http://arxiv.org/abs/2506.12800v1)** | 2025-06-15 |  |
+| **[Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models](http://arxiv.org/abs/2411.07611v4)** | 2025-06-15 | 13 pages. 7 figures |
+| **[FATE: Focal-modulated Attention Encoder for Multivariate Time-series Forecasting](http://arxiv.org/abs/2408.11336v2)** | 2025-06-15 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph-Based Floor Separation Using Node Embeddings and Clustering of WiFi Trajectories](http://arxiv.org/abs/2505.08088v2)** | 2025-06-13 |  |
-| **[Intra-Trajectory Consistency for Reward Modeling](http://arxiv.org/abs/2506.09096v2)** | 2025-06-13 | Under review |
-| **[TrajAgent: An LLM-based Agent Framework for Automated Trajectory Modeling via Collaboration of Large and Small Models](http://arxiv.org/abs/2410.20445v3)** | 2025-06-13 | <details><summary>the c...</summary><p>the code will be openly accessible at: https://github.com/tsinghua-fib-lab/TrajAgent</p></details> |
-| **[DiffTORI: Differentiable Trajectory Optimization for Deep Reinforcement and Imitation Learning](http://arxiv.org/abs/2402.05421v5)** | 2025-06-13 | <details><summary>NeurI...</summary><p>NeurIPS 2024 (Spotlight)</p></details> |
-| **[Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel](http://arxiv.org/abs/2506.11357v1)** | 2025-06-12 |  |
-| **[Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving](http://arxiv.org/abs/2506.11234v1)** | 2025-06-12 |  |
-| **[Improved error bounds for Koopman operator and reconstructed trajectories approximations with kernel-based methods](http://arxiv.org/abs/2506.09266v2)** | 2025-06-12 | 24 pages, 6 figures |
-| **[A composition of simplified physics-based model with neural operator for trajectory-level seismic response predictions of structural systems](http://arxiv.org/abs/2506.10569v1)** | 2025-06-12 |  |
-| **[Policy-Based Trajectory Clustering in Offline Reinforcement Learning](http://arxiv.org/abs/2506.09202v2)** | 2025-06-12 |  |
-| **[Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation](http://arxiv.org/abs/2506.09990v1)** | 2025-06-11 |  |
-| **[ECAM: A Contrastive Learning Approach to Avoid Environmental Collision in Trajectory Forecasting](http://arxiv.org/abs/2506.09626v1)** | 2025-06-11 | IJCNN 2025 |
-| **[Design and Validation of an Intention-Aware Probabilistic Framework for Trajectory Prediction: Integrating COLREGS, Grounding Hazards, and Planned Routes](http://arxiv.org/abs/2504.00731v2)** | 2025-06-11 | <details><summary>IMPOR...</summary><p>IMPORTANT: This preprint is not the final version. The peer-reviewed and updated version is published in Ocean Engineering journal [https://doi.org/10.1016/j.oceaneng.2025.121564]</p></details> |
-| **[TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization](http://arxiv.org/abs/2506.08440v2)** | 2025-06-11 |  |
-| **[What is the Cost of Differential Privacy for Deep Learning-Based Trajectory Generation?](http://arxiv.org/abs/2506.09312v1)** | 2025-06-11 |  |
-| **[Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics](http://arxiv.org/abs/2506.08963v1)** | 2025-06-10 |  |
+| **[Mixed Bernstein-Fourier Approximants for Optimal Trajectory Generation with Periodic Behavior](http://arxiv.org/abs/2504.17969v2)** | 2025-06-16 | 49 pages, 9 figures |
+| **[Vid-CamEdit: Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry](http://arxiv.org/abs/2506.13697v1)** | 2025-06-16 | <details><summary>Our p...</summary><p>Our project page can be found at https://cvlab-kaist.github.io/Vid-CamEdit/</p></details> |
+| **[Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation](http://arxiv.org/abs/2409.20514v4)** | 2025-06-16 |  |
+| **[High-gain model-following control for trajectory tracking](http://arxiv.org/abs/2506.13463v1)** | 2025-06-16 |  |
+| **[Observability-Aware Active Calibration of Multi-Sensor Extrinsics for Ground Robots via Online Trajectory Optimization](http://arxiv.org/abs/2506.13420v1)** | 2025-06-16 | <details><summary>Accep...</summary><p>Accepted and to appear in the IEEE Sensors Journal</p></details> |
+| **[The Butterfly Effect: Neural Network Training Trajectories Are Highly Sensitive to Initial Conditions](http://arxiv.org/abs/2506.13234v1)** | 2025-06-16 | <details><summary>Publi...</summary><p>Published in ICML 2025. The first two authors contributed equally. 29 pages, 28 figures</p></details> |
+| **[Intra-Trajectory Consistency for Reward Modeling](http://arxiv.org/abs/2506.09096v3)** | 2025-06-16 | Under review |
+| **[Efficient Estimation of Relaxed Model Parameters for Robust UAV Trajectory Optimization](http://arxiv.org/abs/2411.10941v4)** | 2025-06-16 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Published in IEEE Sustech 2025, see https://ieeexplore.ieee.org/document/11025659</p></details> |
+| **[Using iterated local alignment to aggregate trajectory data into a traffic flow map](http://arxiv.org/abs/2406.17500v5)** | 2025-06-15 |  |
+| **[Constraint-Guided Prediction Refinement via Deterministic Diffusion Trajectories](http://arxiv.org/abs/2506.12911v1)** | 2025-06-15 |  |
+| **[TrojanTO: Action-Level Backdoor Attacks against Trajectory Optimization Models](http://arxiv.org/abs/2506.12815v1)** | 2025-06-15 | 23 pages, 6 figures |
+| **[Joint UAV Trajectory Planning and LEO Satellite Selection for Data Offloading in Space-Air-Ground Integrated Networks](http://arxiv.org/abs/2506.12750v1)** | 2025-06-15 |  |
+| **[Towards Physics-informed Diffusion for Anomaly Detection in Trajectories](http://arxiv.org/abs/2506.06999v2)** | 2025-06-14 |  |
+| **[Generalizable Trajectory Prediction via Inverse Reinforcement Learning with Mamba-Graph Architecture](http://arxiv.org/abs/2506.12474v1)** | 2025-06-14 |  |
+| **[Private Continuous-Time Synthetic Trajectory Generation via Mean-Field Langevin Dynamics](http://arxiv.org/abs/2506.12203v1)** | 2025-06-13 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?](http://arxiv.org/abs/2506.11869v1)** | 2025-06-13 |  |
-| **[Taxonomy of reduction matrices for Graph Coarsening](http://arxiv.org/abs/2506.11743v1)** | 2025-06-13 |  |
-| **[Relational GNNs Cannot Learn $C_2$ Features for Planning](http://arxiv.org/abs/2506.11721v1)** | 2025-06-13 |  |
-| **[Generalised Rate Control Approach For Stream Processing Applications](http://arxiv.org/abs/2506.11710v1)** | 2025-06-13 |  |
-| **[Geometry-Aware Edge Pooling for Graph Neural Networks](http://arxiv.org/abs/2506.11700v1)** | 2025-06-13 |  |
-| **[KCES: Training-Free Defense for Robust Graph Neural Networks via Kernel Complexity](http://arxiv.org/abs/2506.11611v1)** | 2025-06-13 |  |
-| **[SemanticST: Spatially Informed Semantic Graph Learning for1 Clustering, Integration, and Scalable Analysis of Spatial2 Transcriptomics](http://arxiv.org/abs/2506.11491v1)** | 2025-06-13 | 6 Figures |
-| **[FIGNN: Feature-Specific Interpretability for Graph Neural Network Surrogate Models](http://arxiv.org/abs/2506.11398v1)** | 2025-06-13 |  |
-| **[EDN: A Novel Edge-Dependent Noise Model for Graph Data](http://arxiv.org/abs/2506.11368v1)** | 2025-06-13 |  |
-| **[Three iterations of $(d-1)$-WL test distinguish non isometric clouds of $d$-dimensional points](http://arxiv.org/abs/2303.12853v4)** | 2025-06-12 | <details><summary>Chang...</summary><p>Changes to previous version: new results, inability of 1-WL to recognize planar point clouds in R^3, and incompleteness of 2-WL in R^6</p></details> |
-| **[Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation](http://arxiv.org/abs/2506.10658v1)** | 2025-06-12 | 30 pages |
-| **[Graph Neural Networks for Automatic Addition of Optimizing Components in Printed Circuit Board Schematics](http://arxiv.org/abs/2506.10577v1)** | 2025-06-12 |  |
-| **[From Features to Graphs: Exploring Graph Structures and Pairwise Interactions via GNNs](http://arxiv.org/abs/2502.13471v2)** | 2025-06-12 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering](http://arxiv.org/abs/2506.01784v2)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Track</p></details> |
-| **[LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture](http://arxiv.org/abs/2506.10347v1)** | 2025-06-12 | <details><summary>Proce...</summary><p>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</p></details> |
+| **[A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction](http://arxiv.org/abs/2506.13678v1)** | 2025-06-16 | 18 pages, 13 figures |
+| **[TwiUSD: A Benchmark Dataset and Structure-Aware LLM Framework for User Stance Detection](http://arxiv.org/abs/2506.13343v1)** | 2025-06-16 |  |
+| **[Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks](http://arxiv.org/abs/2506.13276v1)** | 2025-06-16 |  |
+| **[Graph Neural Networks and Deep Reinforcement Learning Based Resource Allocation for V2X Communications](http://arxiv.org/abs/2407.06518v2)** | 2025-06-16 | <details><summary>15 pa...</summary><p>15 pages, 11 figures. This paper has been accepted by IEEE Internet of Things Journal. The source code has been released at: https://github.com/qiongwu86/GNN-and-DRL-Based-Resource-Allocation-for-V2X-Communications</p></details> |
+| **[On the Completeness of Invariant Geometric Deep Learning Models](http://arxiv.org/abs/2402.04836v4)** | 2025-06-16 | <details><summary>The T...</summary><p>The Thirteenth International Conference on Learning Representations</p></details> |
+| **[PhenoKG: Knowledge Graph-Driven Gene Discovery and Patient Insights from Phenotypes Alone](http://arxiv.org/abs/2506.13119v1)** | 2025-06-16 |  |
+| **[Dynamic Graph Condensation](http://arxiv.org/abs/2506.13099v1)** | 2025-06-16 |  |
+| **[Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach](http://arxiv.org/abs/2506.13083v1)** | 2025-06-16 | Accepted by TNNLS |
+| **[Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling](http://arxiv.org/abs/2401.03692v5)** | 2025-06-16 |  |
+| **[SemanticST: Spatially Informed Semantic Graph Learning for Clustering, Integration, and Scalable Analysis of Spatial Transcriptomics](http://arxiv.org/abs/2506.11491v2)** | 2025-06-16 | 6 Figures |
+| **[KCLNet: Physics-Informed Power Flow Prediction via Constraints Projections](http://arxiv.org/abs/2506.12902v1)** | 2025-06-15 |  |
+| **[Large Scalable Cross-Domain Graph Neural Networks for Personalized Notification at LinkedIn](http://arxiv.org/abs/2506.12700v1)** | 2025-06-15 |  |
+| **[Diffusion Graph Neural Networks for Robustness in Olfaction Sensors and Datasets](http://arxiv.org/abs/2506.00455v2)** | 2025-06-15 |  |
+| **[RAW-Explainer: Post-hoc Explanations of Graph Neural Networks on Knowledge Graphs](http://arxiv.org/abs/2506.12558v1)** | 2025-06-14 |  |
+| **[Delving into Instance-Dependent Label Noise in Graph Data: A Comprehensive Study and Benchmark](http://arxiv.org/abs/2506.12468v1)** | 2025-06-14 | 17 pages |
 
