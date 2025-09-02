@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2025
+title: Latest 15 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
