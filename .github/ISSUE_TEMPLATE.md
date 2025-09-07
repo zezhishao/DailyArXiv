@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 05, 2025
+title: Latest 15 Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Structure-preserving contrastive learning for spatial time series](http://arxiv.org/abs/2502.06380v4)** | 2025-09-03 | <details><summary>TL;DR...</summary><p>TL;DR: Preserving certain structures of similarity relations in spatio-temporal data can improve downstream task performance via contrastive learning</p></details> |
-| **[Reduce-Rank Matrix Integer-Valued Autoregressive Model](http://arxiv.org/abs/2509.03338v1)** | 2025-09-03 |  |
-| **[Temporal social network modeling of mobile connectivity data with graph neural networks](http://arxiv.org/abs/2509.03319v1)** | 2025-09-03 | 22 pages, 7 figures |
-| **[Evaluation of Stress Detection as Time Series Events -- A Novel Window-Based F1-Metric](http://arxiv.org/abs/2509.03240v1)** | 2025-09-03 | 15 pages, 6 figures |
-| **[Optimizing Federated Learning for Scalable Power-demand Forecasting in Microgrids](http://arxiv.org/abs/2508.08022v2)** | 2025-09-03 |  |
-| **[Information transmission: Inferring change area from change moment in time series remote sensing images](http://arxiv.org/abs/2509.03112v1)** | 2025-09-03 |  |
-| **[Investigating a Model-Agnostic and Imputation-Free Approach for Irregularly-Sampled Multivariate Time-Series Modeling](http://arxiv.org/abs/2502.15785v2)** | 2025-09-03 | 21 pages |
-| **[AR-KAN: Autoregressive-Weight-Enhanced Kolmogorov-Arnold Network for Time Series Forecasting](http://arxiv.org/abs/2509.02967v1)** | 2025-09-03 |  |
-| **[Deep Reinforcement Learning-Based Decision-Making Strategy Considering User Satisfaction Feedback in Demand Response Program](http://arxiv.org/abs/2509.02946v1)** | 2025-09-03 | <details><summary>This ...</summary><p>This version corrects equation display errors that occurred in the IEEE Xplore version. Please cite the official IEEE DOI:10.1109/ICPST65050.2025.11089098</p></details> |
-| **[Recursive Gaussian Process State Space Model](http://arxiv.org/abs/2411.14679v3)** | 2025-09-03 |  |
-| **[Conformal Prediction for Time-series Forecasting with Change Points](http://arxiv.org/abs/2509.02844v1)** | 2025-09-02 |  |
-| **[Towards Temporal Knowledge-Base Creation for Fine-Grained Opinion Analysis with Language Models](http://arxiv.org/abs/2509.02363v1)** | 2025-09-02 |  |
-| **[RDIT: Residual-based Diffusion Implicit Models for Probabilistic Time Series Forecasting](http://arxiv.org/abs/2509.02341v1)** | 2025-09-02 |  |
-| **[Exploring Diffusion Models for Generative Forecasting of Financial Charts](http://arxiv.org/abs/2509.02308v1)** | 2025-09-02 |  |
-| **[End to End Autoencoder MLP Framework for Sepsis Prediction](http://arxiv.org/abs/2508.18688v2)** | 2025-09-02 |  |
+| **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](http://arxiv.org/abs/2509.04449v1)** | 2025-09-04 |  |
+| **[History matching for functional data and its application to tsunami warnings in the Indian Ocean](http://arxiv.org/abs/2509.04342v1)** | 2025-09-04 | 56 pages, 20 figures |
+| **[One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo](http://arxiv.org/abs/2509.04208v1)** | 2025-09-04 |  |
+| **[Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference](http://arxiv.org/abs/2509.04169v1)** | 2025-09-04 |  |
+| **[Probabilistic QoS Metric Forecasting in Delay-Tolerant Networks Using Conditional Diffusion Models on Latent Dynamics](http://arxiv.org/abs/2504.08821v2)** | 2025-09-04 |  |
+| **[Spatial disaggregation of time series](http://arxiv.org/abs/2509.04065v1)** | 2025-09-04 |  |
+| **[Diffusion Generative Models Meet Compressed Sensing, with Applications to Image Data and Financial Time Series](http://arxiv.org/abs/2509.03898v1)** | 2025-09-04 |  |
+| **[Reduce-Rank Matrix Integer-Valued Autoregressive Model](http://arxiv.org/abs/2509.03338v2)** | 2025-09-04 |  |
+| **[MillGNN: Learning Multi-Scale Lead-Lag Dependencies for Multi-Variate Time Series Forecasting](http://arxiv.org/abs/2509.03852v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted by CIKM 2025</p></details> |
+| **[Online time series prediction using feature adjustment](http://arxiv.org/abs/2509.03810v1)** | 2025-09-04 |  |
+| **[Long Input Sequence Network for Long Time Series Forecasting](http://arxiv.org/abs/2407.15869v2)** | 2025-09-04 | <details><summary>rewri...</summary><p>rewrite and authorship changing</p></details> |
+| **[Breaking the Context Bottleneck on Long Time Series Forecasting](http://arxiv.org/abs/2412.16572v2)** | 2025-09-04 | <details><summary>rewri...</summary><p>rewrite and authorship changing</p></details> |
+| **[TimeCopilot](http://arxiv.org/abs/2509.00616v2)** | 2025-09-04 |  |
+| **[Estimation of High-Dimensional Markov-Switching VAR Models with an Approximate EM Algorithm](http://arxiv.org/abs/2210.07456v3)** | 2025-09-04 |  |
+| **[Sampling parameters of ordinary differential equations with Langevin dynamics that satisfy constraints](http://arxiv.org/abs/2408.15505v2)** | 2025-09-03 | 32 pages, 7 figures |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Segmented Trajectory Optimization for Autonomous Parking in Unstructured Environments](http://arxiv.org/abs/2504.05041v2)** | 2025-09-04 | 8 pages, 6 figures |
+| **[Robust Offline Imitation Learning Through State-level Trajectory Stitching](http://arxiv.org/abs/2503.22524v2)** | 2025-09-04 |  |
+| **[Efficient Virtuoso: A Latent Diffusion Transformer Model for Goal-Conditioned Trajectory Planning](http://arxiv.org/abs/2509.03658v1)** | 2025-09-03 |  |
 | **[Can the Waymo Open Motion Dataset Support Realistic Behavioral Modeling? A Validation Study with Naturalistic Trajectories](http://arxiv.org/abs/2509.03515v1)** | 2025-09-03 |  |
 | **[Globally Asymptotically Stable Trajectory Tracking of Underactuated UAVs using Geometric Algebra](http://arxiv.org/abs/2509.03484v1)** | 2025-09-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TAES for possible publication</p></details> |
 | **[KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models](http://arxiv.org/abs/2509.02966v1)** | 2025-09-03 |  |
@@ -38,13 +41,14 @@ labels: documentation
 | **[MedResearcher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework](http://arxiv.org/abs/2508.14880v3)** | 2025-09-01 | 13 pages, 5 figures |
 | **[Metamorphic Testing of Multimodal Human Trajectory Prediction](http://arxiv.org/abs/2509.01294v1)** | 2025-09-01 | <details><summary>Infor...</summary><p>Information and Software Technology</p></details> |
 | **[Toward a Holistic Multi-Criteria Trajectory Evaluation Framework for Autonomous Driving in Mixed Traffic Environment](http://arxiv.org/abs/2509.01291v1)** | 2025-09-01 |  |
-| **[MVTrajecter: Multi-View Pedestrian Tracking with Trajectory Motion Cost and Trajectory Appearance Cost](http://arxiv.org/abs/2509.01157v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[An Effective Trajectory Planning and an Optimized Path Planning for a 6-Degree-of-Freedom Robot Manipulator](http://arxiv.org/abs/2509.00828v1)** | 2025-08-31 | 26 pages |
-| **[A Risk-aware Spatial-temporal Trajectory Planning Framework for Autonomous Vehicles Using QP-MPC and Dynamic Hazard Fields](http://arxiv.org/abs/2509.00643v1)** | 2025-08-31 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comment on "A Note on Over-Smoothing for Graph Neural Networks"](http://arxiv.org/abs/2509.04178v1)** | 2025-09-04 | <details><summary>Comme...</summary><p>Comment on arXiv:2006.13318 (Cai & Wang, 2020). Revisits their Dirichlet-energy analysis of over-smoothing and extends it to Leaky-ReLU and spectral polynomial filters; includes Proposition 7.1 and a new proof of Lemma 3.3 for Leaky-ReLU. 7 pages</p></details> |
+| **[Plugging Attention into Power Grids: Towards Transparent Forecasting](http://arxiv.org/abs/2507.03690v2)** | 2025-09-04 | <details><summary>16 pa...</summary><p>16 pages, ECML PKDD 2025 Workshop paper</p></details> |
+| **[Topotein: Topological Deep Learning for Protein Representation Learning](http://arxiv.org/abs/2509.03885v1)** | 2025-09-04 |  |
+| **[EZhouNet:A framework based on graph neural network and anchor interval for the respiratory sound event detection](http://arxiv.org/abs/2509.01153v2)** | 2025-09-04 |  |
 | **[Graph neural networks for learning liquid simulations in dynamic scenes containing kinematic objects](http://arxiv.org/abs/2509.03446v1)** | 2025-09-03 |  |
 | **[Exploring a Graph-based Approach to Offline Reinforcement Learning for Sepsis Treatment](http://arxiv.org/abs/2509.03393v1)** | 2025-09-03 | <details><summary>18th ...</summary><p>18th European Workshop on Reinforcement Learning (EWRL 2025)</p></details> |
 | **[Transformer-Guided Content-Adaptive Graph Learning for Hyperspectral Unmixing](http://arxiv.org/abs/2509.03376v1)** | 2025-09-03 |  |
@@ -56,8 +60,4 @@ labels: documentation
 | **[TRELLIS-Enhanced Surface Features for Comprehensive Intracranial Aneurysm Analysis](http://arxiv.org/abs/2509.03095v1)** | 2025-09-03 |  |
 | **[Statistical Test for Saliency Maps of Graph Neural Networks via Selective Inference](http://arxiv.org/abs/2505.16893v2)** | 2025-09-03 |  |
 | **[Unsupervised Learning of Local Updates for Maximum Independent Set in Dynamic Graphs](http://arxiv.org/abs/2505.13754v2)** | 2025-09-03 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 2 tables, 3 algorithms</p></details> |
-| **[RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation](http://arxiv.org/abs/2509.02942v1)** | 2025-09-03 | RecSys 2025 |
-| **[PDRL: Post-hoc Descriptor-based Residual Learning for Uncertainty-Aware Machine Learning Potentials](http://arxiv.org/abs/2509.02927v1)** | 2025-09-03 |  |
-| **[FedGraph: A Research Library and Benchmark for Federated Graph Learning](http://arxiv.org/abs/2410.06340v4)** | 2025-09-02 | <details><summary>https...</summary><p>https://github.com/FedGraph/fedgraph</p></details> |
-| **[Power Grid Control with Graph-Based Distributed Reinforcement Learning](http://arxiv.org/abs/2509.02861v1)** | 2025-09-02 |  |
 
