@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,8 +8,8 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Time series classification for varying length series](https://arxiv.org/pdf/1910.04341v1)** | 2019-10-11 | 23 pages |
-| **[Forecasting Hierarchical Time Series](https://arxiv.org/pdf/2210.16969v1)** | 2022-12-27 |  |
 | **[Expressing Multivariate Time Series as Graphs with Time Series Attention Transformer](https://arxiv.org/pdf/2208.09300v1)** | 2022-08-22 | <details><summary>IJCAI...</summary><p>IJCAI'22 WORKSHOP AI4TS: AI FOR TIME SERIES ANALYSIS</p></details> |
+| **[Forecasting Hierarchical Time Series](https://arxiv.org/pdf/2210.16969v1)** | 2022-12-27 |  |
 | **[MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://arxiv.org/pdf/2110.14354v1)** | 2021-10-28 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, NeurIPS 2021</p></details> |
 | **[TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis](https://arxiv.org/pdf/2402.16412v2)** | 2025-01-03 | <details><summary>Accep...</summary><p>Accepted to TMLR (12/24), 33 pages. TMLR link: https://openreview.net/pdf?id=QlTLkH6xRC</p></details> |
 | **[Highly comparative time-series analysis: The empirical structure of time series and their methods](https://arxiv.org/pdf/1304.1209v1)** | 2013-05-23 |  |
@@ -17,8 +17,8 @@ labels: documentation
 | **[Forecasting with time series imaging](https://arxiv.org/pdf/1904.08064v3)** | 2020-07-21 |  |
 | **[Time series conditional extremes](https://arxiv.org/pdf/2303.04447v1)** | 2023-03-09 |  |
 | **[Respecting Time Series Properties Makes Deep Time Series Forecasting Perfect](https://arxiv.org/pdf/2207.10941v1)** | 2022-07-25 |  |
-| **[catch22: CAnonical Time-series CHaracteristics](https://arxiv.org/pdf/1901.10200v2)** | 2019-02-05 |  |
 | **[Series Saliency: Temporal Interpretation for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2012.09324v1)** | 2020-12-18 |  |
+| **[catch22: CAnonical Time-series CHaracteristics](https://arxiv.org/pdf/1901.10200v2)** | 2019-02-05 |  |
 | **[Autoregressive with Slack Time Series Model for Forecasting a Partially-Observed Dynamical Time Series](https://arxiv.org/pdf/2306.16593v2)** | 2024-02-12 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, accepted to IEEE Access</p></details> |
 | **[Random Matrix Time Series](https://arxiv.org/pdf/2203.12789v1)** | 2023-08-07 | 15 pages |
 | **[Error-bounded Approximate Time Series Joins Using Compact Dictionary Representations of Time Series](https://arxiv.org/pdf/2112.12965v2)** | 2023-11-07 |  |
@@ -54,8 +54,8 @@ labels: documentation
 | **[Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview](https://arxiv.org/pdf/1908.00187v1)** | 2019-09-30 | <details><summary>30 pa...</summary><p>30 pages. arXiv admin note: text overlap with arXiv:1908.00187</p></details> |
 | **[On Node Features for Graph Neural Networks](https://arxiv.org/pdf/1911.08795v1)** | 2019-11-21 |  |
 | **[Graph Neural Processes: Towards Bayesian Graph Neural Networks](https://arxiv.org/pdf/1902.10042v2)** | 2019-10-03 |  |
-| **[Spatio-Temporal Graph Neural Networks: A Survey](https://arxiv.org/pdf/2301.10569v2)** | 2023-02-14 |  |
 | **[Graph Neural Networks: Taxonomy, Advances and Trends](https://arxiv.org/pdf/2012.08752v4)** | 2022-02-28 | 55 pages, 7 figures |
+| **[Spatio-Temporal Graph Neural Networks: A Survey](https://arxiv.org/pdf/2301.10569v2)** | 2023-02-14 |  |
 | **[Graph Coordinates and Conventional Neural Networks -- An Alternative for Graph Neural Networks](https://arxiv.org/pdf/2312.01342v1)** | 2024-04-19 | <details><summary>This ...</summary><p>This paper is submitted and will be published on Big Data Conference 2023, Data-driven Science for Graphs: Algorithms, Architectures, and Application workshop</p></details> |
 | **[Quantum Graph Neural Networks](https://arxiv.org/pdf/1909.12264v1)** | 2019-09-27 | 8 pages |
 | **[Inferring the Graph Structure of Images for Graph Neural Networks](https://arxiv.org/pdf/2509.04677v1)** | 2025-09-08 |  |
