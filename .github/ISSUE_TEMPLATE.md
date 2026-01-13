@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 13, 2026
+title: Latest 15 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Detecting Stochasticity in Discrete Signals via Nonparametric Excursion Theorem](https://arxiv.org/abs/2601.06009v1)** | 2026-01-09 |  |
-| **[There are no Champions in Supervised Long-Term Time Series Forecasting](https://arxiv.org/abs/2502.14045v2)** | 2026-01-09 | Accepted at TMLR |
-| **[RobustFormer: Noise-Robust Pre-training for images and videos](https://arxiv.org/abs/2411.13040v2)** | 2026-01-09 | 13 pages |
-| **[Wasserstein multivariate auto-regressive models for modeling distributional time series](https://arxiv.org/abs/2207.05442v7)** | 2026-01-09 |  |
-| **[Secure Change-Point Detection for Time Series under Homomorphic Encryption](https://arxiv.org/abs/2601.05865v1)** | 2026-01-09 | <details><summary>To ap...</summary><p>To appear at PETs 2026</p></details> |
-| **[Day-Ahead Electricity Price Forecasting Using Merit-Order Curves Time Series](https://arxiv.org/abs/2512.17758v2)** | 2026-01-09 |  |
-| **[Next-Generation Reservoir Computing for Dynamical Inference](https://arxiv.org/abs/2509.11338v3)** | 2026-01-09 | <details><summary>12 pa...</summary><p>12 pages, 12 figures; published version</p></details> |
-| **[A latent factor approach to hyperspectral time series data for multivariate genomic prediction of grain yield in wheat](https://arxiv.org/abs/2601.05842v1)** | 2026-01-09 | 20 pages, 8 figures |
-| **[ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991v2)** | 2026-01-09 | AAAI 2026 Oral |
-| **[Conditional Cauchy-Schwarz Divergence for Time Series Analysis: Kernelized Estimation and Applications in Clustering and Fraud Detection](https://arxiv.org/abs/2601.05711v1)** | 2026-01-09 | <details><summary>22 pa...</summary><p>22 pages, 1 figure, 3 tables</p></details> |
-| **[Transformer Is Inherently a Causal Learner](https://arxiv.org/abs/2601.05647v1)** | 2026-01-09 |  |
-| **[PiXTime: A Model for Federated Time Series Forecasting with Heterogeneous Data Structures Across Nodes](https://arxiv.org/abs/2601.05613v1)** | 2026-01-09 |  |
-| **[Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation](https://arxiv.org/abs/2509.26308v2)** | 2026-01-09 |  |
-| **[DeMa: Dual-Path Delay-Aware Mamba for Efficient Multivariate Time Series Analysis](https://arxiv.org/abs/2601.05527v1)** | 2026-01-09 | Under review |
-| **[The Kernel Manifold: A Geometric Approach to Gaussian Process Model Selection](https://arxiv.org/abs/2601.05371v1)** | 2026-01-08 |  |
+| **[DT-ICU: Towards Explainable Digital Twins for ICU Patient Monitoring via Multi-Modal and Multi-Task Iterative Inference](https://arxiv.org/abs/2601.07778v1)** | 2026-01-12 |  |
+| **[Dual-Level Models for Physics-Informed Multi-Step Time Series Forecasting](https://arxiv.org/abs/2601.07640v1)** | 2026-01-12 |  |
+| **[Uncovering the Computational Roles of Nonlinearity in Sequence Modeling Using Almost-Linear RNNs](https://arxiv.org/abs/2506.07919v2)** | 2026-01-12 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), https://openreview.net/forum?id=qI2Vt9P9rl</p></details> |
+| **[TFEC: Multivariate Time-Series Clustering via Temporal-Frequency Enhanced Contrastive Learning](https://arxiv.org/abs/2601.07550v1)** | 2026-01-12 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
+| **[Contextual Discrepancy-Aware Contrastive Learning for Robust Medical Time Series Diagnosis in Small-Sample Scenarios](https://arxiv.org/abs/2601.07548v1)** | 2026-01-12 |  |
+| **[CaTS-Bench: Can Language Models Describe Time Series?](https://arxiv.org/abs/2509.20823v4)** | 2026-01-12 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables in the main paper. Many more in the appendix</p></details> |
+| **[RED-F: Reconstruction-Elimination based Dual-stream Contrastive Forecasting for Multivariate Time Series Anomaly Prediction](https://arxiv.org/abs/2511.20044v2)** | 2026-01-12 | 13 pages |
+| **[Inference for Multiple Change-points in Piecewise Locally Stationary Time Series](https://arxiv.org/abs/2601.07400v1)** | 2026-01-12 |  |
+| **[OrderFusion: Encoding Orderbook for End-to-End Probabilistic Intraday Electricity Price Forecasting](https://arxiv.org/abs/2502.06830v4)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 5 tables</p></details> |
+| **[Review of Passenger Flow Modelling Approaches Based on a Bibliometric Analysis](https://arxiv.org/abs/2511.13742v2)** | 2026-01-12 |  |
+| **[DDT: A Dual-Masking Dual-Expert Transformer for Energy Time-Series Forecasting](https://arxiv.org/abs/2601.07250v1)** | 2026-01-12 |  |
+| **[Advancing time series completion via RFAMoE and MDFF](https://arxiv.org/abs/2512.07873v4)** | 2026-01-12 |  |
+| **[Investigating a Model-Agnostic and Imputation-Free Approach for Irregularly-Sampled Multivariate Time-Series Modeling](https://arxiv.org/abs/2502.15785v3)** | 2026-01-12 | Accepted at TMLR |
+| **[Expert System for Bitcoin Forecasting: Integrating Global Liquidity via TimeXer Transformers](https://arxiv.org/abs/2512.22326v2)** | 2026-01-11 |  |
+| **[Minimum information Markov model](https://arxiv.org/abs/2601.06900v1)** | 2026-01-11 | 27 pages, 6 figures |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation](https://arxiv.org/abs/2601.07568v1)** | 2026-01-12 |  |
+| **[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](https://arxiv.org/abs/2506.05762v4)** | 2026-01-12 |  |
+| **[PsyCLIENT: Client Simulation via Conversational Trajectory Modeling for Trainee Practice and Model Evaluation in Mental Health Counseling](https://arxiv.org/abs/2601.07312v1)** | 2026-01-12 |  |
+| **[VISTA: Knowledge-Driven Interpretable Vessel Trajectory Imputation via Large Language Models](https://arxiv.org/abs/2601.06940v1)** | 2026-01-11 | <details><summary>22 pa...</summary><p>22 pages, 13 figures, 3 algorithms, 5 tables. Code available at https://github.com/hyLiu1994/VISTA</p></details> |
 | **[Mobility Trajectories from Network-Driven Markov Dynamics](https://arxiv.org/abs/2601.06020v1)** | 2026-01-09 | 22 pages, 6 figures |
 | **[Modelling between- and within-season trajectories in elite athletic performance data](https://arxiv.org/abs/2405.17214v2)** | 2026-01-09 |  |
 | **[iReasoner: Trajectory-Aware Intrinsic Reasoning Supervision for Self-Evolving Large Multimodal Models](https://arxiv.org/abs/2601.05877v1)** | 2026-01-09 |  |
@@ -33,31 +37,27 @@ labels: documentation
 | **[TAPM-Net: Trajectory-Aware Perturbation Modeling for Infrared Small Target Detection](https://arxiv.org/abs/2601.05446v1)** | 2026-01-09 | <details><summary>Publi...</summary><p>Published in BMVC 2025 see: https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_709/paper.pdf. Conference version. 12 pages, 6 figures, 4 tables. Author-prepared version</p></details> |
 | **[ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos](https://arxiv.org/abs/2601.05237v1)** | 2026-01-08 | <details><summary>Prepr...</summary><p>Preprint. Project Website: objectforesight.github.io</p></details> |
 | **[Human-Aided Trajectory Planning for Automated Vehicles through Teleoperation and Arbitration Graphs](https://arxiv.org/abs/2502.02207v2)** | 2026-01-08 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, presented at IEEE Intelligent Vehicles Symposium 2025, video demonstration available at https://www.youtube.com/watch?v=fVSO-YOeGMk</p></details> |
+| **[EntroLnn: Entropy-Guided Liquid Neural Networks for Operando Refinement of Battery Capacity Fade Trajectories](https://arxiv.org/abs/2601.06195v1)** | 2026-01-08 | 8 pages, 4 figures |
 | **[Exploring Similarity between Neural and LLM Trajectories in Language Processing](https://arxiv.org/abs/2509.24307v2)** | 2026-01-08 |  |
 | **[Rethinking Table Pruning in TableQA: From Sequential Revisions to Gold Trajectory-Supervised Parallel Search](https://arxiv.org/abs/2601.03851v1)** | 2026-01-07 | 16 pages, 5 figures |
 | **[Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization](https://arxiv.org/abs/2502.20382v2)** | 2026-01-07 |  |
-| **[LLM-MC-Affect: LLM-Based Monte Carlo Modeling of Affective Trajectories and Latent Ambiguity for Interpersonal Dynamic Insight](https://arxiv.org/abs/2601.03645v1)** | 2026-01-07 |  |
-| **[Revisiting Continuous-Time Trajectory Estimation via Gaussian Processes and the Magnus Expansion](https://arxiv.org/abs/2601.03360v1)** | 2026-01-06 | 21 pages, 12 figures |
-| **[Dual-quaternion learning control for autonomous vehicle trajectory tracking with safety guarantees](https://arxiv.org/abs/2601.03097v1)** | 2026-01-06 |  |
-| **[Fast Surrogate Models for Adaptive Aircraft Trajectory Prediction in En route Airspace](https://arxiv.org/abs/2601.03075v1)** | 2026-01-06 |  |
-| **[Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation](https://arxiv.org/abs/2506.09990v2)** | 2026-01-06 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ACDZero: MCTS Agent for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v2)** | 2026-01-09 |  |
-| **[CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks](https://arxiv.org/abs/2601.05988v1)** | 2026-01-09 | <details><summary>17 pa...</summary><p>17 pages; 11 figures; 8 tables</p></details> |
-| **[Evaluating machine learning models for predicting pesticide toxicity to honey bees](https://arxiv.org/abs/2503.24305v4)** | 2026-01-09 |  |
-| **[Scalable Heterogeneous Graph Learning via Heterogeneous-aware Orthogonal Prototype Experts](https://arxiv.org/abs/2601.05537v1)** | 2026-01-09 |  |
-| **[Hierarchical GNN-Based Multi-Agent Learning for Dynamic Queue-Jump Lane and Emergency Vehicle Corridor Formation](https://arxiv.org/abs/2601.04177v2)** | 2026-01-09 | <details><summary>16 Pa...</summary><p>16 Pages, 5 Figures, 9 Tables, submitted to IEEE TITS</p></details> |
-| **[Grasp the Graph (GtG) 2.0: Ensemble of Graph Neural Networks for High-Precision Grasp Pose Detection in Clutter](https://arxiv.org/abs/2505.02664v2)** | 2026-01-08 | 20 pages |
-| **[DynaSTy: A Framework for SpatioTemporal Node Attribute Prediction in Dynamic Graphs](https://arxiv.org/abs/2601.05391v1)** | 2026-01-08 |  |
-| **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v2)** | 2026-01-08 |  |
-| **[Neural Algorithmic Reasoning for Approximate $k$-Coloring with Recursive Warm Starts](https://arxiv.org/abs/2601.05137v1)** | 2026-01-08 | 33 pages, 10 figures |
-| **[Topology-Informed Graph Transformer](https://arxiv.org/abs/2402.02005v3)** | 2026-01-08 | <details><summary>Proce...</summary><p>Proceedings of the Geometry-grounded Representation Learning and Generative Modeling Workshop (GRaM) at ICML 2024</p></details> |
-| **[Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://arxiv.org/abs/2601.04855v1)** | 2026-01-08 |  |
-| **[Parallelizing Node-Level Explainability in Graph Neural Networks](https://arxiv.org/abs/2601.04807v1)** | 2026-01-08 |  |
-| **[MPM-LLM4DSE: Reaching the Pareto Frontier in HLS with Multimodal Learning and LLM-Driven Exploration](https://arxiv.org/abs/2601.04801v1)** | 2026-01-08 |  |
-| **[GRAPHGINI: Fostering Individual and Group Fairness in Graph Neural Networks](https://arxiv.org/abs/2402.12937v2)** | 2026-01-08 |  |
-| **[MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training](https://arxiv.org/abs/2601.04707v1)** | 2026-01-08 | IEEE Access 2025 |
+| **[Geometry-Aware Edge Pooling for Graph Neural Networks](https://arxiv.org/abs/2506.11700v3)** | 2026-01-12 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS) 2025. Our code is available at https://github.com/aidos-lab/mag_edge_pool</p></details> |
+| **[Rep3Net: An Approach Exploiting Multimodal Representation for Molecular Bioactivity Prediction](https://arxiv.org/abs/2512.00521v2)** | 2026-01-12 |  |
+| **[Symbolic regression for defect interactions in 2D materials](https://arxiv.org/abs/2512.20785v2)** | 2026-01-12 |  |
+| **[Position: Don't be Afraid of Over-Smoothing And Over-Squashing](https://arxiv.org/abs/2601.07419v1)** | 2026-01-12 | <details><summary>Prepr...</summary><p>Preprint. Copyright 2026 by the authors</p></details> |
+| **[PLANET v2.0: A comprehensive Protein-Ligand Affinity Prediction Model Based on Mixture Density Network](https://arxiv.org/abs/2601.07415v1)** | 2026-01-12 |  |
+| **[Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets](https://arxiv.org/abs/2507.15784v2)** | 2026-01-12 | <details><summary>It's ...</summary><p>It's written so poorly, my bad</p></details> |
+| **[Learning to Trust the Crowd: A Multi-Model Consensus Reasoning Engine for Large Language Models](https://arxiv.org/abs/2601.07245v1)** | 2026-01-12 |  |
+| **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v3)** | 2026-01-12 |  |
+| **[SIGNL: A Label-Efficient Audio Deepfake Detection System via Spectral-Temporal Graph Non-Contrastive Learning](https://arxiv.org/abs/2501.04942v2)** | 2026-01-12 |  |
+| **[Generating readily synthesizable small molecule fluorophore scaffolds with reinforcement learning](https://arxiv.org/abs/2601.07145v1)** | 2026-01-12 |  |
+| **[Flow Matching and Diffusion Models via PointNet for Generating Fluid Fields on Irregular Geometries](https://arxiv.org/abs/2601.03030v2)** | 2026-01-11 |  |
+| **[Reqo: A Comprehensive Learning-Based Cost Model for Robust and Explainable Query Optimization](https://arxiv.org/abs/2501.17414v2)** | 2026-01-11 |  |
+| **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](https://arxiv.org/abs/2503.24111v3)** | 2026-01-11 | 12 pages, 12 figures |
+| **[Graph Neural Network with One-side Edge Sampling for Fraud Detection](https://arxiv.org/abs/2601.06800v1)** | 2026-01-11 |  |
+| **[Object-Centric World Models Meet Monte Carlo Tree Search](https://arxiv.org/abs/2601.06604v1)** | 2026-01-10 |  |
 
