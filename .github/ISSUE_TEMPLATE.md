@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2026
+title: Latest 15 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hierarchical Industrial Demand Forecasting with Temporal and Uncertainty Explanations](https://arxiv.org/abs/2603.06555v1)** | 2026-03-06 |  |
-| **[Symbolic Higher-Order Analysis of Multivariate Time Series](https://arxiv.org/abs/2506.00508v2)** | 2026-03-06 | <details><summary>15 pa...</summary><p>15 pages (5 pages main manuscript and 10 pages supplemental material), 9 figures (2 main manuscript and 7 supplemental material)</p></details> |
-| **[Topological descriptors of foot clearance gait dynamics improve differential diagnosis of Parkinsonism](https://arxiv.org/abs/2603.06212v1)** | 2026-03-06 | <details><summary>17 pa...</summary><p>17 pages, 12 figures, Under review</p></details> |
-| **[DQE: A Semantic-Aware Evaluation Metric for Time Series Anomaly Detection](https://arxiv.org/abs/2603.06131v1)** | 2026-03-06 |  |
-| **[MM-ISTS: Cooperating Irregularly Sampled Time Series Forecasting with Multimodal Vision-Text LLMs](https://arxiv.org/abs/2603.05997v1)** | 2026-03-06 |  |
-| **[From Tokenizer Bias to Backbone Capability: A Controlled Study of LLMs for Time Series Forecasting](https://arxiv.org/abs/2504.08818v2)** | 2026-03-06 |  |
-| **[SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](https://arxiv.org/abs/2603.04873v2)** | 2026-03-06 |  |
-| **[UniTS: Unified Spatio-Temporal Generative Model for Remote Sensing](https://arxiv.org/abs/2512.04461v2)** | 2026-03-06 |  |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v3)** | 2026-03-05 | updated experiments |
-| **[Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility](https://arxiv.org/abs/2603.05581v1)** | 2026-03-05 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 9 tables. Submitted to Computers, Environment and Urban Systems (Elsevier)</p></details> |
-| **[Learning Causal Structure of Time Series using Best Order Score Search](https://arxiv.org/abs/2603.05370v1)** | 2026-03-05 |  |
-| **[Inverse Reconstruction of Shock Time Series from Shock Response Spectrum Curves using Machine Learning](https://arxiv.org/abs/2603.03229v2)** | 2026-03-05 | <details><summary>Exten...</summary><p>Extended journal-style manuscript. 27 pages, 13 figures</p></details> |
-| **[GALACTIC: Global and Local Agnostic Counterfactuals for Time-series Clustering](https://arxiv.org/abs/2603.05318v1)** | 2026-03-05 |  |
-| **[FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping](https://arxiv.org/abs/2506.07080v2)** | 2026-03-05 |  |
-| **[ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991v3)** | 2026-03-05 | AAAI 2026 Oral |
+| **[Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting](https://arxiv.org/abs/2603.08707v1)** | 2026-03-09 |  |
+| **[GALACTIC: Global and Local Agnostic Counterfactuals for Time-series Clustering](https://arxiv.org/abs/2603.05318v2)** | 2026-03-09 |  |
+| **[Data-Driven Priors for Uncertainty-Aware Deterioration Risk Prediction with Multimodal Data](https://arxiv.org/abs/2603.08459v1)** | 2026-03-09 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 8 tables</p></details> |
+| **[A Pipeline for ADNI Resting-State Functional MRI Processing and Quality Control](https://arxiv.org/abs/2602.03278v2)** | 2026-03-09 |  |
+| **[Model checking with temporal graphs and their derivative](https://arxiv.org/abs/2602.12446v2)** | 2026-03-09 |  |
+| **[Towards plausibility in time series counterfactual explanations](https://arxiv.org/abs/2603.08349v1)** | 2026-03-09 |  |
+| **[Electrocardiogram Classification with Transformers Using Koopman and Wavelet Features](https://arxiv.org/abs/2603.08339v1)** | 2026-03-09 |  |
+| **[Explainable classification of astronomical uncertain time series](https://arxiv.org/abs/2210.00869v2)** | 2026-03-09 |  |
+| **[Double projection for reconstructing dynamical systems: between stochastic and deterministic regimes](https://arxiv.org/abs/2510.01089v2)** | 2026-03-09 |  |
+| **[Are We Winning the Wrong Game? Revisiting Evaluation Practices for Long-Term Time Series Forecasting](https://arxiv.org/abs/2603.08156v1)** | 2026-03-09 | First draft |
+| **[CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data](https://arxiv.org/abs/2508.02879v3)** | 2026-03-09 | <details><summary>This ...</summary><p>This manuscript combines material from the ICML 2025 TSFM Workshop paper and the ICLR 2026 Main Track paper</p></details> |
+| **[Hybrid Quantum Neural Network for Multivariate Clinical Time Series Forecasting](https://arxiv.org/abs/2603.08072v1)** | 2026-03-09 |  |
+| **[Examining the Role of YouTube Production and Consumption Dynamics on the Formation of Extreme Ideologies](https://arxiv.org/abs/2603.08049v1)** | 2026-03-09 |  |
+| **[S2S-FDD: Bridging Industrial Time Series and Natural Language for Explainable Zero-shot Fault Diagnosis](https://arxiv.org/abs/2603.08048v1)** | 2026-03-09 |  |
+| **[GCGNet: Graph-Consistent Generative Network for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.08032v1)** | 2026-03-09 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Context-free Self-Conditioned GAN for Trajectory Forecasting](https://arxiv.org/abs/2603.08658v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at the 2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)</p></details> |
+| **[Controllable Sequence Editing for Biological and Clinical Trajectories](https://arxiv.org/abs/2502.03569v3)** | 2026-03-09 | ICLR 2026 |
+| **[Trajectory Tracking Control Design for Autonomous Helicopters with Guaranteed Error Bounds](https://arxiv.org/abs/2603.08045v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted to the 2026 International Conference on Unmanned Aircraft Systems (ICUAS)</p></details> |
+| **[AutoTraces: Autoregressive Trajectory Forecasting via Multimodal Large Language Models](https://arxiv.org/abs/2603.07989v1)** | 2026-03-09 |  |
+| **[SWE-Fuse: Empowering Software Agents via Issue-free Trajectory Learning and Entropy-aware RLVR Training](https://arxiv.org/abs/2603.07927v1)** | 2026-03-09 | 19 pages |
+| **[Mixed Effects Mixture of Experts: Modeling Double Heterogeneous Trajectories](https://arxiv.org/abs/2603.07479v1)** | 2026-03-08 | 5 figures |
+| **[Weak-to-Strong Generalization with Failure Trajectories: A Tree-based Approach to Elicit Optimal Policy in Strong Models](https://arxiv.org/abs/2507.18858v3)** | 2026-03-07 |  |
+| **[xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing](https://arxiv.org/abs/2409.08687v4)** | 2026-03-07 | <details><summary>xTED ...</summary><p>xTED offers a novel, generic, flexible, simple and effective paradigm that casts cross-domain policy adaptation as a data pre-processing problem</p></details> |
+| **[Efficient Trajectory Optimization for Autonomous Racing via Formula-1 Data-Driven Initialization](https://arxiv.org/abs/2603.07126v1)** | 2026-03-07 |  |
+| **[Statistical Contraction for Chance-Constrained Trajectory Optimization of Non-Gaussian Stochastic Systems](https://arxiv.org/abs/2603.07092v1)** | 2026-03-07 |  |
+| **[TrajPred: Trajectory-Conditioned Joint Embedding Prediction for Surgical Instrument-Tissue Interaction Recognition in Vision-Language Models](https://arxiv.org/abs/2603.06999v1)** | 2026-03-07 |  |
+| **[PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization](https://arxiv.org/abs/2510.04436v3)** | 2026-03-06 | <details><summary>Final...</summary><p>Final manuscript. Accepted for publication at the 2026 American Control Conference</p></details> |
+| **[A prior information informed learning architecture for flying trajectory prediction](https://arxiv.org/abs/2603.06863v1)** | 2026-03-06 |  |
 | **[Mapping the long-term trajectories of political violence in Africa](https://arxiv.org/abs/2603.06502v1)** | 2026-03-06 |  |
 | **[Spectral and Trajectory Regularization for Diffusion Transformer Super-Resolution](https://arxiv.org/abs/2603.06275v1)** | 2026-03-06 | 14 pages |
-| **[TaPD: Temporal-adaptive Progressive Distillation for Observation-Adaptive Trajectory Forecasting in Autonomous Driving](https://arxiv.org/abs/2603.06231v1)** | 2026-03-06 |  |
-| **[Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints](https://arxiv.org/abs/2603.05842v1)** | 2026-03-06 |  |
-| **[Multi-Robot Trajectory Planning via Constrained Bayesian Optimization and Local Cost Map Learning with STL-Based Conflict Resolution](https://arxiv.org/abs/2603.05767v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
-| **[Kraus Constrained Sequence Learning For Quantum Trajectories from Continuous Measurement](https://arxiv.org/abs/2603.05468v1)** | 2026-03-05 | <details><summary>Poste...</summary><p>Poster at AI&PDE: ICLR 2026 Workshop on AI and Partial Differential Equations. 17 pages, 3 figures</p></details> |
-| **[EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](https://arxiv.org/abs/2510.00405v2)** | 2026-03-05 |  |
-| **[K-Gen: A Multimodal Language-Conditioned Approach for Interpretable Keypoint-Guided Trajectory Generation](https://arxiv.org/abs/2603.04868v1)** | 2026-03-05 |  |
-| **[BridgeDrive: Diffusion Bridge Policy for Closed-Loop Trajectory Planning in Autonomous Driving](https://arxiv.org/abs/2509.23589v4)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted for publication at ICLR 2026</p></details> |
-| **[AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis](https://arxiv.org/abs/2603.03378v2)** | 2026-03-05 |  |
-| **[Boundary-Guided Trajectory Prediction for Road Aware and Physically Feasible Autonomous Driving](https://arxiv.org/abs/2505.06740v3)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted in the 36th IEEE Intelligent Vehicles Symposium (IV 2025)</p></details> |
-| **[Risk-Aware Rulebooks for Multi-Objective Trajectory Evaluation under Uncertainty](https://arxiv.org/abs/2603.04603v1)** | 2026-03-04 |  |
-| **[Digital-Twin Losses for Lane-Compliant Trajectory Prediction at Urban Intersections](https://arxiv.org/abs/2603.05546v1)** | 2026-03-04 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, conference</p></details> |
-| **[Many-RRT*: Robust Joint-Space Trajectory Planning for Serial Manipulators](https://arxiv.org/abs/2603.04547v1)** | 2026-03-04 |  |
-| **[TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility](https://arxiv.org/abs/2505.06743v4)** | 2026-03-04 | <details><summary>First...</summary><p>First and Second authors contributed equally; Accepted in the 36th IEEE Intelligent Vehicles Symposium (IV 2025) for oral presentation; Winner of the best paper award</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Polarized Direct Cross-Attention Message Passing in GNNs for Machinery Fault Diagnosis](https://arxiv.org/abs/2603.06303v1)** | 2026-03-06 |  |
-| **[A Geometric Perspective on the Difficulties of Learning GNN-based SAT Solvers](https://arxiv.org/abs/2508.21513v3)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted in the Proceedings track of the GRaM Workshop @ ICLR 2026</p></details> |
-| **[Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling](https://arxiv.org/abs/2603.06218v1)** | 2026-03-06 |  |
-| **[Ensemble Graph Neural Networks for Probabilistic Sea Surface Temperature Forecasting via Input Perturbations](https://arxiv.org/abs/2603.06153v1)** | 2026-03-06 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, 6 tables</p></details> |
-| **[Stochastic Event Prediction via Temporal Motif Transitions](https://arxiv.org/abs/2603.05874v1)** | 2026-03-06 |  |
-| **[MolCrystalFlow: Molecular Crystal Structure Prediction via Flow Matching](https://arxiv.org/abs/2602.16020v2)** | 2026-03-05 | <details><summary>20 pa...</summary><p>20 pages, 4 figures. 14 pages in SI. Code: https://github.com/Liu-Group-UF/MolCrystalFlow</p></details> |
-| **[Preserving Continuous Symmetry in Discrete Spaces: Geometric-Aware Quantization for SO(3)-Equivariant GNNs](https://arxiv.org/abs/2603.05343v1)** | 2026-03-05 |  |
-| **[CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery](https://arxiv.org/abs/2511.19500v2)** | 2026-03-05 |  |
-| **[Recurrent Graph Neural Networks and Arithmetic Circuits](https://arxiv.org/abs/2603.05140v1)** | 2026-03-05 |  |
-| **[Poisoning the Inner Prediction Logic of Graph Neural Networks for Clean-Label Backdoor Attacks](https://arxiv.org/abs/2603.05004v1)** | 2026-03-05 | Submit to KDD 2026 |
-| **[LEXA: Legal Case Retrieval via Graph Contrastive Learning with Contextualised LLM Embeddings](https://arxiv.org/abs/2405.11791v3)** | 2026-03-05 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2312.11229</p></details> |
-| **[GIANT - Global Path Integration and Attentive Graph Networks for Multi-Agent Trajectory Planning](https://arxiv.org/abs/2603.04659v1)** | 2026-03-04 | <details><summary>Publi...</summary><p>Published in: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[GRAND: Guidance, Rebalancing, and Assignment for Networked Dispatch in Multi-Agent Path Finding](https://arxiv.org/abs/2512.03194v3)** | 2026-03-04 |  |
-| **[SGR3 Model: Scene Graph Retrieval-Reasoning Model in 3D](https://arxiv.org/abs/2603.04614v1)** | 2026-03-04 |  |
-| **[An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs](https://arxiv.org/abs/2603.04545v1)** | 2026-03-04 | 14 pages, 11 figures |
+| **[Characterization and upgrade of a quantum graph neural network for charged particle tracking](https://arxiv.org/abs/2603.08667v1)** | 2026-03-09 | <details><summary>16 to...</summary><p>16 total pages, 15 figures</p></details> |
+| **[The Role of Feature Interactions in Graph-based Tabular Deep Learning](https://arxiv.org/abs/2510.04543v2)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, accepted at TMLR 2026</p></details> |
+| **[mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud](https://arxiv.org/abs/2603.08551v1)** | 2026-03-09 | <details><summary>copyr...</summary><p>copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[PCFEx: Point Cloud Feature Extraction for Graph Neural Networks](https://arxiv.org/abs/2603.08540v1)** | 2026-03-09 | <details><summary>©2026...</summary><p>©2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[AULLM++: Structural Reasoning with Large Language Models for Micro-Expression Recognition](https://arxiv.org/abs/2603.08387v1)** | 2026-03-09 |  |
+| **[SCL-GNN: Towards Generalizable Graph Neural Networks via Spurious Correlation Learning](https://arxiv.org/abs/2603.08270v1)** | 2026-03-09 |  |
+| **[ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion](https://arxiv.org/abs/2504.15920v6)** | 2026-03-09 |  |
+| **[Graph Neural Model Predictive Control for High-Dimensional Systems](https://arxiv.org/abs/2602.17601v2)** | 2026-03-09 |  |
+| **[Rel-MOSS: Towards Imbalanced Relational Deep Learning on Relational Databases](https://arxiv.org/abs/2603.07916v1)** | 2026-03-09 |  |
+| **[Robustness Verification of Graph Neural Networks Via Lightweight Satisfiability Testing](https://arxiv.org/abs/2510.18591v2)** | 2026-03-08 |  |
+| **[PhysDrape: Learning Explicit Forces and Collision Constraints for Physically Realistic Garment Draping](https://arxiv.org/abs/2602.08020v2)** | 2026-03-08 |  |
+| **[Learning the APT Kill Chain: Temporal Reasoning over Provenance Data for Attack Stage Estimation](https://arxiv.org/abs/2603.07560v1)** | 2026-03-08 |  |
+| **[Compose by Focus: Scene Graph-based Atomic Skills](https://arxiv.org/abs/2509.16053v2)** | 2026-03-08 | <details><summary>Accep...</summary><p>Acceptance to ICRA 2026. Website: https://computationalrobotics.seas.harvard.edu/SkillComposition/</p></details> |
+| **[Learning to Rank the Initial Branching Order of SAT Solvers](https://arxiv.org/abs/2603.07176v1)** | 2026-03-07 | <details><summary>Publi...</summary><p>Published at VerifAI-2: The Second Workshop on AI Verification in the Wild</p></details> |
+| **[Not All Neighbors Matter: Understanding the Impact of Graph Sparsification on GNN Pipelines](https://arxiv.org/abs/2603.06952v1)** | 2026-03-07 |  |
 
