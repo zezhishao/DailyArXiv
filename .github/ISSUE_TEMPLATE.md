@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2026
+title: Latest 15 Papers - May 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reconstructing Sepsis Trajectories from Clinical Case Reports using LLMs: the Textual Time Series Corpus for Sepsis](https://arxiv.org/abs/2504.12326v3)** | 2026-05-12 | <details><summary>Confe...</summary><p>Conference on Health, Inference, and Learning (CHIL 2026)</p></details> |
-| **[Trajectory-Agnostic Asteroid Detection in TESS with Deep Learning](https://arxiv.org/abs/2605.12391v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by The Astronomical Journal, 11 May 2026</p></details> |
-| **[Multi-modal Bayesian Neural Network Surrogates with Conjugate Last-Layer Estimation](https://arxiv.org/abs/2509.21711v2)** | 2026-05-12 | <details><summary>47 pa...</summary><p>47 pages including references and appendix, 9 figures</p></details> |
-| **[From Observations to States: Latent Time Series Forecasting](https://arxiv.org/abs/2602.00297v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Pretraining Strategies and Scaling for ECG Foundation Models: A Systematic Study](https://arxiv.org/abs/2605.12241v1)** | 2026-05-12 | <details><summary>59 pa...</summary><p>59 pages, 16 figures, 59 Tables. Code available at https://anonymous.4open.science/r/ecg-pretraining-strategies-4DE3</p></details> |
-| **[Industrial AI Robustness Card for Time Series Models](https://arxiv.org/abs/2512.11868v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to IFAC World Congress 2026</p></details> |
-| **[Rotary Masked Autoencoders are Versatile Learners](https://arxiv.org/abs/2505.20535v3)** | 2026-05-12 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Final Camera Ready</p></details> |
-| **[Investigating simple target-covariate relationships for Chronos-2 and TabPFN-TS](https://arxiv.org/abs/2605.12200v1)** | 2026-05-12 |  |
-| **[Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](https://arxiv.org/abs/2602.12139v2)** | 2026-05-12 |  |
-| **[Physics Aware Neural Networks: Denoising for Magnetic Navigation](https://arxiv.org/abs/2602.13690v2)** | 2026-05-12 |  |
-| **[Bayesian Dynamic Modeling of Realized Volatility in Financial Asset Price Forecasting](https://arxiv.org/abs/2605.12099v1)** | 2026-05-12 | 20 pages, 7 figures |
-| **[DeepLévy: Learning Heavy-Tailed Uncertainty in Highly Volatile Time Series](https://arxiv.org/abs/2605.10364v2)** | 2026-05-12 |  |
-| **[Efficient and Adaptive Human Activity Recognition via LLM Backbones](https://arxiv.org/abs/2605.12019v1)** | 2026-05-12 |  |
-| **[SurvBench: A Standardised Preprocessing Pipeline for Multi-Modal Electronic Health Record Survival Analysis](https://arxiv.org/abs/2511.11935v2)** | 2026-05-12 |  |
-| **[Semi-Supervised Bayesian GANs with Log-Signatures for Uncertainty-Aware Credit Card Fraud Detection](https://arxiv.org/abs/2509.00931v3)** | 2026-05-12 |  |
+| **[MILM: Large Language Models for Multimodal Irregular Time Series with Informative Sampling](https://arxiv.org/abs/2605.13711v1)** | 2026-05-13 |  |
+| **[Three-Stage Learning Unlocks Strong Performance in Simple Models for Long-Term Time Series Forecasting](https://arxiv.org/abs/2605.13678v1)** | 2026-05-13 |  |
+| **[FactoryNet: A Large-Scale Dataset toward Industrial Time-Series Foundation Models](https://arxiv.org/abs/2605.09081v2)** | 2026-05-13 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables</p></details> |
+| **[HEPA: A Self-Supervised Horizon-Conditioned Event Predictive Architecture for Time Series](https://arxiv.org/abs/2605.11130v2)** | 2026-05-13 | <details><summary>9 pag...</summary><p>9 pages main text, 15 pages appendix, 5 figures, 9 tables. Code at https://github.com/Forgis-Research/HEPA</p></details> |
+| **[LLM Flow Processes for Text-Conditioned Regression](https://arxiv.org/abs/2601.06147v2)** | 2026-05-13 |  |
+| **[Compact Latent Manifold Translation: A Parameter-Efficient Foundation Model for Cross-Modal and Cross-Frequency Physiological Signal Synthesis](https://arxiv.org/abs/2605.13248v1)** | 2026-05-13 |  |
+| **[The $α$--regression for compositional data: a unified framework for standard, temporal and spatial regression models including compositional predictors](https://arxiv.org/abs/2510.12663v6)** | 2026-05-13 |  |
+| **[Generative Modeling of Approximately Periodic Time Series by a Posterior-Weighted Gaussian Process](https://arxiv.org/abs/2605.13150v1)** | 2026-05-13 |  |
+| **[Amortized Neural Clustering of Time Series based on Statistical Features](https://arxiv.org/abs/2605.13128v1)** | 2026-05-13 |  |
+| **[PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering](https://arxiv.org/abs/2602.23161v3)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted By ICML 2026</p></details> |
+| **[Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](https://arxiv.org/abs/2509.23597v5)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted for publication at ICLR 2026</p></details> |
+| **[Mechanistic Evidence for Spectral Structures in Prior-Data Fitted Networks](https://arxiv.org/abs/2601.21731v2)** | 2026-05-13 |  |
+| **[ISOMORPH: A Supply Chain Digital Twin for Simulation, Dataset Generation, and Forecasting Benchmarks](https://arxiv.org/abs/2605.12768v1)** | 2026-05-12 |  |
+| **[Grid-Orch: An LLM-Powered Orchestrator for Distribution Grid Simulation and Analytics](https://arxiv.org/abs/2605.12728v1)** | 2026-05-12 |  |
+| **[TS-Haystack: A Multi-Task Retrieval Benchmark for Long-Context Time-Series Reasoning](https://arxiv.org/abs/2602.14200v5)** | 2026-05-12 | <details><summary>Works...</summary><p>Workshop version of this paper published at ICLR TSALM 2026. Benchmark generation code and datasets: https://github.com/AI-X-Labs/TS-Haystack</p></details> |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Coordinating Multiple Conditions for Trajectory-Controlled Human Motion Generation](https://arxiv.org/abs/2605.13729v1)** | 2026-05-13 |  |
+| **[An Overtaking Trajectory Planning Framework Based on Spatio-temporal Topology and Reachable Set Analysis Ensuring Time Efficiency](https://arxiv.org/abs/2410.22643v2)** | 2026-05-13 |  |
+| **[Structural identifiability of partially-observed stochastic processes: from single-particle trajectories to total particle density data](https://arxiv.org/abs/2605.13504v1)** | 2026-05-13 | <details><summary>Main:...</summary><p>Main: 26 pages, 4 figures Supplementary Information: 20 pages, 5 figures</p></details> |
+| **[Trajectory-Level Data Augmentation for Offline Reinforcement Learning](https://arxiv.org/abs/2605.13401v1)** | 2026-05-13 | <details><summary>26 pa...</summary><p>26 pages, 25 figures, Accepted at ICML 2026</p></details> |
+| **[ATBench: A Diverse and Realistic Agent Trajectory Benchmark for Safety Evaluation and Diagnosis](https://arxiv.org/abs/2604.02022v3)** | 2026-05-13 |  |
+| **[TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment](https://arxiv.org/abs/2605.10983v2)** | 2026-05-13 |  |
+| **[Ergodic Trajectory Design by Learned Pushforward Maps: Provable Coverage via Conditional Flow Matching](https://arxiv.org/abs/2605.13063v1)** | 2026-05-13 |  |
+| **[EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents](https://arxiv.org/abs/2605.12887v1)** | 2026-05-13 |  |
+| **[Normalizing Trajectory Models](https://arxiv.org/abs/2605.08078v2)** | 2026-05-12 | <details><summary>25 pa...</summary><p>25 pages, 10 figures; corrected typos and citations</p></details> |
+| **[Still Camouflage, Moving Illusion: View-Induced Trajectory Manipulation in Autonomous Driving](https://arxiv.org/abs/2605.12743v1)** | 2026-05-12 |  |
+| **[Shuffles of Context-Free Languages along Regular Trajectories](https://arxiv.org/abs/2603.26162v2)** | 2026-05-12 | <details><summary>Full ...</summary><p>Full version of the paper appearing in ICALP'26</p></details> |
 | **[Stories in Space: In-Context Learning Trajectories in Conceptual Belief Space](https://arxiv.org/abs/2605.12412v1)** | 2026-05-12 |  |
 | **[Combining longitudinal cohort studies to examine cardiovascular risk factor trajectories across the adult lifespan](https://arxiv.org/abs/2503.17606v2)** | 2026-05-12 |  |
 | **[Trajectory First: A Curriculum for Discovering Diverse Policies](https://arxiv.org/abs/2506.01568v3)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted into the Inductive Biases in Reinforcement Learning Workshop at RLC 2025</p></details> |
 | **[IMPACT: An Implicit Active-Set Augmented Lagrangian for Fast Contact-Implicit Trajectory Optimization](https://arxiv.org/abs/2605.09127v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to Robotics: Science and Systems (RSS), 2026</p></details> |
-| **[Chronicles-OCR: A Cross-Temporal Perception Benchmark for the Evolutionary Trajectory of Chinese Characters](https://arxiv.org/abs/2605.11960v1)** | 2026-05-12 |  |
-| **[From Trajectories to Phenotypes: Disease Progression as Structural Priors for Multi-organ Imaging Representation Learning](https://arxiv.org/abs/2605.11958v1)** | 2026-05-12 |  |
-| **[Procedural-skill SFT across capacity tiers: A W-Shaped pre-SFT Trajectory and Regime-Asymmetric Mechanism on 0.8B-4B Qwen3.5 Models](https://arxiv.org/abs/2605.11907v1)** | 2026-05-12 |  |
-| **[On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment](https://arxiv.org/abs/2605.11882v1)** | 2026-05-12 |  |
-| **[Runtime Calibration as State-Trajectory Feedback Control in Quantum-Classical Workflows](https://arxiv.org/abs/2605.11860v1)** | 2026-05-12 | 10 pages, 6 figures |
-| **[Self-Distilled Trajectory-Aware Boltzmann Modeling: Bridging the Training-Inference Discrepancy in Diffusion Language Models](https://arxiv.org/abs/2605.11854v1)** | 2026-05-12 | Under review |
-| **[Clin-JEPA: A Multi-Phase Co-Training Framework for Joint-Embedding Predictive Pretraining on EHR Patient Trajectories](https://arxiv.org/abs/2605.10840v2)** | 2026-05-12 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 8 tables. Code: https://github.com/YeungYathin/Clin-JEPA</p></details> |
-| **[An Elastic Shape Variational Autoencoder for Skeleton Pose Trajectories](https://arxiv.org/abs/2605.09231v2)** | 2026-05-12 | 9 pages |
-| **[Encore: Conditioning Trajectory Forecasting via Biased Ego Rehearsals](https://arxiv.org/abs/2605.11463v1)** | 2026-05-12 |  |
-| **[PIVOT: Bridging Planning and Execution in LLM Agents via Trajectory Refinement](https://arxiv.org/abs/2605.11225v1)** | 2026-05-11 |  |
-| **[TrajPrism: A Multi-Task Benchmark for Language-Grounded Urban Trajectory Understanding](https://arxiv.org/abs/2605.10782v1)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper is under review</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation](https://arxiv.org/abs/2605.12389v1)** | 2026-05-12 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Accepted at ICML 2026. Includes appendices</p></details> |
-| **[A Unified Graph Language Model for Multi-Domain Multi-Task Graph Alignment Instruction Tuning](https://arxiv.org/abs/2605.12197v1)** | 2026-05-12 |  |
-| **[Estimating Subgraph Importance with Structural Prior Domain Knowledge](https://arxiv.org/abs/2605.12009v1)** | 2026-05-12 |  |
-| **[BadSKP: Backdoor Attacks on Knowledge Graph-Enhanced LLMs with Soft Prompts](https://arxiv.org/abs/2605.11996v1)** | 2026-05-12 |  |
-| **[Random-Set Graph Neural Networks](https://arxiv.org/abs/2605.11987v1)** | 2026-05-12 | 23 pages, 6 figures |
-| **[Crash Assessment via Mesh-Based Graph Neural Networks and Physics-Aware Attention](https://arxiv.org/abs/2605.11784v1)** | 2026-05-12 | <details><summary>40 pa...</summary><p>40 pages, 15 figures, 7 tables</p></details> |
-| **[Physics-Informed Graph Neural Networks for Frequency-Aware Optical Aberration Correction](https://arxiv.org/abs/2512.05683v2)** | 2026-05-12 |  |
-| **[U-STS-LLM A Unified Spatio-Temporal Steered Large Language Model for Traffic Prediction and Imputation](https://arxiv.org/abs/2605.11735v1)** | 2026-05-12 | 14 pages, 6 figures |
-| **[Unification of Signal Transform Theory](https://arxiv.org/abs/2605.11589v1)** | 2026-05-12 |  |
-| **[GriNNder: Breaking the Memory Capacity Wall in Full-Graph GNN Training with Storage Offloading](https://arxiv.org/abs/2605.11517v1)** | 2026-05-12 | <details><summary>29 pa...</summary><p>29 pages, Accepted to MLSys 2026</p></details> |
-| **[CAMPA: Efficient and Aligned Multimodal Graph Learning via Decoupled Propagation and Aggregation](https://arxiv.org/abs/2605.11468v1)** | 2026-05-12 |  |
-| **[Smoothness Errors in Dynamics Models and How to Avoid Them](https://arxiv.org/abs/2602.05352v2)** | 2026-05-12 | <details><summary>Ecsta...</summary><p>Ecstatic to share relaxed unitary mesh convolutions with the community :D! This version contains the camera ready for ICML 2026. Send me an email with your thoughts! I love getting mail :^)</p></details> |
-| **[gym-invmgmt: An Open Benchmarking Framework for Inventory Management Methods](https://arxiv.org/abs/2605.11355v1)** | 2026-05-12 | 16 pages, 4 figures |
-| **[Oversmoothing as Representation Degeneracy in Neural Sheaf Diffusion](https://arxiv.org/abs/2605.11178v1)** | 2026-05-11 | <details><summary>15 pa...</summary><p>15 pages, Comments welcome</p></details> |
-| **[Debiasing Message Passing to Mitigate Popularity Bias in GNN-based Collaborative Filtering](https://arxiv.org/abs/2605.11145v1)** | 2026-05-11 |  |
+| **[Exact Verification of Graph Neural Networks with Incremental Constraint Solving](https://arxiv.org/abs/2508.09320v3)** | 2026-05-13 | <details><summary>Exten...</summary><p>Extended version of the paper accepted at FM 2026</p></details> |
+| **[Graph Neural Networks with Triangle-Based Messages for the Multicut Problem](https://arxiv.org/abs/2605.13673v1)** | 2026-05-13 | 21 pages, 5 figures |
+| **[Multimodal Graph-based Classification of Esophageal Motility Disorders](https://arxiv.org/abs/2605.13623v1)** | 2026-05-13 |  |
+| **[RAG-GNN: Integrating Retrieved Knowledge with Graph Neural Networks for Precision Medicine](https://arxiv.org/abs/2602.00586v2)** | 2026-05-13 |  |
+| **[Rethinking Generalization in Graph Neural Networks: A Structural Complexity Perspective](https://arxiv.org/abs/2605.13597v1)** | 2026-05-13 | 44 pages, 10 figures |
+| **[Beyond Oversquashing: Understanding Signal Propagation in GNNs Via Observables](https://arxiv.org/abs/2605.13383v1)** | 2026-05-13 |  |
+| **[Physics Guided Generative Optimization for Trotter Suzuki Decomposition](https://arxiv.org/abs/2605.13268v1)** | 2026-05-13 |  |
+| **[Learning to Approximate Uniform Facility Location via Graph Neural Networks](https://arxiv.org/abs/2602.13155v2)** | 2026-05-13 | ICML 2026 |
+| **[MLGIB: Multi-Label Graph Information Bottleneck for Expressive and Robust Message Passing](https://arxiv.org/abs/2605.13126v1)** | 2026-05-13 |  |
+| **[Improving LLM Final Representations with Inter-Layer Geometry](https://arxiv.org/abs/2603.22665v3)** | 2026-05-13 | <details><summary>17 pa...</summary><p>17 pages, 4 figures. Equal contribution by first two authors</p></details> |
+| **[What Information Matters? Graph Out-of-Distribution Detection via Tri-Component Information Decomposition](https://arxiv.org/abs/2605.13032v1)** | 2026-05-13 | ICML26 |
+| **[GraphIP-Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?](https://arxiv.org/abs/2605.12827v1)** | 2026-05-12 | Under review |
+| **[Graph-Based Financial Fraud Detection with Calibrated Risk Scoring and Structural Regularization](https://arxiv.org/abs/2605.12782v1)** | 2026-05-12 |  |
+| **[Predicting Channel Closures in the Lightning Network with Machine Learning](https://arxiv.org/abs/2605.12759v1)** | 2026-05-12 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables</p></details> |
+| **[Beyond Softmax: A Natural Parameterization for Categorical Random Variables](https://arxiv.org/abs/2509.24728v2)** | 2026-05-12 |  |
 
