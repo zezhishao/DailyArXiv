@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,52 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Inverse Cross-spectral Neural Networks for Multivariate Time Series](https://arxiv.org/abs/2610.06630v1)** | 2026-10-05 |  |
-| **[Normality Constraint Learning: Adapting Foundation Models for Time Series Anomaly Detection](https://arxiv.org/abs/2610.06453v1)** | 2026-10-05 | 43 pages, 15 figures |
-| **[EMG-FM-Bench: A Comprehensive Benchmark for Foundation Model Transfer and Adaptation on Electromyography](https://arxiv.org/abs/2610.06450v1)** | 2026-10-05 |  |
-| **[Time-series Foundation Models for Predictive Control: The Role of Excitation](https://arxiv.org/abs/2610.06447v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at the TS-LIMITS Workshop at NeurIPS 2026</p></details> |
-| **[Function-Valued Causal Influence in Nonlinear Time Series](https://arxiv.org/abs/2605.26408v3)** | 2026-10-05 | <details><summary>26 pa...</summary><p>26 pages, 6 tables, 8 figures</p></details> |
-| **[In-Context Time Series Classification with Random Convolutional Features](https://arxiv.org/abs/2607.19234v2)** | 2026-10-05 |  |
-| **[Portmanteau Goodness-of-Fit Tests in the Presence of Simple, Mixed, and Multiple Seasonal Autocorrelation](https://arxiv.org/abs/2609.32381v2)** | 2026-10-05 |  |
-| **[Trajectory-Guided Tokenization of Complex CSI for Wi-Fi Sensing](https://arxiv.org/abs/2610.06288v1)** | 2026-10-05 |  |
-| **[Chronax: A Jax Library for Forecasting and Conformal Inference](https://arxiv.org/abs/2604.16719v2)** | 2026-10-05 | <details><summary>Adds ...</summary><p>Adds an author and corrects references</p></details> |
-| **[Anlu: Enabling In-Context Time Series Anomaly Detection in Foundation Models via Counterfactual Supervision](https://arxiv.org/abs/2610.06180v1)** | 2026-10-05 |  |
-| **[TempusBench: An Evaluation Framework for Time-Series Forecasting](https://arxiv.org/abs/2604.11529v3)** | 2026-10-05 | <details><summary>Techn...</summary><p>Technical report. Adds authors and corrects references</p></details> |
-| **[GARCH copulas, v-transforms and D-vines for stochastic volatility](https://arxiv.org/abs/2408.07025v3)** | 2026-10-05 |  |
-| **[TIGER: Time-Series Classification with In-Context-Learning Gated Ensemble of Representations](https://arxiv.org/abs/2610.06156v1)** | 2026-10-05 |  |
-| **[Learning-to-Defer in Non-Stationary Time Series via Switching State-Space Models](https://arxiv.org/abs/2601.22538v4)** | 2026-10-05 |  |
-| **[A Multimodal Sequence-to-Sequence Model for Cross-Subject Prediction of Brain Responses to Naturalistic Stimuli](https://arxiv.org/abs/2507.18104v3)** | 2026-10-05 | <details><summary>Subst...</summary><p>Substantially revised manuscript with new analyses, expanded cross-subject evaluation, and updated figures</p></details> |
+| **[Fast, Interpretable, and Deterministic Time Series Classification With a Bag-of-Receptive-Fields](https://arxiv.org/abs/2311.18029v2)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted version of the article published in IEEE Access (2024), CC BY 4.0. Substantially revised from v1 ("A Bag of Receptive Fields for Time Series Extrinsic Predictions"), which also covered time series extrinsic regression. Code: https://github.com/fspinna/borf</p></details> |
+| **[Stable Multivariate Functional Time Series Prediction for Major Geomagnetic Indices](https://arxiv.org/abs/2606.14417v2)** | 2026-10-06 |  |
+| **[Prediction-powered inference for time series across space](https://arxiv.org/abs/2610.08715v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to TS-LIMITS Workshop at NeurIPS 2026</p></details> |
+| **[PyDPF: A Python Package for Differentiable Particle Filtering](https://arxiv.org/abs/2510.25693v4)** | 2026-10-06 | <details><summary>46 pa...</summary><p>46 pages, 0 figures, under review at the Journal of Statistical Software, the python package can be found at https://pypi.org/project/pydpf/ , the full documentation at https://python-dpf.readthedocs.io/en/latest/#documentation-index , and the source code including experiment replication material at https://github.com/John-JoB/pydpf</p></details> |
+| **[From Shared Demand Patterns to Local Uncertainty: Probabilistic Load Forecasting by Mixing Compact Adaptations](https://arxiv.org/abs/2610.08538v1)** | 2026-10-06 |  |
+| **[The Now and Then: Integrating Current and Historical Data in Small Multiple Time Series Visualization](https://arxiv.org/abs/2610.08473v1)** | 2026-10-06 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, to be published in IEEE TVCG</p></details> |
+| **[Scalable Regularized Vector Multiplicative Error Models for Positive-valued Financial Time Series](https://arxiv.org/abs/2610.08443v1)** | 2026-10-06 | <details><summary>ISBIS...</summary><p>ISBIS-STATFIN Conference 2026 contributed talk (Conference link: https://statfin.cmi.ac.in/ISBIS2026/, Talk link: https://statfin.cmi.ac.in/ISBIS2026/#:~:text=72-,Rohan%20Chattre,-UConn)</p></details> |
+| **[Walking Fingerprinting Using Wrist Accelerometry During Activities of Daily Living in NHANES](https://arxiv.org/abs/2506.17160v2)** | 2026-10-06 | <details><summary>19 pa...</summary><p>19 pages, 7 tables, 7 figures</p></details> |
+| **[A computationally-tractable measure of global sensitivity for sampling-based Bayesian inference](https://arxiv.org/abs/2605.28099v4)** | 2026-10-06 |  |
+| **[Explainable Failure Prediction and Prevention in Maritime](https://arxiv.org/abs/2610.08363v1)** | 2026-10-06 |  |
+| **[Systematic Evaluation of TabPFN-TS and Chronos-2 for Zero-Shot Heat Load Forecasting in District Heating Networks](https://arxiv.org/abs/2608.20024v2)** | 2026-10-06 | <details><summary>43 pa...</summary><p>43 pages, 10 figures; Supplementary Information included. Revised following peer review, with expanded evaluation and uncertainty analysis</p></details> |
+| **[Quadratic Direct Forecast for Training Multi-Step Time-Series Forecast Models](https://arxiv.org/abs/2511.00053v2)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Time-o1: Time-Series Forecasting Needs Transformed Label Alignment](https://arxiv.org/abs/2505.17847v3)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted as poster in NeurIPS 2025</p></details> |
+| **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](https://arxiv.org/abs/2510.24574v3)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[FreDF: Learning to Forecast in the Frequency Domain](https://arxiv.org/abs/2402.02399v3)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pareto-Optimal Entropy-Regularized Trajectory Optimization](https://arxiv.org/abs/2610.08532v1)** | 2026-10-06 | 9 pages, 3 figures |
+| **[Revisiting Numerical Forecasting Models for Language-Based Trajectory Prediction](https://arxiv.org/abs/2610.07954v1)** | 2026-10-06 | <details><summary>35 pa...</summary><p>35 pages, 15 figures. Project page: https://jungyu0413.github.io/MoRE/</p></details> |
+| **[Ideal Paths for Approximating Logistic Gradient Descent Trajectories at Large Initialization](https://arxiv.org/abs/2610.04142v2)** | 2026-10-06 | <details><summary>42 pa...</summary><p>42 pages, 5 figures, 6 tables</p></details> |
+| **[ThinkFuse: Trajectory-Aware Test-Time Fusion for Small Reasoning Models](https://arxiv.org/abs/2610.07803v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Findings</p></details> |
+| **[Nash Social Welfare for Multi Armed Bandits: Trajectory-wise Expected and High Probability Regret](https://arxiv.org/abs/2610.07737v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Enhanced Video Text Editing with Trajectory-Aligned Glyph Rendering](https://arxiv.org/abs/2609.34178v2)** | 2026-10-06 |  |
+| **[FineART: Fine-Grained Annotated Robotic Trajectory Dataset and Vision-Language-Action Model for Bimanual Manipulation](https://arxiv.org/abs/2609.36416v3)** | 2026-10-05 | <details><summary>26 pa...</summary><p>26 pages. Code and model weights will be integrated into Hugging Face LeRobot https://github.com/huggingface/lerobot</p></details> |
+| **[PC-Diffuser: Path-Consistent Capsule CBF Safety Filtering for Diffusion-Based Trajectory Planner](https://arxiv.org/abs/2603.10330v3)** | 2026-10-05 |  |
+| **[Understanding Moral Reasoning Trajectories in Large Language Models: Toward Probing-Based Explainability](https://arxiv.org/abs/2603.16017v2)** | 2026-10-05 | <details><summary>We up...</summary><p>We updated some more statistical results and analysis</p></details> |
+| **[Trajectory-Retrieval Speculative Decoding: When Does a Model's Own History Help?](https://arxiv.org/abs/2610.07350v1)** | 2026-10-05 | 33 pages |
+| **[Learning Scientific Exploration from Human Research Decision Trajectories](https://arxiv.org/abs/2610.07184v1)** | 2026-10-05 |  |
 | **[Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning](https://arxiv.org/abs/2609.09030v2)** | 2026-10-05 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 3 tables</p></details> |
 | **[GAMBIT: Learning to Plan Continuous Multi-Robot Trajectories](https://arxiv.org/abs/2610.06290v1)** | 2026-10-05 |  |
 | **[Trajectory-Guided Tokenization of Complex CSI for Wi-Fi Sensing](https://arxiv.org/abs/2610.06288v1)** | 2026-10-05 |  |
 | **[MoCAR: Motion-code Coordinate-aware AutoRegression for Continuous Trajectory Forecasting](https://arxiv.org/abs/2610.06210v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Camera-ready version</p></details> |
-| **[ST-LoRA: Single Trajectory LoRA Ensemble for Uncertainty Aware Agricultural Segmentation](https://arxiv.org/abs/2608.01530v2)** | 2026-10-05 | <details><summary>Submi...</summary><p>Submitted to Computers and Electronics in Agriculture (Elsevier). Currently under review (first revision round)</p></details> |
-| **[Radar2Plan: Benchmarking 4D Radar for End-to-End Open-Loop Ego-Trajectory Planning](https://arxiv.org/abs/2610.06121v1)** | 2026-10-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables</p></details> |
-| **[Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks](https://arxiv.org/abs/2610.06104v1)** | 2026-10-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 5 tables. Project page: https://embodied.magiclab.top/works/ctp/index.html</p></details> |
-| **[The Dynamics of Discoverability: How Trajectories and Priors Shape Equation Recovery](https://arxiv.org/abs/2607.18490v2)** | 2026-10-05 | <details><summary>35 pa...</summary><p>35 pages, 6 figures, 3 tables (main text and appendices)</p></details> |
-| **[Graph-Based Floor Separation Using Node Embeddings and Clustering of WiFi Trajectories](https://arxiv.org/abs/2505.08088v4)** | 2026-10-05 | <details><summary>I wan...</summary><p>I want Version 3 withdrawn because it contains significant errors, while Version 2 should remain the latest valid version.</p></details> |
-| **[UltraDub: Towards Authentic Dubbing by Unifying Visually-Steered Flow Learning and Trajectory Guidance](https://arxiv.org/abs/2610.05932v1)** | 2026-10-05 |  |
-| **[Trajectory-Aware Best-Arm Identification for Local Search Allocation in Bayesian Optimization and Beyond](https://arxiv.org/abs/2605.31050v2)** | 2026-10-05 | 24 pages, 20 figures |
-| **[Selecting Long-Horizon Trajectories for Reliable and Efficient Terminal-Agent Training](https://arxiv.org/abs/2610.05831v1)** | 2026-10-05 | <details><summary>Submi...</summary><p>Submitted to ICLR 2027</p></details> |
-| **[Benchmarking Generative Trajectory Models for Active-Inference Control](https://arxiv.org/abs/2610.05692v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at the 7th International Workshop on Active Inference (IWAI 2026). 16 pages, including appendix and references; 4 figures. Code: https://github.com/lyeeonardo/generative-trajectory-benchmark</p></details> |
-| **[StageVLN: Spatial and Trajectory Auxiliary Guidance for Efficient Vision-Language Navigation](https://arxiv.org/abs/2610.05664v1)** | 2026-10-05 |  |
-| **[Spacecraft Rendezvous Trajectory Generation with Modular Constraints via Diffusion Model Composition](https://arxiv.org/abs/2610.05642v1)** | 2026-10-05 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty Quantification Is Indispensable for Reliable Connectome-Based Graph Learning: A Narrative Review and Case Study](https://arxiv.org/abs/2610.08353v1)** | 2026-10-06 |  |
+| **[Which alloy composition,what process parameters? Inferring the recipe from optimized metallic microstructure and texture](https://arxiv.org/abs/2610.08165v1)** | 2026-10-06 |  |
+| **[A Critical Audit of Spatiotemporal Forecasting Benchmark Datasets and Models](https://arxiv.org/abs/2608.20980v2)** | 2026-10-06 |  |
+| **[Textual Environmental Context and Spatial Graphs for LLM-Based Regional SST Forecasting](https://arxiv.org/abs/2610.07895v1)** | 2026-10-06 | preprint |
+| **[Complementary Supervised and Self-Supervised Representations for Out-of-Distribution Graph Learning](https://arxiv.org/abs/2610.07628v1)** | 2026-10-06 |  |
+| **[Two-Sample Testing for Random Graphs without Vertex Correspondence](https://arxiv.org/abs/2610.07503v1)** | 2026-10-05 |  |
+| **[Neural Algorithmic Reasoning for Graph Saddle Point Problems](https://arxiv.org/abs/2610.07255v1)** | 2026-10-05 |  |
+| **[SeedER: Seed-Expand-Retrieve for Efficient Knowledge Graph Retrieval](https://arxiv.org/abs/2605.23753v2)** | 2026-10-05 |  |
 | **[Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs](https://arxiv.org/abs/2610.06685v1)** | 2026-10-05 |  |
 | **[Inverse Cross-spectral Neural Networks for Multivariate Time Series](https://arxiv.org/abs/2610.06630v1)** | 2026-10-05 |  |
 | **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v2)** | 2026-10-05 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
@@ -52,12 +60,4 @@ labels: documentation
 | **[FairProp: Fair Node Representation Learning via Differentiable Propagation Layers](https://arxiv.org/abs/2610.06484v1)** | 2026-10-05 |  |
 | **[Stability-Shaped Deep Graph Learning](https://arxiv.org/abs/2610.06344v1)** | 2026-10-05 |  |
 | **[Modelling magnetic material properties with uncertainty-aware neural networks](https://arxiv.org/abs/2606.11870v2)** | 2026-10-05 | published |
-| **[Graph Neural Network-Driven Deep Reinforcement Learning for Scalable RIS Allocation](https://arxiv.org/abs/2610.06295v1)** | 2026-10-05 |  |
-| **[Answer Set Networks: Casting Answer Set Programming into Deep Learning](https://arxiv.org/abs/2412.14814v2)** | 2026-10-05 | 16 pages, 9 figures |
-| **[HardCore Generation: Generating Hard UNSAT Problems for Data Augmentation](https://arxiv.org/abs/2409.18778v2)** | 2026-10-05 |  |
-| **[Joint Precision Neural Networks: Task-Aware Dependency and Predictive Learning](https://arxiv.org/abs/2610.06023v1)** | 2026-10-05 |  |
-| **[Physics-informed GNN for medium-high voltage AC power flow with edge-aware attention and line search correction operator](https://arxiv.org/abs/2509.22458v3)** | 2026-10-05 | <details><summary>Publi...</summary><p>Published in ICASSP 2026. 5 pages, 2 figures. Code available at https://github.com/Kimchangheon/PIGNN-Attn-LS</p></details> |
-| **[Global Communication or Graph-Specific Memory?](https://arxiv.org/abs/2610.05874v1)** | 2026-10-05 |  |
-| **[Debiasing Message Passing to Mitigate Popularity Bias in GNN-based Collaborative Filtering](https://arxiv.org/abs/2605.11145v2)** | 2026-10-05 |  |
-| **[GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation](https://arxiv.org/abs/2610.05387v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026. 28 pages, 16 figures, 4 tables. Benchmark and leaderboards: https://basiralab.github.io/GNN-CB/</p></details> |
 
